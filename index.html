@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>每日热榜 · AI / 社会 / 热梗</title>
+<meta name="description" content="每天三条主线、每线三条精选：人工智能科技动态、社会热点、网络热梗。">
+<link rel="stylesheet" href="assets/style.css">
+</head>
+<body>
+
+<header class="site-head">
+  <div class="wrap head-inner">
+    <a class="brand" href="./index.html">
+      <span class="brand-mark" aria-hidden="true"></span>
+      <span class="brand-text">
+        <strong>每日热榜</strong>
+        <em>AI · 社会 · 热梗</em>
+      </span>
+    </a>
+
+    <div class="head-right">
+      <div class="head-date">
+        <span id="dateNum" class="date-num">11.13</span>
+        <span id="dateMeta" class="date-meta">2026 周五 · 第 1 期</span>
+      </div>
+      <label class="edition-pick">
+        <span class="sr-only">选择日期</span>
+        <select id="editionSelect"></select>
+      </label>
+    </div>
+  </div>
+</header>
+
+<div class="toolbar">
+  <div class="wrap toolbar-inner">
+    <nav id="filters" class="filters" aria-label="方向筛选"></nav>
+    <div class="toolbar-side">
+      <span id="readStat" class="read-stat">已读 0 / 9</span>
+      <button id="clearRead" class="ghost-btn" type="button">清除</button>
+    </div>
+  </div>
+</div>
+
+<main class="wrap main" id="main">
+  <div id="sections"></div>
+
+  <div id="empty" class="empty" hidden>
+    <p>这一期还没有内容。</p>
+  </div>
+</main>
+
+<footer class="site-foot">
+  <div class="wrap foot-inner">
+    <div class="foot-col">
+      <h4>选题规则</h4>
+      <p>三个方向各 3 条，只留当日仍在推进、且信息源质量高的事件；同一事件若此前已推送且无实质进展，不再重复出现。</p>
+    </div>
+    <div class="foot-col">
+      <h4>来源</h4>
+      <p>网易、新浪、知乎、小红书、澎湃、bilibili、水木社区、36氪等。标「站内话题」的链接指向该平台的搜索结果页，标「深度 / 解读」的为可直接阅读的文章。</p>
+    </div>
+    <div class="foot-col">
+      <h4>更新</h4>
+      <p id="footUpdate">每日 08:00 自动更新。</p>
+    </div>
+  </div>
+  <div class="wrap foot-base">
+    <span>每日热榜 · 本地静态站点</span>
+    <button id="toTop" class="ghost-btn" type="button">回到顶部 ↑</button>
+  </div>
+</footer>
+
+<script src="data.js"></script>
+<script src="assets/app.js"></script>
+</body>
+</html>
