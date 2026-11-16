@@ -1,0 +1,47 @@
+name: 每日新闻更新
+
+# GitHub 的 cron 用 UTC。UTC 00:00 = 北京时间 08:00。
+# 注意：高峰期可能延迟十几分钟到一小时，这是 GitHub 的机制，无法保证准点。
+on:
+  schedule:
+    - cron: "0 0 * * *"
+  workflow_dispatch: # 也可以手动点一下立即跑
+
+permissions:
+  contents: write
+
+concurrency:
+  group: daily-news
+  cancel-in-progress: false
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    steps:
+      - name: 检出仓库
+        uses: actions/checkout@v4
+
+      - name: 准备 Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: 22
+
+      - name: 生成当天一期
+        env:
+          LLM_API_KEY: ${{ secrets.LLM_API_KEY }}
+          LLM_BASE_URL: ${{ vars.LLM_BASE_URL }}
+          LLM_MODEL: ${{ vars.LLM_MODEL }}
+        run: node scripts/update.mjs
+
+      - name: 提交 data.js
+        run: |
+          git config user.name  "daily-news-bot"
+          git config user.email "daily-news-bot@users.noreply.github.com"
+          git add data.js
+          if git diff --staged --quiet; then
+            echo "今天没有新内容，跳过提交"
+          else
+            git commit -m "chore: $(date -u '+%Y-%m-%d') 每日新闻更新"
+            git push
+          fi
