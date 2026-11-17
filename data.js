@@ -48,8 +48,326 @@
    =========================================================== */
 
 window.NEWS_DATA = {
-  "updatedAt": "2026-11-16 03:27",
+  "updatedAt": "2026-11-17 00:58",
   "editions": [
+    {
+      "date": "2026-11-17",
+      "weekday": "周二",
+      "issue": 3,
+      "updatedAt": "2026-11-17 00:58",
+      "mode": "auto",
+      "sections": [
+        {
+          "id": "ai",
+          "name": "人工智能",
+          "desc": "模型迭代、算力格局与产品落地",
+          "items": [
+            {
+              "id": "20261117-ai-1",
+              "title": "智算接棒：物理AI的下一个风口，在于计算基础设施",
+              "desc": "物理AI的热度，正从机器人本体向产业链上下游扩散。 过去一年，人形机器人、四足机器狗频繁出现在工厂、仓库和门店。产业界关心的问题正在变化：从“机器人能完成什么动作”转向“如何让它越做越准”。 答案不只在机器人本体，更在其背后的计算系统：数据。",
+              "take": "",
+              "tags": [
+                "雷锋网"
+              ],
+              "links": [
+                {
+                  "platform": "雷锋网",
+                  "type": "原文",
+                  "kind": "article",
+                  "title": "智算接棒：物理AI的下一个风口，在于计算基础设施",
+                  "url": "https://www.leiphone.com/category/chips/yYPDwzuTBbcMSCSx.html"
+                },
+                {
+                  "platform": "知乎",
+                  "type": "站内话题",
+                  "kind": "topic",
+                  "title": "知乎讨论：智算接棒：物理AI的下一个风口，在于计算",
+                  "url": "https://www.zhihu.com/search?type=content&q=%E6%99%BA%E7%AE%97%E6%8E%A5%E6%A3%92%EF%BC%9A%E7%89%A9%E7%90%86AI%E7%9A%84%E4%B8%8B%E4%B8%80%E4%B8%AA%E9%A3%8E%E5%8F%A3%20%E5%9C%A8%E4%BA%8E%E8%AE%A1%E7%AE%97%E5%9F%BA%E7%A1%80%E8%AE%BE%E6%96%BD"
+                },
+                {
+                  "platform": "小红书",
+                  "type": "站内话题",
+                  "kind": "topic",
+                  "title": "小红书笔记：智算接棒：物理AI的下一个风口，在于计算",
+                  "url": "https://www.xiaohongshu.com/search_result?keyword=%E6%99%BA%E7%AE%97%E6%8E%A5%E6%A3%92%EF%BC%9A%E7%89%A9%E7%90%86AI%E7%9A%84%E4%B8%8B%E4%B8%80%E4%B8%AA%E9%A3%8E%E5%8F%A3%20%E5%9C%A8%E4%BA%8E%E8%AE%A1%E7%AE%97%E5%9F%BA%E7%A1%80%E8%AE%BE%E6%96%BD"
+                }
+              ]
+            },
+            {
+              "id": "20261117-ai-2",
+              "title": "美国加州正式起诉 OpenAI，指控 AI 智能体至少 80 次失控",
+              "desc": "IT之家 11 月 17 日消息，当地时间 11 月 16 日，美国加利福尼亚州正式起诉 OpenAI，指控该公司在开发和测试先进人工智能模型时缺乏必要的安全防护与监控措施，导致 AI 智能体多次失去控制，并对第三方网络发起未经授权的攻击。",
+              "take": "",
+              "tags": [
+                "IT之家"
+              ],
+              "links": [
+                {
+                  "platform": "IT之家",
+                  "type": "原文",
+                  "kind": "article",
+                  "title": "美国加州正式起诉 OpenAI，指控 AI 智能体至少 80 次失控",
+                  "url": "https://www.ithome.com/1/028/028.htm"
+                },
+                {
+                  "platform": "知乎",
+                  "type": "站内话题",
+                  "kind": "topic",
+                  "title": "知乎讨论：美国加州正式起诉 OpenAI，指控 A",
+                  "url": "https://www.zhihu.com/search?type=content&q=%E7%BE%8E%E5%9B%BD%E5%8A%A0%E5%B7%9E%E6%AD%A3%E5%BC%8F%E8%B5%B7%E8%AF%89%20OpenAI%20%E6%8C%87%E6%8E%A7%20AI%20%E6%99%BA%E8%83%BD"
+                },
+                {
+                  "platform": "小红书",
+                  "type": "站内话题",
+                  "kind": "topic",
+                  "title": "小红书笔记：美国加州正式起诉 OpenAI，指控 A",
+                  "url": "https://www.xiaohongshu.com/search_result?keyword=%E7%BE%8E%E5%9B%BD%E5%8A%A0%E5%B7%9E%E6%AD%A3%E5%BC%8F%E8%B5%B7%E8%AF%89%20OpenAI%20%E6%8C%87%E6%8E%A7%20AI%20%E6%99%BA%E8%83%BD"
+                }
+              ]
+            },
+            {
+              "id": "20261117-ai-3",
+              "title": "阿里正式发布Qwen4，智能体及编程能力进阶，迈向真实全场景",
+              "desc": "来自量子位的热点：阿里正式发布Qwen4，智能体及编程能力进阶，迈向真实全场景。",
+              "take": "",
+              "tags": [
+                "量子位"
+              ],
+              "links": [
+                {
+                  "platform": "量子位",
+                  "type": "原文",
+                  "kind": "article",
+                  "title": "阿里正式发布Qwen4，智能体及编程能力进阶，迈向真实全场景",
+                  "url": "https://www.qbitai.com/2026/11/510486.html"
+                },
+                {
+                  "platform": "知乎",
+                  "type": "站内话题",
+                  "kind": "topic",
+                  "title": "知乎讨论：阿里正式发布Qwen4，智能体及编程能力",
+                  "url": "https://www.zhihu.com/search?type=content&q=%E9%98%BF%E9%87%8C%E6%AD%A3%E5%BC%8F%E5%8F%91%E5%B8%83Qwen4%20%E6%99%BA%E8%83%BD%E4%BD%93%E5%8F%8A%E7%BC%96%E7%A8%8B%E8%83%BD%E5%8A%9B%E8%BF%9B%E9%98%B6%20%E8%BF%88"
+                },
+                {
+                  "platform": "小红书",
+                  "type": "站内话题",
+                  "kind": "topic",
+                  "title": "小红书笔记：阿里正式发布Qwen4，智能体及编程能力",
+                  "url": "https://www.xiaohongshu.com/search_result?keyword=%E9%98%BF%E9%87%8C%E6%AD%A3%E5%BC%8F%E5%8F%91%E5%B8%83Qwen4%20%E6%99%BA%E8%83%BD%E4%BD%93%E5%8F%8A%E7%BC%96%E7%A8%8B%E8%83%BD%E5%8A%9B%E8%BF%9B%E9%98%B6%20%E8%BF%88"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "social",
+          "name": "社会热点",
+          "desc": "当日讨论量最高、且仍有后续的公共事件",
+          "items": [
+            {
+              "id": "20261117-social-1",
+              "title": "俄美运输机已率先抵达深圳",
+              "desc": "来自百度热搜的热点：俄美运输机已率先抵达深圳。",
+              "take": "",
+              "tags": [
+                "百度热搜"
+              ],
+              "links": [
+                {
+                  "platform": "百度热搜",
+                  "type": "原文",
+                  "kind": "article",
+                  "title": "俄美运输机已率先抵达深圳",
+                  "url": "https://m.baidu.com/s?word=%E4%BF%84%E7%BE%8E%E8%BF%90%E8%BE%93%E6%9C%BA%E5%B7%B2%E7%8E%87%E5%85%88%E6%8A%B5%E8%BE%BE%E6%B7%B1%E5%9C%B3&sa=fyb_news"
+                },
+                {
+                  "platform": "知乎",
+                  "type": "站内话题",
+                  "kind": "topic",
+                  "title": "知乎讨论：俄美运输机已率先抵达深圳",
+                  "url": "https://www.zhihu.com/search?type=content&q=%E4%BF%84%E7%BE%8E%E8%BF%90%E8%BE%93%E6%9C%BA%E5%B7%B2%E7%8E%87%E5%85%88%E6%8A%B5%E8%BE%BE%E6%B7%B1%E5%9C%B3"
+                },
+                {
+                  "platform": "小红书",
+                  "type": "站内话题",
+                  "kind": "topic",
+                  "title": "小红书笔记：俄美运输机已率先抵达深圳",
+                  "url": "https://www.xiaohongshu.com/search_result?keyword=%E4%BF%84%E7%BE%8E%E8%BF%90%E8%BE%93%E6%9C%BA%E5%B7%B2%E7%8E%87%E5%85%88%E6%8A%B5%E8%BE%BE%E6%B7%B1%E5%9C%B3"
+                }
+              ]
+            },
+            {
+              "id": "20261117-social-2",
+              "title": "APEC离我们的生活有多远",
+              "desc": "来自百度热搜的热点：APEC离我们的生活有多远。",
+              "take": "",
+              "tags": [
+                "百度热搜"
+              ],
+              "links": [
+                {
+                  "platform": "百度热搜",
+                  "type": "原文",
+                  "kind": "article",
+                  "title": "APEC离我们的生活有多远",
+                  "url": "https://m.baidu.com/s?word=APEC%E7%A6%BB%E6%88%91%E4%BB%AC%E7%9A%84%E7%94%9F%E6%B4%BB%E6%9C%89%E5%A4%9A%E8%BF%9C&sa=fyb_news"
+                },
+                {
+                  "platform": "知乎",
+                  "type": "站内话题",
+                  "kind": "topic",
+                  "title": "知乎讨论：APEC离我们的生活有多远",
+                  "url": "https://www.zhihu.com/search?type=content&q=APEC%E7%A6%BB%E6%88%91%E4%BB%AC%E7%9A%84%E7%94%9F%E6%B4%BB%E6%9C%89%E5%A4%9A%E8%BF%9C"
+                },
+                {
+                  "platform": "小红书",
+                  "type": "站内话题",
+                  "kind": "topic",
+                  "title": "小红书笔记：APEC离我们的生活有多远",
+                  "url": "https://www.xiaohongshu.com/search_result?keyword=APEC%E7%A6%BB%E6%88%91%E4%BB%AC%E7%9A%84%E7%94%9F%E6%B4%BB%E6%9C%89%E5%A4%9A%E8%BF%9C"
+                }
+              ]
+            },
+            {
+              "id": "20261117-social-3",
+              "title": "华强北档口老板娘集齐APEC经济体签名",
+              "desc": "来自百度热搜的热点：华强北档口老板娘集齐APEC经济体签名。",
+              "take": "",
+              "tags": [
+                "百度热搜"
+              ],
+              "links": [
+                {
+                  "platform": "百度热搜",
+                  "type": "原文",
+                  "kind": "article",
+                  "title": "华强北档口老板娘集齐APEC经济体签名",
+                  "url": "https://m.baidu.com/s?word=%E5%8D%8E%E5%BC%BA%E5%8C%97%E6%A1%A3%E5%8F%A3%E8%80%81%E6%9D%BF%E5%A8%98%E9%9B%86%E9%BD%90APEC%E7%BB%8F%E6%B5%8E%E4%BD%93%E7%AD%BE%E5%90%8D&sa=fyb_news"
+                },
+                {
+                  "platform": "知乎",
+                  "type": "站内话题",
+                  "kind": "topic",
+                  "title": "知乎讨论：华强北档口老板娘集齐APEC经济体签名",
+                  "url": "https://www.zhihu.com/search?type=content&q=%E5%8D%8E%E5%BC%BA%E5%8C%97%E6%A1%A3%E5%8F%A3%E8%80%81%E6%9D%BF%E5%A8%98%E9%9B%86%E9%BD%90APEC%E7%BB%8F%E6%B5%8E%E4%BD%93%E7%AD%BE%E5%90%8D"
+                },
+                {
+                  "platform": "小红书",
+                  "type": "站内话题",
+                  "kind": "topic",
+                  "title": "小红书笔记：华强北档口老板娘集齐APEC经济体签名",
+                  "url": "https://www.xiaohongshu.com/search_result?keyword=%E5%8D%8E%E5%BC%BA%E5%8C%97%E6%A1%A3%E5%8F%A3%E8%80%81%E6%9D%BF%E5%A8%98%E9%9B%86%E9%BD%90APEC%E7%BB%8F%E6%B5%8E%E4%BD%93%E7%AD%BE%E5%90%8D"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "meme",
+          "name": "网络热梗",
+          "desc": "正在刷屏的句式、梗图与自嘲标签",
+          "items": [
+            {
+              "id": "20261117-meme-1",
+              "title": "AI火了柴油发电机卖爆 订单排到明年",
+              "desc": "来自百度热搜的热点：AI火了柴油发电机卖爆 订单排到明年。",
+              "take": "",
+              "tags": [
+                "百度热搜"
+              ],
+              "links": [
+                {
+                  "platform": "百度热搜",
+                  "type": "原文",
+                  "kind": "article",
+                  "title": "AI火了柴油发电机卖爆 订单排到明年",
+                  "url": "https://m.baidu.com/s?word=AI%E7%81%AB%E4%BA%86%E6%9F%B4%E6%B2%B9%E5%8F%91%E7%94%B5%E6%9C%BA%E5%8D%96%E7%88%86+%E8%AE%A2%E5%8D%95%E6%8E%92%E5%88%B0%E6%98%8E%E5%B9%B4&sa=fyb_news"
+                },
+                {
+                  "platform": "知乎",
+                  "type": "站内话题",
+                  "kind": "topic",
+                  "title": "知乎讨论：AI火了柴油发电机卖爆 订单排到明年",
+                  "url": "https://www.zhihu.com/search?type=content&q=AI%E7%81%AB%E4%BA%86%E6%9F%B4%E6%B2%B9%E5%8F%91%E7%94%B5%E6%9C%BA%E5%8D%96%E7%88%86%20%E8%AE%A2%E5%8D%95%E6%8E%92%E5%88%B0%E6%98%8E%E5%B9%B4"
+                },
+                {
+                  "platform": "小红书",
+                  "type": "站内话题",
+                  "kind": "topic",
+                  "title": "小红书笔记：AI火了柴油发电机卖爆 订单排到明年",
+                  "url": "https://www.xiaohongshu.com/search_result?keyword=AI%E7%81%AB%E4%BA%86%E6%9F%B4%E6%B2%B9%E5%8F%91%E7%94%B5%E6%9C%BA%E5%8D%96%E7%88%86%20%E8%AE%A2%E5%8D%95%E6%8E%92%E5%88%B0%E6%98%8E%E5%B9%B4"
+                }
+              ]
+            },
+            {
+              "id": "20261117-meme-2",
+              "title": "如何看待清华特等奖学金答辩中，候选人被问「为什么三年绩点越来越低」？大学生的优秀到底应该如何",
+              "desc": "[2 张图片]。",
+              "take": "",
+              "tags": [
+                "知乎热榜"
+              ],
+              "links": [
+                {
+                  "platform": "知乎热榜",
+                  "type": "原文",
+                  "kind": "article",
+                  "title": "如何看待清华特等奖学金答辩中，候选人被问「为什么三年绩点越来越低」？大学生的优秀",
+                  "url": "https://www.zhihu.com/question/2105681388028393000"
+                },
+                {
+                  "platform": "知乎",
+                  "type": "站内话题",
+                  "kind": "topic",
+                  "title": "知乎讨论：如何看待清华特等奖学金答辩中，候选人被问",
+                  "url": "https://www.zhihu.com/search?type=content&q=%E5%A6%82%E4%BD%95%E7%9C%8B%E5%BE%85%E6%B8%85%E5%8D%8E%E7%89%B9%E7%AD%89%E5%A5%96%E5%AD%A6%E9%87%91%E7%AD%94%E8%BE%A9%E4%B8%AD%20%E5%80%99%E9%80%89%E4%BA%BA%E8%A2%AB%E9%97%AE%E3%80%8C%E4%B8%BA%E4%BB%80%E4%B9%88"
+                },
+                {
+                  "platform": "小红书",
+                  "type": "站内话题",
+                  "kind": "topic",
+                  "title": "小红书笔记：如何看待清华特等奖学金答辩中，候选人被问",
+                  "url": "https://www.xiaohongshu.com/search_result?keyword=%E5%A6%82%E4%BD%95%E7%9C%8B%E5%BE%85%E6%B8%85%E5%8D%8E%E7%89%B9%E7%AD%89%E5%A5%96%E5%AD%A6%E9%87%91%E7%AD%94%E8%BE%A9%E4%B8%AD%20%E5%80%99%E9%80%89%E4%BA%BA%E8%A2%AB%E9%97%AE%E3%80%8C%E4%B8%BA%E4%BB%80%E4%B9%88"
+                }
+              ]
+            },
+            {
+              "id": "20261117-meme-3",
+              "title": "中俄美三国元首历史首次面对面会晤",
+              "desc": "来自百度热搜的热点：中俄美三国元首历史首次面对面会晤。",
+              "take": "",
+              "tags": [
+                "百度热搜"
+              ],
+              "links": [
+                {
+                  "platform": "百度热搜",
+                  "type": "原文",
+                  "kind": "article",
+                  "title": "中俄美三国元首历史首次面对面会晤",
+                  "url": "https://m.baidu.com/s?word=%E4%B8%AD%E4%BF%84%E7%BE%8E%E4%B8%89%E5%9B%BD%E5%85%83%E9%A6%96%E5%8E%86%E5%8F%B2%E9%A6%96%E6%AC%A1%E9%9D%A2%E5%AF%B9%E9%9D%A2%E4%BC%9A%E6%99%A4&sa=fyb_news"
+                },
+                {
+                  "platform": "知乎",
+                  "type": "站内话题",
+                  "kind": "topic",
+                  "title": "知乎讨论：中俄美三国元首历史首次面对面会晤",
+                  "url": "https://www.zhihu.com/search?type=content&q=%E4%B8%AD%E4%BF%84%E7%BE%8E%E4%B8%89%E5%9B%BD%E5%85%83%E9%A6%96%E5%8E%86%E5%8F%B2%E9%A6%96%E6%AC%A1%E9%9D%A2%E5%AF%B9%E9%9D%A2%E4%BC%9A%E6%99%A4"
+                },
+                {
+                  "platform": "小红书",
+                  "type": "站内话题",
+                  "kind": "topic",
+                  "title": "小红书笔记：中俄美三国元首历史首次面对面会晤",
+                  "url": "https://www.xiaohongshu.com/search_result?keyword=%E4%B8%AD%E4%BF%84%E7%BE%8E%E4%B8%89%E5%9B%BD%E5%85%83%E9%A6%96%E5%8E%86%E5%8F%B2%E9%A6%96%E6%AC%A1%E9%9D%A2%E5%AF%B9%E9%9D%A2%E4%BC%9A%E6%99%A4"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
     {
       "date": "2026-11-16",
       "weekday": "周一",
