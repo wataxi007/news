@@ -48,8 +48,326 @@
    =========================================================== */
 
 window.NEWS_DATA = {
-  "updatedAt": "2026-11-17 00:58",
+  "updatedAt": "2026-11-18 01:06",
   "editions": [
+    {
+      "date": "2026-11-18",
+      "weekday": "周三",
+      "issue": 4,
+      "updatedAt": "2026-11-18 01:06",
+      "mode": "auto",
+      "sections": [
+        {
+          "id": "ai",
+          "name": "人工智能",
+          "desc": "模型迭代、算力格局与产品落地",
+          "items": [
+            {
+              "id": "20261118-ai-1",
+              "title": "微软自研芯片 Maia 200 投入生产：每瓦 token 性能提升 1.7 倍",
+              "desc": "IT之家 11 月 18 日消息，昨日（11 月 17 日）召开的 Ignite 2026 活动中，微软宣布旗下第二代自研人工智能加速器 Maia 200 现已正式投入规模化生产， 并开始在数据中心运行微软最大规模的前沿 AI 大模型。 与。",
+              "take": "",
+              "tags": [
+                "IT之家"
+              ],
+              "links": [
+                {
+                  "platform": "IT之家",
+                  "type": "原文",
+                  "kind": "article",
+                  "title": "微软自研芯片 Maia 200 投入生产：每瓦 token 性能提升 1.7 倍",
+                  "url": "https://www.ithome.com/1/028/597.htm"
+                },
+                {
+                  "platform": "知乎",
+                  "type": "站内话题",
+                  "kind": "topic",
+                  "title": "知乎讨论：微软自研芯片 Maia 200 投入生产",
+                  "url": "https://www.zhihu.com/search?type=content&q=%E5%BE%AE%E8%BD%AF%E8%87%AA%E7%A0%94%E8%8A%AF%E7%89%87%20Maia%20200%20%E6%8A%95%E5%85%A5%E7%94%9F%E4%BA%A7%EF%BC%9A%E6%AF%8F%E7%93%A6%20"
+                },
+                {
+                  "platform": "小红书",
+                  "type": "站内话题",
+                  "kind": "topic",
+                  "title": "小红书笔记：微软自研芯片 Maia 200 投入生产",
+                  "url": "https://www.xiaohongshu.com/search_result?keyword=%E5%BE%AE%E8%BD%AF%E8%87%AA%E7%A0%94%E8%8A%AF%E7%89%87%20Maia%20200%20%E6%8A%95%E5%85%A5%E7%94%9F%E4%BA%A7%EF%BC%9A%E6%AF%8F%E7%93%A6%20"
+                }
+              ]
+            },
+            {
+              "id": "20261118-ai-2",
+              "title": "独家丨腾讯优图实验室研究总监孙星离职",
+              "desc": "雷峰网独家消息，腾讯优图实验室研究总监、专家研究员孙星已离职。 据公开资源显示，孙星本科毕业于南京理工大学，博士毕业于香港大学工程学院。2016年加入腾讯优图实验室。 早期，他主要深耕医疗影像 AI，参与了肺癌识别和糖尿病视网膜病变筛查研究。",
+              "take": "",
+              "tags": [
+                "雷锋网"
+              ],
+              "links": [
+                {
+                  "platform": "雷锋网",
+                  "type": "原文",
+                  "kind": "article",
+                  "title": "独家丨腾讯优图实验室研究总监孙星离职",
+                  "url": "https://www.leiphone.com/category/CorporateServices/ndF7IsEHBffZkbzy.html"
+                },
+                {
+                  "platform": "知乎",
+                  "type": "站内话题",
+                  "kind": "topic",
+                  "title": "知乎讨论：独家丨腾讯优图实验室研究总监孙星离职",
+                  "url": "https://www.zhihu.com/search?type=content&q=%E7%8B%AC%E5%AE%B6%E4%B8%A8%E8%85%BE%E8%AE%AF%E4%BC%98%E5%9B%BE%E5%AE%9E%E9%AA%8C%E5%AE%A4%E7%A0%94%E7%A9%B6%E6%80%BB%E7%9B%91%E5%AD%99%E6%98%9F%E7%A6%BB%E8%81%8C"
+                },
+                {
+                  "platform": "小红书",
+                  "type": "站内话题",
+                  "kind": "topic",
+                  "title": "小红书笔记：独家丨腾讯优图实验室研究总监孙星离职",
+                  "url": "https://www.xiaohongshu.com/search_result?keyword=%E7%8B%AC%E5%AE%B6%E4%B8%A8%E8%85%BE%E8%AE%AF%E4%BC%98%E5%9B%BE%E5%AE%9E%E9%AA%8C%E5%AE%A4%E7%A0%94%E7%A9%B6%E6%80%BB%E7%9B%91%E5%AD%99%E6%98%9F%E7%A6%BB%E8%81%8C"
+                }
+              ]
+            },
+            {
+              "id": "20261118-ai-3",
+              "title": "材料科学智能体MatOS正式开源！大幅提高材料研发任务成功率",
+              "desc": "来自量子位的热点：材料科学智能体MatOS正式开源！大幅提高材料研发任务成功率。",
+              "take": "",
+              "tags": [
+                "量子位"
+              ],
+              "links": [
+                {
+                  "platform": "量子位",
+                  "type": "原文",
+                  "kind": "article",
+                  "title": "材料科学智能体MatOS正式开源！大幅提高材料研发任务成功率",
+                  "url": "https://www.qbitai.com/2026/11/510652.html"
+                },
+                {
+                  "platform": "知乎",
+                  "type": "站内话题",
+                  "kind": "topic",
+                  "title": "知乎讨论：材料科学智能体MatOS正式开源！大幅提",
+                  "url": "https://www.zhihu.com/search?type=content&q=%E6%9D%90%E6%96%99%E7%A7%91%E5%AD%A6%E6%99%BA%E8%83%BD%E4%BD%93MatOS%E6%AD%A3%E5%BC%8F%E5%BC%80%E6%BA%90%20%E5%A4%A7%E5%B9%85%E6%8F%90%E9%AB%98%E6%9D%90%E6%96%99%E7%A0%94"
+                },
+                {
+                  "platform": "小红书",
+                  "type": "站内话题",
+                  "kind": "topic",
+                  "title": "小红书笔记：材料科学智能体MatOS正式开源！大幅提",
+                  "url": "https://www.xiaohongshu.com/search_result?keyword=%E6%9D%90%E6%96%99%E7%A7%91%E5%AD%A6%E6%99%BA%E8%83%BD%E4%BD%93MatOS%E6%AD%A3%E5%BC%8F%E5%BC%80%E6%BA%90%20%E5%A4%A7%E5%B9%85%E6%8F%90%E9%AB%98%E6%9D%90%E6%96%99%E7%A0%94"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "social",
+          "name": "社会热点",
+          "desc": "当日讨论量最高、且仍有后续的公共事件",
+          "items": [
+            {
+              "id": "20261118-social-1",
+              "title": "凌晨接机 “中国排面”依旧整齐划一",
+              "desc": "来自百度热搜的热点：凌晨接机 “中国排面”依旧整齐划一。",
+              "take": "",
+              "tags": [
+                "百度热搜"
+              ],
+              "links": [
+                {
+                  "platform": "百度热搜",
+                  "type": "原文",
+                  "kind": "article",
+                  "title": "凌晨接机 “中国排面”依旧整齐划一",
+                  "url": "https://m.baidu.com/s?word=%E5%87%8C%E6%99%A8%E6%8E%A5%E6%9C%BA+%E2%80%9C%E4%B8%AD%E5%9B%BD%E6%8E%92%E9%9D%A2%E2%80%9D%E4%BE%9D%E6%97%A7%E6%95%B4%E9%BD%90%E5%88%92%E4%B8%80&sa=fyb_news"
+                },
+                {
+                  "platform": "知乎",
+                  "type": "站内话题",
+                  "kind": "topic",
+                  "title": "知乎讨论：凌晨接机 “中国排面”依旧整齐划一",
+                  "url": "https://www.zhihu.com/search?type=content&q=%E5%87%8C%E6%99%A8%E6%8E%A5%E6%9C%BA%20%E2%80%9C%E4%B8%AD%E5%9B%BD%E6%8E%92%E9%9D%A2%E2%80%9D%E4%BE%9D%E6%97%A7%E6%95%B4%E9%BD%90%E5%88%92%E4%B8%80"
+                },
+                {
+                  "platform": "小红书",
+                  "type": "站内话题",
+                  "kind": "topic",
+                  "title": "小红书笔记：凌晨接机 “中国排面”依旧整齐划一",
+                  "url": "https://www.xiaohongshu.com/search_result?keyword=%E5%87%8C%E6%99%A8%E6%8E%A5%E6%9C%BA%20%E2%80%9C%E4%B8%AD%E5%9B%BD%E6%8E%92%E9%9D%A2%E2%80%9D%E4%BE%9D%E6%97%A7%E6%95%B4%E9%BD%90%E5%88%92%E4%B8%80"
+                }
+              ]
+            },
+            {
+              "id": "20261118-social-2",
+              "title": "APEC工商领导人峰会聚焦哪些议题",
+              "desc": "来自百度热搜的热点：APEC工商领导人峰会聚焦哪些议题。",
+              "take": "",
+              "tags": [
+                "百度热搜"
+              ],
+              "links": [
+                {
+                  "platform": "百度热搜",
+                  "type": "原文",
+                  "kind": "article",
+                  "title": "APEC工商领导人峰会聚焦哪些议题",
+                  "url": "https://m.baidu.com/s?word=APEC%E5%B7%A5%E5%95%86%E9%A2%86%E5%AF%BC%E4%BA%BA%E5%B3%B0%E4%BC%9A%E8%81%9A%E7%84%A6%E5%93%AA%E4%BA%9B%E8%AE%AE%E9%A2%98&sa=fyb_news"
+                },
+                {
+                  "platform": "知乎",
+                  "type": "站内话题",
+                  "kind": "topic",
+                  "title": "知乎讨论：APEC工商领导人峰会聚焦哪些议题",
+                  "url": "https://www.zhihu.com/search?type=content&q=APEC%E5%B7%A5%E5%95%86%E9%A2%86%E5%AF%BC%E4%BA%BA%E5%B3%B0%E4%BC%9A%E8%81%9A%E7%84%A6%E5%93%AA%E4%BA%9B%E8%AE%AE%E9%A2%98"
+                },
+                {
+                  "platform": "小红书",
+                  "type": "站内话题",
+                  "kind": "topic",
+                  "title": "小红书笔记：APEC工商领导人峰会聚焦哪些议题",
+                  "url": "https://www.xiaohongshu.com/search_result?keyword=APEC%E5%B7%A5%E5%95%86%E9%A2%86%E5%AF%BC%E4%BA%BA%E5%B3%B0%E4%BC%9A%E8%81%9A%E7%84%A6%E5%93%AA%E4%BA%9B%E8%AE%AE%E9%A2%98"
+                }
+              ]
+            },
+            {
+              "id": "20261118-social-3",
+              "title": "文莱领导人特意和中方保卫人员握手",
+              "desc": "来自百度热搜的热点：文莱领导人特意和中方保卫人员握手。",
+              "take": "",
+              "tags": [
+                "百度热搜"
+              ],
+              "links": [
+                {
+                  "platform": "百度热搜",
+                  "type": "原文",
+                  "kind": "article",
+                  "title": "文莱领导人特意和中方保卫人员握手",
+                  "url": "https://m.baidu.com/s?word=%E6%96%87%E8%8E%B1%E9%A2%86%E5%AF%BC%E4%BA%BA%E7%89%B9%E6%84%8F%E5%92%8C%E4%B8%AD%E6%96%B9%E4%BF%9D%E5%8D%AB%E4%BA%BA%E5%91%98%E6%8F%A1%E6%89%8B&sa=fyb_news"
+                },
+                {
+                  "platform": "知乎",
+                  "type": "站内话题",
+                  "kind": "topic",
+                  "title": "知乎讨论：文莱领导人特意和中方保卫人员握手",
+                  "url": "https://www.zhihu.com/search?type=content&q=%E6%96%87%E8%8E%B1%E9%A2%86%E5%AF%BC%E4%BA%BA%E7%89%B9%E6%84%8F%E5%92%8C%E4%B8%AD%E6%96%B9%E4%BF%9D%E5%8D%AB%E4%BA%BA%E5%91%98%E6%8F%A1%E6%89%8B"
+                },
+                {
+                  "platform": "小红书",
+                  "type": "站内话题",
+                  "kind": "topic",
+                  "title": "小红书笔记：文莱领导人特意和中方保卫人员握手",
+                  "url": "https://www.xiaohongshu.com/search_result?keyword=%E6%96%87%E8%8E%B1%E9%A2%86%E5%AF%BC%E4%BA%BA%E7%89%B9%E6%84%8F%E5%92%8C%E4%B8%AD%E6%96%B9%E4%BF%9D%E5%8D%AB%E4%BA%BA%E5%91%98%E6%8F%A1%E6%89%8B"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "meme",
+          "name": "网络热梗",
+          "desc": "正在刷屏的句式、梗图与自嘲标签",
+          "items": [
+            {
+              "id": "20261118-meme-1",
+              "title": "CNN披露“爆炸性”新闻！评论区亮了",
+              "desc": "来自百度热搜的热点：CNN披露“爆炸性”新闻！评论区亮了。",
+              "take": "",
+              "tags": [
+                "百度热搜"
+              ],
+              "links": [
+                {
+                  "platform": "百度热搜",
+                  "type": "原文",
+                  "kind": "article",
+                  "title": "CNN披露“爆炸性”新闻！评论区亮了",
+                  "url": "https://m.baidu.com/s?word=CNN%E6%8A%AB%E9%9C%B2%E2%80%9C%E7%88%86%E7%82%B8%E6%80%A7%E2%80%9D%E6%96%B0%E9%97%BB%EF%BC%81%E8%AF%84%E8%AE%BA%E5%8C%BA%E4%BA%AE%E4%BA%86&sa=fyb_news"
+                },
+                {
+                  "platform": "知乎",
+                  "type": "站内话题",
+                  "kind": "topic",
+                  "title": "知乎讨论：CNN披露“爆炸性”新闻！评论区亮了",
+                  "url": "https://www.zhihu.com/search?type=content&q=CNN%E6%8A%AB%E9%9C%B2%E2%80%9C%E7%88%86%E7%82%B8%E6%80%A7%E2%80%9D%E6%96%B0%E9%97%BB%20%E8%AF%84%E8%AE%BA%E5%8C%BA%E4%BA%AE%E4%BA%86"
+                },
+                {
+                  "platform": "小红书",
+                  "type": "站内话题",
+                  "kind": "topic",
+                  "title": "小红书笔记：CNN披露“爆炸性”新闻！评论区亮了",
+                  "url": "https://www.xiaohongshu.com/search_result?keyword=CNN%E6%8A%AB%E9%9C%B2%E2%80%9C%E7%88%86%E7%82%B8%E6%80%A7%E2%80%9D%E6%96%B0%E9%97%BB%20%E8%AF%84%E8%AE%BA%E5%8C%BA%E4%BA%AE%E4%BA%86"
+                }
+              ]
+            },
+            {
+              "id": "20261118-meme-2",
+              "title": "近半米高的超长奶茶火了",
+              "desc": "来自百度热搜的热点：近半米高的超长奶茶火了。",
+              "take": "",
+              "tags": [
+                "百度热搜"
+              ],
+              "links": [
+                {
+                  "platform": "百度热搜",
+                  "type": "原文",
+                  "kind": "article",
+                  "title": "近半米高的超长奶茶火了",
+                  "url": "https://m.baidu.com/s?word=%E8%BF%91%E5%8D%8A%E7%B1%B3%E9%AB%98%E7%9A%84%E8%B6%85%E9%95%BF%E5%A5%B6%E8%8C%B6%E7%81%AB%E4%BA%86&sa=fyb_news"
+                },
+                {
+                  "platform": "知乎",
+                  "type": "站内话题",
+                  "kind": "topic",
+                  "title": "知乎讨论：近半米高的超长奶茶火了",
+                  "url": "https://www.zhihu.com/search?type=content&q=%E8%BF%91%E5%8D%8A%E7%B1%B3%E9%AB%98%E7%9A%84%E8%B6%85%E9%95%BF%E5%A5%B6%E8%8C%B6%E7%81%AB%E4%BA%86"
+                },
+                {
+                  "platform": "小红书",
+                  "type": "站内话题",
+                  "kind": "topic",
+                  "title": "小红书笔记：近半米高的超长奶茶火了",
+                  "url": "https://www.xiaohongshu.com/search_result?keyword=%E8%BF%91%E5%8D%8A%E7%B1%B3%E9%AB%98%E7%9A%84%E8%B6%85%E9%95%BF%E5%A5%B6%E8%8C%B6%E7%81%AB%E4%BA%86"
+                }
+              ]
+            },
+            {
+              "id": "20261118-meme-3",
+              "title": "雷军APEC发言称过去几年挣到钱的 AI 公司很少，认为具身智能产业想象力将超汽车产业，对此",
+              "desc": "2026年APEC工商领导人峰会11月17日至18日在深圳举办，主题为“共促繁荣，共赢未来”。小米集团创始人、董事长兼首席执行官雷军表示，过去四年，AI大模型技术突飞猛进，给我们的生活和工作带来了巨大的变化。但AI能够落地的场景非常有限，能。",
+              "take": "",
+              "tags": [
+                "知乎热榜"
+              ],
+              "links": [
+                {
+                  "platform": "知乎热榜",
+                  "type": "原文",
+                  "kind": "article",
+                  "title": "雷军APEC发言称过去几年挣到钱的 AI 公司很少，认为具身智能产业想象力将超汽",
+                  "url": "https://www.zhihu.com/question/2106085808956560100"
+                },
+                {
+                  "platform": "知乎",
+                  "type": "站内话题",
+                  "kind": "topic",
+                  "title": "知乎讨论：雷军APEC发言称过去几年挣到钱的 AI",
+                  "url": "https://www.zhihu.com/search?type=content&q=%E9%9B%B7%E5%86%9BAPEC%E5%8F%91%E8%A8%80%E7%A7%B0%E8%BF%87%E5%8E%BB%E5%87%A0%E5%B9%B4%E6%8C%A3%E5%88%B0%E9%92%B1%E7%9A%84%20AI%20%E5%85%AC%E5%8F%B8%E5%BE%88"
+                },
+                {
+                  "platform": "小红书",
+                  "type": "站内话题",
+                  "kind": "topic",
+                  "title": "小红书笔记：雷军APEC发言称过去几年挣到钱的 AI",
+                  "url": "https://www.xiaohongshu.com/search_result?keyword=%E9%9B%B7%E5%86%9BAPEC%E5%8F%91%E8%A8%80%E7%A7%B0%E8%BF%87%E5%8E%BB%E5%87%A0%E5%B9%B4%E6%8C%A3%E5%88%B0%E9%92%B1%E7%9A%84%20AI%20%E5%85%AC%E5%8F%B8%E5%BE%88"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
     {
       "date": "2026-11-17",
       "weekday": "周二",
