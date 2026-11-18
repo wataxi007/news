@@ -17,6 +17,7 @@
 import { readFile, writeFile } from "node:fs/promises";
 import { fileURLToPath } from "node:url";
 import { dirname, resolve } from "node:path";
+import { CURATED_EDU, CURATED_HOUSE } from "./curated.mjs";
 
 const __dirname = dirname(fileURLToPath(import.meta.url));
 const DATA_FILE = process.env.DATA_FILE || resolve(__dirname, "../data.js");
@@ -386,6 +387,43 @@ function ruleBased(candidates, history) {
 }
 
 /* ------------------------------------------------------------------ */
+/* 固定方向内容池轮换（教育规划 / 安家置业）                            */
+/* ------------------------------------------------------------------ */
+
+/**
+ * 从内容池中选 n 条：优先挑「从未出现过」的，其次挑「最久未出现」的；
+ * seed 用期数，保证同分条目按顺序轮换。全部轮完一轮后自然循环。
+ */
+function pickCurated(pool, historyEntries, n, seed = 0) {
+  const lastSeen = (entry) => {
+    let best = -1;
+    for (const h of historyEntries) {
+      if (similar(h.title, entry.title)) {
+        if (best < 0 || h.ed < best) best = h.ed;
+      }
+    }
+    return best; // -1 = 从未出现过；0 = 上一期刚出现过
+  };
+
+  const rotated = pool.map((entry, i) => ({ entry, order: (i + seed) % pool.length }));
+  const scored = rotated
+    .map(({ entry, order }) => ({ entry, order, seen: lastSeen(entry) }))
+    .sort((a, b) => {
+      const ka = a.seen === -1 ? Infinity : a.seen;
+      const kb = b.seen === -1 ? Infinity : b.seen;
+      return kb - ka || a.order - b.order; // 未出现的最优先；都出现过则越久远越优先
+    });
+
+  const out = [];
+  for (const { entry } of scored) {
+    if (out.length >= n) break;
+    if (out.some((o) => similar(o.title, entry.title))) continue;
+    out.push(entry);
+  }
+  return out;
+}
+
+/* ------------------------------------------------------------------ */
 /* 写回 data.js                                                        */
 /* ------------------------------------------------------------------ */
 
@@ -411,13 +449,14 @@ async function main() {
     return;
   }
 
-  // 历史标题（用于去重）
-  const history = [];
-  for (const ed of store.editions || []) {
+  // 历史标题（用于去重）；带期数下标，0 = 最新一期
+  const historyEntries = [];
+  for (const [edIdx, ed] of (store.editions || []).entries()) {
     for (const sec of ed.sections || []) {
-      for (const it of sec.items || []) history.push(it.title);
+      for (const it of sec.items || []) historyEntries.push({ title: it.title, ed: edIdx });
     }
   }
+  const history = historyEntries.map((h) => h.title);
 
   console.log("抓取信息源…");
   const candidates = (await gather()).filter((c) => c.title && c.url);
@@ -444,12 +483,31 @@ async function main() {
   const META = {
     ai: { name: "人工智能", desc: "模型迭代、算力格局与产品落地" },
     social: { name: "社会热点", desc: "当日讨论量最高、且仍有后续的公共事件" },
-    meme: { name: "网络热梗", desc: "正在刷屏的句式、梗图与自嘲标签" }
+    meme: { name: "网络热梗", desc: "正在刷屏的句式、梗图与自嘲标签" },
+    edu: { name: "教育规划", desc: "北京西城升学路径与政策解读 · 以当年官方发布为准" },
+    house: { name: "安家置业", desc: "五路通周边改善盘档案与购房要点 · 仅供参考，不构成任何购房建议" }
   };
 
-  const sections = ["ai", "social", "meme"].map((id) => {
-    const found = (result.sections || []).find((s) => s.id === id) || { items: [] };
+  const CURATED = { edu: CURATED_EDU, house: CURATED_HOUSE };
+  const prevIssue = store.editions?.[0]?.issue || 0;
+
+  const sections = ["ai", "social", "meme", "edu", "house"].map((id) => {
+    const isCurated = Boolean(CURATED[id]);
+    const found = isCurated
+      ? { items: pickCurated(CURATED[id], historyEntries, 3, prevIssue) }
+      : (result.sections || []).find((s) => s.id === id) || { items: [] };
+
     const items = (found.items || []).slice(0, 3).map((it, idx) => {
+      if (isCurated) {
+        return {
+          id: `${dateStr.replace(/-/g, "")}-${id}-${idx + 1}`,
+          title: String(it.title || "").slice(0, 60),
+          desc: String(it.desc || ""),
+          take: String(it.take || ""),
+          tags: Array.isArray(it.tags) ? it.tags.slice(0, 3) : [META[id].name],
+          links: (Array.isArray(it.links) ? it.links : []).slice(0, 3)
+        };
+      }
       const src = Number.isInteger(it.sourceIndex) ? candidates[it.sourceIndex] : null;
       let links = [];
       if (src) {
@@ -471,7 +529,6 @@ async function main() {
   const total = sections.reduce((n, s) => n + s.items.length, 0);
   if (total < 6) throw new Error(`只选出了 ${total} 条，太少，本次不写入`);
 
-  const prevIssue = store.editions?.[0]?.issue || 0;
   const edition = {
     date: dateStr,
     weekday: WEEKDAYS[now.getDay()],
