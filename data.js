@@ -48,8 +48,489 @@
    =========================================================== */
 
 window.NEWS_DATA = {
-  "updatedAt": "2026-11-18 01:06",
+  "updatedAt": "2026-11-19 01:04",
   "editions": [
+    {
+      "date": "2026-11-19",
+      "weekday": "周四",
+      "issue": 5,
+      "updatedAt": "2026-11-19 01:04",
+      "mode": "auto",
+      "sections": [
+        {
+          "id": "ai",
+          "name": "人工智能",
+          "desc": "模型迭代、算力格局与产品落地",
+          "items": [
+            {
+              "id": "20261119-ai-1",
+              "title": "谷歌推出 Gemini 4 Neon 模型，编程 AI 智能体指数超 Claude Opus",
+              "desc": "IT之家 11 月 19 日消息，谷歌今天（11 月 18 日）宣布推出 AI 模型 Gemini 4 Neon， 主攻复杂编程、科学研究和企业工作流程，更好平衡推理能力、任务处理速度与成本 ，目前已开始向开发者、企业及部分付费订阅用户开放。",
+              "take": "",
+              "tags": [
+                "IT之家"
+              ],
+              "links": [
+                {
+                  "platform": "IT之家",
+                  "type": "原文",
+                  "kind": "article",
+                  "title": "谷歌推出 Gemini 4 Neon 模型，编程 AI 智能体指数超 Claud",
+                  "url": "https://www.ithome.com/1/029/144.htm"
+                },
+                {
+                  "platform": "知乎",
+                  "type": "站内话题",
+                  "kind": "topic",
+                  "title": "知乎讨论：谷歌推出 Gemini 4 Neon 模",
+                  "url": "https://www.zhihu.com/search?type=content&q=%E8%B0%B7%E6%AD%8C%E6%8E%A8%E5%87%BA%20Gemini%204%20Neon%20%E6%A8%A1%E5%9E%8B%20%E7%BC%96%E7%A8%8B"
+                },
+                {
+                  "platform": "小红书",
+                  "type": "站内话题",
+                  "kind": "topic",
+                  "title": "小红书笔记：谷歌推出 Gemini 4 Neon 模",
+                  "url": "https://www.xiaohongshu.com/search_result?keyword=%E8%B0%B7%E6%AD%8C%E6%8E%A8%E5%87%BA%20Gemini%204%20Neon%20%E6%A8%A1%E5%9E%8B%20%E7%BC%96%E7%A8%8B"
+                }
+              ]
+            },
+            {
+              "id": "20261119-ai-2",
+              "title": "纽娲机器人创始人杨睿刚：自动驾驶踩过的数据坑，机器人还会再踩一遍丨物理 AI 50 人",
+              "desc": "做了十多年自动驾驶之后，杨睿刚决定把下一次创业的方向，从高速公路转向居民社区。 在此之前，他曾在美国高校研究三维视觉，后来加入百度研究院，负责机器人与自动驾驶实验室，又担任嬴彻科技CTO，推动自动驾驶重卡前装量产。从研究算法到让几十吨重的卡。",
+              "take": "",
+              "tags": [
+                "雷锋网"
+              ],
+              "links": [
+                {
+                  "platform": "雷锋网",
+                  "type": "原文",
+                  "kind": "article",
+                  "title": "纽娲机器人创始人杨睿刚：自动驾驶踩过的数据坑，机器人还会再踩一遍丨物理 AI 5",
+                  "url": "https://www.leiphone.com/category/transportation/GLv3yGaPGK64teuS.html"
+                },
+                {
+                  "platform": "知乎",
+                  "type": "站内话题",
+                  "kind": "topic",
+                  "title": "知乎讨论：纽娲机器人创始人杨睿刚：自动驾驶踩过的数",
+                  "url": "https://www.zhihu.com/search?type=content&q=%E7%BA%BD%E5%A8%B2%E6%9C%BA%E5%99%A8%E4%BA%BA%E5%88%9B%E5%A7%8B%E4%BA%BA%E6%9D%A8%E7%9D%BF%E5%88%9A%EF%BC%9A%E8%87%AA%E5%8A%A8%E9%A9%BE%E9%A9%B6%E8%B8%A9%E8%BF%87%E7%9A%84%E6%95%B0%E6%8D%AE%E5%9D%91%20%E6%9C%BA"
+                },
+                {
+                  "platform": "小红书",
+                  "type": "站内话题",
+                  "kind": "topic",
+                  "title": "小红书笔记：纽娲机器人创始人杨睿刚：自动驾驶踩过的数",
+                  "url": "https://www.xiaohongshu.com/search_result?keyword=%E7%BA%BD%E5%A8%B2%E6%9C%BA%E5%99%A8%E4%BA%BA%E5%88%9B%E5%A7%8B%E4%BA%BA%E6%9D%A8%E7%9D%BF%E5%88%9A%EF%BC%9A%E8%87%AA%E5%8A%A8%E9%A9%BE%E9%A9%B6%E8%B8%A9%E8%BF%87%E7%9A%84%E6%95%B0%E6%8D%AE%E5%9D%91%20%E6%9C%BA"
+                }
+              ]
+            },
+            {
+              "id": "20261119-ai-3",
+              "title": "GPT-6.2难产！OpenAI怕了",
+              "desc": "来自量子位的热点：GPT-6.2难产！OpenAI怕了。",
+              "take": "",
+              "tags": [
+                "量子位"
+              ],
+              "links": [
+                {
+                  "platform": "量子位",
+                  "type": "原文",
+                  "kind": "article",
+                  "title": "GPT-6.2难产！OpenAI怕了",
+                  "url": "https://www.qbitai.com/2026/11/510914.html"
+                },
+                {
+                  "platform": "知乎",
+                  "type": "站内话题",
+                  "kind": "topic",
+                  "title": "知乎讨论：GPT-6.2难产！OpenAI怕了",
+                  "url": "https://www.zhihu.com/search?type=content&q=GPT-6.2%E9%9A%BE%E4%BA%A7%20OpenAI%E6%80%95%E4%BA%86"
+                },
+                {
+                  "platform": "小红书",
+                  "type": "站内话题",
+                  "kind": "topic",
+                  "title": "小红书笔记：GPT-6.2难产！OpenAI怕了",
+                  "url": "https://www.xiaohongshu.com/search_result?keyword=GPT-6.2%E9%9A%BE%E4%BA%A7%20OpenAI%E6%80%95%E4%BA%86"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "social",
+          "name": "社会热点",
+          "desc": "当日讨论量最高、且仍有后续的公共事件",
+          "items": [
+            {
+              "id": "20261119-social-1",
+              "title": "APEC工商领导人峰会什么话题最热",
+              "desc": "来自百度热搜的热点：APEC工商领导人峰会什么话题最热。",
+              "take": "",
+              "tags": [
+                "百度热搜"
+              ],
+              "links": [
+                {
+                  "platform": "百度热搜",
+                  "type": "原文",
+                  "kind": "article",
+                  "title": "APEC工商领导人峰会什么话题最热",
+                  "url": "https://m.baidu.com/s?word=APEC%E5%B7%A5%E5%95%86%E9%A2%86%E5%AF%BC%E4%BA%BA%E5%B3%B0%E4%BC%9A%E4%BB%80%E4%B9%88%E8%AF%9D%E9%A2%98%E6%9C%80%E7%83%AD&sa=fyb_news"
+                },
+                {
+                  "platform": "知乎",
+                  "type": "站内话题",
+                  "kind": "topic",
+                  "title": "知乎讨论：APEC工商领导人峰会什么话题最热",
+                  "url": "https://www.zhihu.com/search?type=content&q=APEC%E5%B7%A5%E5%95%86%E9%A2%86%E5%AF%BC%E4%BA%BA%E5%B3%B0%E4%BC%9A%E4%BB%80%E4%B9%88%E8%AF%9D%E9%A2%98%E6%9C%80%E7%83%AD"
+                },
+                {
+                  "platform": "小红书",
+                  "type": "站内话题",
+                  "kind": "topic",
+                  "title": "小红书笔记：APEC工商领导人峰会什么话题最热",
+                  "url": "https://www.xiaohongshu.com/search_result?keyword=APEC%E5%B7%A5%E5%95%86%E9%A2%86%E5%AF%BC%E4%BA%BA%E5%B3%B0%E4%BC%9A%E4%BB%80%E4%B9%88%E8%AF%9D%E9%A2%98%E6%9C%80%E7%83%AD"
+                }
+              ]
+            },
+            {
+              "id": "20261119-social-2",
+              "title": "国产“空中重卡”来了",
+              "desc": "来自百度热搜的热点：国产“空中重卡”来了。",
+              "take": "",
+              "tags": [
+                "百度热搜"
+              ],
+              "links": [
+                {
+                  "platform": "百度热搜",
+                  "type": "原文",
+                  "kind": "article",
+                  "title": "国产“空中重卡”来了",
+                  "url": "https://m.baidu.com/s?word=%E5%9B%BD%E4%BA%A7%E2%80%9C%E7%A9%BA%E4%B8%AD%E9%87%8D%E5%8D%A1%E2%80%9D%E6%9D%A5%E4%BA%86&sa=fyb_news"
+                },
+                {
+                  "platform": "知乎",
+                  "type": "站内话题",
+                  "kind": "topic",
+                  "title": "知乎讨论：国产“空中重卡”来了",
+                  "url": "https://www.zhihu.com/search?type=content&q=%E5%9B%BD%E4%BA%A7%E2%80%9C%E7%A9%BA%E4%B8%AD%E9%87%8D%E5%8D%A1%E2%80%9D%E6%9D%A5%E4%BA%86"
+                },
+                {
+                  "platform": "小红书",
+                  "type": "站内话题",
+                  "kind": "topic",
+                  "title": "小红书笔记：国产“空中重卡”来了",
+                  "url": "https://www.xiaohongshu.com/search_result?keyword=%E5%9B%BD%E4%BA%A7%E2%80%9C%E7%A9%BA%E4%B8%AD%E9%87%8D%E5%8D%A1%E2%80%9D%E6%9D%A5%E4%BA%86"
+                }
+              ]
+            },
+            {
+              "id": "20261119-social-3",
+              "title": "超市服装区挤满了年轻人",
+              "desc": "来自百度热搜的热点：超市服装区挤满了年轻人。",
+              "take": "",
+              "tags": [
+                "百度热搜"
+              ],
+              "links": [
+                {
+                  "platform": "百度热搜",
+                  "type": "原文",
+                  "kind": "article",
+                  "title": "超市服装区挤满了年轻人",
+                  "url": "https://m.baidu.com/s?word=%E8%B6%85%E5%B8%82%E6%9C%8D%E8%A3%85%E5%8C%BA%E6%8C%A4%E6%BB%A1%E4%BA%86%E5%B9%B4%E8%BD%BB%E4%BA%BA&sa=fyb_news"
+                },
+                {
+                  "platform": "知乎",
+                  "type": "站内话题",
+                  "kind": "topic",
+                  "title": "知乎讨论：超市服装区挤满了年轻人",
+                  "url": "https://www.zhihu.com/search?type=content&q=%E8%B6%85%E5%B8%82%E6%9C%8D%E8%A3%85%E5%8C%BA%E6%8C%A4%E6%BB%A1%E4%BA%86%E5%B9%B4%E8%BD%BB%E4%BA%BA"
+                },
+                {
+                  "platform": "小红书",
+                  "type": "站内话题",
+                  "kind": "topic",
+                  "title": "小红书笔记：超市服装区挤满了年轻人",
+                  "url": "https://www.xiaohongshu.com/search_result?keyword=%E8%B6%85%E5%B8%82%E6%9C%8D%E8%A3%85%E5%8C%BA%E6%8C%A4%E6%BB%A1%E4%BA%86%E5%B9%B4%E8%BD%BB%E4%BA%BA"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "meme",
+          "name": "网络热梗",
+          "desc": "正在刷屏的句式、梗图与自嘲标签",
+          "items": [
+            {
+              "id": "20261119-meme-1",
+              "title": "如何看待雷军 APEC 发言紧张，网友称「好像略微有点社恐」？",
+              "desc": "来自APEC工商领导人峰会中外嘉宾的声音 11月17日，雷军晒出APEC发言图，并配文“APEC CEO Summit 2026！”雷军在评论区写道“给台下朋友们拍了一张合影 ”。 评论区里，有粉丝问道，“全程看完雷总发言，好像略微有点社恐。",
+              "take": "",
+              "tags": [
+                "知乎热榜"
+              ],
+              "links": [
+                {
+                  "platform": "知乎热榜",
+                  "type": "原文",
+                  "kind": "article",
+                  "title": "如何看待雷军 APEC 发言紧张，网友称「好像略微有点社恐」？",
+                  "url": "https://www.zhihu.com/question/2106133971863954400"
+                },
+                {
+                  "platform": "知乎",
+                  "type": "站内话题",
+                  "kind": "topic",
+                  "title": "知乎讨论：如何看待雷军 APEC 发言紧张，网友称",
+                  "url": "https://www.zhihu.com/search?type=content&q=%E5%A6%82%E4%BD%95%E7%9C%8B%E5%BE%85%E9%9B%B7%E5%86%9B%20APEC%20%E5%8F%91%E8%A8%80%E7%B4%A7%E5%BC%A0%20%E7%BD%91%E5%8F%8B%E7%A7%B0%E3%80%8C%E5%A5%BD%E5%83%8F%E7%95%A5"
+                },
+                {
+                  "platform": "小红书",
+                  "type": "站内话题",
+                  "kind": "topic",
+                  "title": "小红书笔记：如何看待雷军 APEC 发言紧张，网友称",
+                  "url": "https://www.xiaohongshu.com/search_result?keyword=%E5%A6%82%E4%BD%95%E7%9C%8B%E5%BE%85%E9%9B%B7%E5%86%9B%20APEC%20%E5%8F%91%E8%A8%80%E7%B4%A7%E5%BC%A0%20%E7%BD%91%E5%8F%8B%E7%A7%B0%E3%80%8C%E5%A5%BD%E5%83%8F%E7%95%A5"
+                }
+              ]
+            },
+            {
+              "id": "20261119-meme-2",
+              "title": "在大湾区看如何促进亚太共同繁荣",
+              "desc": "来自百度热搜的热点：在大湾区看如何促进亚太共同繁荣。",
+              "take": "",
+              "tags": [
+                "百度热搜"
+              ],
+              "links": [
+                {
+                  "platform": "百度热搜",
+                  "type": "原文",
+                  "kind": "article",
+                  "title": "在大湾区看如何促进亚太共同繁荣",
+                  "url": "https://m.baidu.com/s?word=%E5%9C%A8%E5%A4%A7%E6%B9%BE%E5%8C%BA%E7%9C%8B%E5%A6%82%E4%BD%95%E4%BF%83%E8%BF%9B%E4%BA%9A%E5%A4%AA%E5%85%B1%E5%90%8C%E7%B9%81%E8%8D%A3&sa=fyb_news"
+                },
+                {
+                  "platform": "知乎",
+                  "type": "站内话题",
+                  "kind": "topic",
+                  "title": "知乎讨论：在大湾区看如何促进亚太共同繁荣",
+                  "url": "https://www.zhihu.com/search?type=content&q=%E5%9C%A8%E5%A4%A7%E6%B9%BE%E5%8C%BA%E7%9C%8B%E5%A6%82%E4%BD%95%E4%BF%83%E8%BF%9B%E4%BA%9A%E5%A4%AA%E5%85%B1%E5%90%8C%E7%B9%81%E8%8D%A3"
+                },
+                {
+                  "platform": "小红书",
+                  "type": "站内话题",
+                  "kind": "topic",
+                  "title": "小红书笔记：在大湾区看如何促进亚太共同繁荣",
+                  "url": "https://www.xiaohongshu.com/search_result?keyword=%E5%9C%A8%E5%A4%A7%E6%B9%BE%E5%8C%BA%E7%9C%8B%E5%A6%82%E4%BD%95%E4%BF%83%E8%BF%9B%E4%BA%9A%E5%A4%AA%E5%85%B1%E5%90%8C%E7%B9%81%E8%8D%A3"
+                }
+              ]
+            },
+            {
+              "id": "20261119-meme-3",
+              "title": "中俄美元首同框",
+              "desc": "来自百度热搜的热点：中俄美元首同框。",
+              "take": "",
+              "tags": [
+                "百度热搜"
+              ],
+              "links": [
+                {
+                  "platform": "百度热搜",
+                  "type": "原文",
+                  "kind": "article",
+                  "title": "中俄美元首同框",
+                  "url": "https://m.baidu.com/s?word=%E4%B8%AD%E4%BF%84%E7%BE%8E%E5%85%83%E9%A6%96%E5%90%8C%E6%A1%86&sa=fyb_news"
+                },
+                {
+                  "platform": "知乎",
+                  "type": "站内话题",
+                  "kind": "topic",
+                  "title": "知乎讨论：中俄美元首同框",
+                  "url": "https://www.zhihu.com/search?type=content&q=%E4%B8%AD%E4%BF%84%E7%BE%8E%E5%85%83%E9%A6%96%E5%90%8C%E6%A1%86"
+                },
+                {
+                  "platform": "小红书",
+                  "type": "站内话题",
+                  "kind": "topic",
+                  "title": "小红书笔记：中俄美元首同框",
+                  "url": "https://www.xiaohongshu.com/search_result?keyword=%E4%B8%AD%E4%BF%84%E7%BE%8E%E5%85%83%E9%A6%96%E5%90%8C%E6%A1%86"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "edu",
+          "name": "教育规划",
+          "desc": "北京西城升学路径与政策解读 · 以当年官方发布为准",
+          "items": [
+            {
+              "id": "20261119-edu-1",
+              "title": "热门学区小升初的隐性门槛：六年级上学期成绩",
+              "desc": "2026 年热门学区（如德胜）部分学校录取中，六年级上学期 290 分以上成为坊间流传的参考硬门槛（非官方标准）。小升初名义免试，但热门校的实际筛选仍会参考过程性评价与校内排名。",
+              "take": "免试就近是规则，但校内成绩始终是隐性货币，六上这一学期别松。",
+              "tags": [
+                "小升初",
+                "校内成绩"
+              ],
+              "links": [
+                {
+                  "platform": "北京中考信息网",
+                  "type": "深度 / 解读",
+                  "kind": "article",
+                  "title": "2026 北京小升初热点汇总",
+                  "url": "https://www.zhongkaobj.cn/zhaosheng/tcszs/2025050713469.html"
+                }
+              ]
+            },
+            {
+              "id": "20261119-edu-2",
+              "title": "「731 政策」：2020 年 7 月 31 日是西城幼升小的分水岭",
+              "desc": "731 后在西城购房或迁入户籍的，孩子幼升小不再对应单一划片学校，全部以多校划片方式在学区或相邻学区入学；731 前购房的仍可单校划片。这是西城学区房最核心的一条时间线。",
+              "take": "买房时间点直接决定入学方式，比选哪个小区更要紧。",
+              "tags": [
+                "幼升小",
+                "731政策"
+              ],
+              "links": [
+                {
+                  "platform": "微信公众号",
+                  "type": "深度 / 解读",
+                  "kind": "article",
+                  "title": "2026 年西城区小升初完整指南",
+                  "url": "http://mp.weixin.qq.com/s?__biz=MzU5ODAzMzgyMA==&mid=2247485350&idx=1&sn=4b30e035077d8d780b35e08c24ef1f98&chksm=ffa781ca29eb3303aab20aedfae1c871ace8524229ca796cfd643b91e20165d65fc40be633d6#rd"
+                },
+                {
+                  "platform": "知乎",
+                  "type": "站内话题",
+                  "kind": "topic",
+                  "title": "知乎讨论：西城 731 政策",
+                  "url": "https://www.zhihu.com/search?type=content&q=%E8%A5%BF%E5%9F%8E%20731%E6%94%BF%E7%AD%96"
+                }
+              ]
+            },
+            {
+              "id": "20261119-edu-3",
+              "title": "多校划片的「三优先」：二孩顺位、房本早、父母房",
+              "desc": "731 后多校划片录取顺序：同一家庭二孩可直接顺位继承老大就读的学校；同类房产中房本取得时间越早越有优势；父母房优先于四老房（祖辈房）。2027 年起父母新购房可重新超越 731 前的四老房本。",
+              "take": "多校划片不是纯摇号，家庭房产结构本身就有先后手。",
+              "tags": [
+                "幼升小",
+                "多校划片"
+              ],
+              "links": [
+                {
+                  "platform": "微信公众号",
+                  "type": "深度 / 解读",
+                  "kind": "article",
+                  "title": "2026 年西城区小升初完整指南",
+                  "url": "http://mp.weixin.qq.com/s?__biz=MzU5ODAzMzgyMA==&mid=2247485350&idx=1&sn=4b30e035077d8d780b35e08c24ef1f98&chksm=ffa781ca29eb3303aab20aedfae1c871ace8524229ca796cfd643b91e20165d65fc40be633d6#rd"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "house",
+          "name": "安家置业",
+          "desc": "五路通周边改善盘档案与购房要点 · 仅供参考，不构成任何购房建议",
+          "items": [
+            {
+              "id": "20261119-house-1",
+              "title": "德外大街乙 12 号院：五路通划片的价格洼地样本",
+              "desc": "五路通小学划片内价格较低的社区，2026 年单价约 9.9 万/㎡（高点跌约 43%）。楼龄老、临街户型多，但总价门槛在五路通划片里相对友好，适合预算有限、认准划片池的家庭。",
+              "take": "洼地=有理由的便宜，实地确认硬伤可接受，它就是性价比。",
+              "tags": [
+                "五路通划片",
+                "价格洼地"
+              ],
+              "links": [
+                {
+                  "platform": "贝壳",
+                  "type": "在售房源",
+                  "kind": "topic",
+                  "title": "贝壳在售：德外大街乙12号院",
+                  "url": "https://bj.ke.com/xiaoqu/rs%E5%BE%B7%E5%A4%96%E5%A4%A7%E8%A1%97%E4%B9%9912%E5%8F%B7%E9%99%A2/"
+                },
+                {
+                  "platform": "今日头条",
+                  "type": "深度 / 解读",
+                  "kind": "article",
+                  "title": "德胜学区梯队及房价深度分析",
+                  "url": "https://m.toutiao.com/article/7703561980522611209"
+                }
+              ]
+            },
+            {
+              "id": "20261119-house-2",
+              "title": "阳光丽景：德胜少有的次新商品房，改善绕不开的小区",
+              "desc": "黄寺大街 23 号院，首创开发，2002-2008 年分期建成，7 栋 2063 户，容积率 2.8、绿化率 40%，车位比 1:0.8。主力三居 130-148㎡，另有二居 92-112㎡。育翔/西师附小双划片，10 月成交单价约 13.3 万/㎡。",
+              "take": "德胜老公房占绝对多数，想要「学区 + 居住品质」，它几乎没对手——稀缺就是溢价。",
+              "tags": [
+                "改善盘",
+                "次新房"
+              ],
+              "links": [
+                {
+                  "platform": "贝壳",
+                  "type": "深度 / 解读",
+                  "kind": "article",
+                  "title": "阳光丽景小区楼书档案",
+                  "url": "https://m.ke.com/news/bj/xiaoqu/1111027381668.html"
+                },
+                {
+                  "platform": "贝壳",
+                  "type": "在售房源",
+                  "kind": "topic",
+                  "title": "贝壳在售：阳光丽景",
+                  "url": "https://bj.ke.com/xiaoqu/rs%E9%98%B3%E5%85%89%E4%B8%BD%E6%99%AF/"
+                },
+                {
+                  "platform": "微信公众号",
+                  "type": "深度 / 解读",
+                  "kind": "article",
+                  "title": "德胜学区 10 月成交全解码",
+                  "url": "http://mp.weixin.qq.com/s?__biz=MzYyMjk1MTI3NQ==&mid=2247484778&idx=1&sn=4667222b5bc802b00450b1c0930428d2&chksm=fef311f9b9b34fc1d6b043bcd957eec74792515e1c3d3389ce040693de1b40b75ab9bd7c712e#rd"
+                }
+              ]
+            },
+            {
+              "id": "20261119-house-3",
+              "title": "新风街 1 号院：2000 年央产大三居，德胜的「能住的老房」",
+              "desc": "2000 年央产房社区，高楼层正规三居 112㎡ 成交约 12.5 万/㎡、总价 1400 万级，满五唯一。德胜不缺老破小，缺的是楼体、户型、采光都站得住的「能住的老房」，这类房源一年出不了几套。",
+              "take": "高总价老房能撑住单价，靠的不是学区而是稀缺的居住品质。",
+              "tags": [
+                "改善盘",
+                "大三居"
+              ],
+              "links": [
+                {
+                  "platform": "贝壳",
+                  "type": "在售房源",
+                  "kind": "topic",
+                  "title": "贝壳在售：新风街1号院",
+                  "url": "https://bj.ke.com/xiaoqu/rs%E6%96%B0%E9%A3%8E%E8%A1%971%E5%8F%B7%E9%99%A2/"
+                },
+                {
+                  "platform": "微信公众号",
+                  "type": "深度 / 解读",
+                  "kind": "article",
+                  "title": "德胜周记 · 每周成交复盘",
+                  "url": "http://mp.weixin.qq.com/s?__biz=MzI3NTAyMDA2Mg==&mid=2649152063&idx=1&sn=e00d5d0fb03e31949f81d5ef12ff3db8&chksm=f2805e4ae251e84bf675fe0d8e4ed52341801ebe829c6167a66ddd1ab9da28f6328b757cb14b#rd"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
     {
       "date": "2026-11-18",
       "weekday": "周三",
