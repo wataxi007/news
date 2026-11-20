@@ -48,8 +48,474 @@
    =========================================================== */
 
 window.NEWS_DATA = {
-  "updatedAt": "2026-11-19 01:04",
+  "updatedAt": "2026-11-20 00:58",
   "editions": [
+    {
+      "date": "2026-11-20",
+      "weekday": "周五",
+      "issue": 6,
+      "updatedAt": "2026-11-20 00:58",
+      "mode": "auto",
+      "sections": [
+        {
+          "id": "ai",
+          "name": "人工智能",
+          "desc": "模型迭代、算力格局与产品落地",
+          "items": [
+            {
+              "id": "20261120-ai-1",
+              "title": "阿里巴巴 CEO 吴泳铭：2027、2028 年将是中国算力最紧缺的两年",
+              "desc": "IT之家 11 月 19 日消息，据界面新闻今日报道，在 2027 财年第二季度财报分析师电话会上，阿里巴巴集团 CEO 吴泳铭表示， 2027 年和 2028 年，将是中国算力最紧缺的两年 。2027 年以后，阿里云的芯片供给都会以国产平。",
+              "take": "",
+              "tags": [
+                "IT之家"
+              ],
+              "links": [
+                {
+                  "platform": "IT之家",
+                  "type": "原文",
+                  "kind": "article",
+                  "title": "阿里巴巴 CEO 吴泳铭：2027、2028 年将是中国算力最紧缺的两年",
+                  "url": "https://www.ithome.com/1/029/682.htm"
+                },
+                {
+                  "platform": "知乎",
+                  "type": "站内话题",
+                  "kind": "topic",
+                  "title": "知乎讨论：阿里巴巴 CEO 吴泳铭：2027、20",
+                  "url": "https://www.zhihu.com/search?type=content&q=%E9%98%BF%E9%87%8C%E5%B7%B4%E5%B7%B4%20CEO%20%E5%90%B4%E6%B3%B3%E9%93%AD%EF%BC%9A2027%E3%80%812028%20%E5%B9%B4"
+                },
+                {
+                  "platform": "小红书",
+                  "type": "站内话题",
+                  "kind": "topic",
+                  "title": "小红书笔记：阿里巴巴 CEO 吴泳铭：2027、20",
+                  "url": "https://www.xiaohongshu.com/search_result?keyword=%E9%98%BF%E9%87%8C%E5%B7%B4%E5%B7%B4%20CEO%20%E5%90%B4%E6%B3%B3%E9%93%AD%EF%BC%9A2027%E3%80%812028%20%E5%B9%B4"
+                }
+              ]
+            },
+            {
+              "id": "20261120-ai-2",
+              "title": "英伟达临时CEO称将不再向中国出货H200芯片；一天之内173名管理人员被免，宗馥莉大规模「",
+              "desc": "要闻提示 1.英特尔被曝再度裁员，波及全球IT员工 2.英伟达临时CEO称将不再向中国出货H200芯片，外交部回应 3.权志龙母公司将推机器人女团，与宇树合作的K-pop演唱会12月首演 4.宗馥莉再掀人事风暴：173名管理人员被免职 5.。",
+              "take": "",
+              "tags": [
+                "雷锋网"
+              ],
+              "links": [
+                {
+                  "platform": "雷锋网",
+                  "type": "原文",
+                  "kind": "article",
+                  "title": "英伟达临时CEO称将不再向中国出货H200芯片；一天之内173名管理人员被免，宗",
+                  "url": "https://www.leiphone.com/category/zaobao/wMg9SCFKwT7JSsGq.html"
+                },
+                {
+                  "platform": "知乎",
+                  "type": "站内话题",
+                  "kind": "topic",
+                  "title": "知乎讨论：英伟达临时CEO称将不再向中国出货H20",
+                  "url": "https://www.zhihu.com/search?type=content&q=%E8%8B%B1%E4%BC%9F%E8%BE%BE%E4%B8%B4%E6%97%B6CEO%E7%A7%B0%E5%B0%86%E4%B8%8D%E5%86%8D%E5%90%91%E4%B8%AD%E5%9B%BD%E5%87%BA%E8%B4%A7H200%E8%8A%AF%E7%89%87%EF%BC%9B"
+                },
+                {
+                  "platform": "小红书",
+                  "type": "站内话题",
+                  "kind": "topic",
+                  "title": "小红书笔记：英伟达临时CEO称将不再向中国出货H20",
+                  "url": "https://www.xiaohongshu.com/search_result?keyword=%E8%8B%B1%E4%BC%9F%E8%BE%BE%E4%B8%B4%E6%97%B6CEO%E7%A7%B0%E5%B0%86%E4%B8%8D%E5%86%8D%E5%90%91%E4%B8%AD%E5%9B%BD%E5%87%BA%E8%B4%A7H200%E8%8A%AF%E7%89%87%EF%BC%9B"
+                }
+              ]
+            },
+            {
+              "id": "20261120-ai-3",
+              "title": "范式下场做基模了！国产算力全链路训练，双模型同步亮相",
+              "desc": "来自量子位的热点：范式下场做基模了！国产算力全链路训练，双模型同步亮相。",
+              "take": "",
+              "tags": [
+                "量子位"
+              ],
+              "links": [
+                {
+                  "platform": "量子位",
+                  "type": "原文",
+                  "kind": "article",
+                  "title": "范式下场做基模了！国产算力全链路训练，双模型同步亮相",
+                  "url": "https://www.qbitai.com/2026/11/511071.html"
+                },
+                {
+                  "platform": "知乎",
+                  "type": "站内话题",
+                  "kind": "topic",
+                  "title": "知乎讨论：范式下场做基模了！国产算力全链路训练，双",
+                  "url": "https://www.zhihu.com/search?type=content&q=%E8%8C%83%E5%BC%8F%E4%B8%8B%E5%9C%BA%E5%81%9A%E5%9F%BA%E6%A8%A1%E4%BA%86%20%E5%9B%BD%E4%BA%A7%E7%AE%97%E5%8A%9B%E5%85%A8%E9%93%BE%E8%B7%AF%E8%AE%AD%E7%BB%83%20%E5%8F%8C%E6%A8%A1%E5%9E%8B%E5%90%8C%E6%AD%A5"
+                },
+                {
+                  "platform": "小红书",
+                  "type": "站内话题",
+                  "kind": "topic",
+                  "title": "小红书笔记：范式下场做基模了！国产算力全链路训练，双",
+                  "url": "https://www.xiaohongshu.com/search_result?keyword=%E8%8C%83%E5%BC%8F%E4%B8%8B%E5%9C%BA%E5%81%9A%E5%9F%BA%E6%A8%A1%E4%BA%86%20%E5%9B%BD%E4%BA%A7%E7%AE%97%E5%8A%9B%E5%85%A8%E9%93%BE%E8%B7%AF%E8%AE%AD%E7%BB%83%20%E5%8F%8C%E6%A8%A1%E5%9E%8B%E5%90%8C%E6%AD%A5"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "social",
+          "name": "社会热点",
+          "desc": "当日讨论量最高、且仍有后续的公共事件",
+          "items": [
+            {
+              "id": "20261120-social-1",
+              "title": "中俄美元首和平宣言",
+              "desc": "来自百度热搜的热点：中俄美元首和平宣言。",
+              "take": "",
+              "tags": [
+                "百度热搜"
+              ],
+              "links": [
+                {
+                  "platform": "百度热搜",
+                  "type": "原文",
+                  "kind": "article",
+                  "title": "中俄美元首和平宣言",
+                  "url": "https://m.baidu.com/s?word=%E4%B8%AD%E4%BF%84%E7%BE%8E%E5%85%83%E9%A6%96%E5%92%8C%E5%B9%B3%E5%AE%A3%E8%A8%80&sa=fyb_news"
+                },
+                {
+                  "platform": "知乎",
+                  "type": "站内话题",
+                  "kind": "topic",
+                  "title": "知乎讨论：中俄美元首和平宣言",
+                  "url": "https://www.zhihu.com/search?type=content&q=%E4%B8%AD%E4%BF%84%E7%BE%8E%E5%85%83%E9%A6%96%E5%92%8C%E5%B9%B3%E5%AE%A3%E8%A8%80"
+                },
+                {
+                  "platform": "小红书",
+                  "type": "站内话题",
+                  "kind": "topic",
+                  "title": "小红书笔记：中俄美元首和平宣言",
+                  "url": "https://www.xiaohongshu.com/search_result?keyword=%E4%B8%AD%E4%BF%84%E7%BE%8E%E5%85%83%E9%A6%96%E5%92%8C%E5%B9%B3%E5%AE%A3%E8%A8%80"
+                }
+              ]
+            },
+            {
+              "id": "20261120-social-2",
+              "title": "30年 第一次叫“倡议”",
+              "desc": "来自百度热搜的热点：30年 第一次叫“倡议”。",
+              "take": "",
+              "tags": [
+                "百度热搜"
+              ],
+              "links": [
+                {
+                  "platform": "百度热搜",
+                  "type": "原文",
+                  "kind": "article",
+                  "title": "30年 第一次叫“倡议”",
+                  "url": "https://m.baidu.com/s?word=30%E5%B9%B4+%E7%AC%AC%E4%B8%80%E6%AC%A1%E5%8F%AB%E2%80%9C%E5%80%A1%E8%AE%AE%E2%80%9D&sa=fyb_news"
+                },
+                {
+                  "platform": "知乎",
+                  "type": "站内话题",
+                  "kind": "topic",
+                  "title": "知乎讨论：30年 第一次叫“倡议”",
+                  "url": "https://www.zhihu.com/search?type=content&q=30%E5%B9%B4%20%E7%AC%AC%E4%B8%80%E6%AC%A1%E5%8F%AB%E2%80%9C%E5%80%A1%E8%AE%AE%E2%80%9D"
+                },
+                {
+                  "platform": "小红书",
+                  "type": "站内话题",
+                  "kind": "topic",
+                  "title": "小红书笔记：30年 第一次叫“倡议”",
+                  "url": "https://www.xiaohongshu.com/search_result?keyword=30%E5%B9%B4%20%E7%AC%AC%E4%B8%80%E6%AC%A1%E5%8F%AB%E2%80%9C%E5%80%A1%E8%AE%AE%E2%80%9D"
+                }
+              ]
+            },
+            {
+              "id": "20261120-social-3",
+              "title": "中国支持成立新联盟",
+              "desc": "来自百度热搜的热点：中国支持成立新联盟。",
+              "take": "",
+              "tags": [
+                "百度热搜"
+              ],
+              "links": [
+                {
+                  "platform": "百度热搜",
+                  "type": "原文",
+                  "kind": "article",
+                  "title": "中国支持成立新联盟",
+                  "url": "https://m.baidu.com/s?word=%E4%B8%AD%E5%9B%BD%E6%94%AF%E6%8C%81%E6%88%90%E7%AB%8B%E6%96%B0%E8%81%94%E7%9B%9F&sa=fyb_news"
+                },
+                {
+                  "platform": "知乎",
+                  "type": "站内话题",
+                  "kind": "topic",
+                  "title": "知乎讨论：中国支持成立新联盟",
+                  "url": "https://www.zhihu.com/search?type=content&q=%E4%B8%AD%E5%9B%BD%E6%94%AF%E6%8C%81%E6%88%90%E7%AB%8B%E6%96%B0%E8%81%94%E7%9B%9F"
+                },
+                {
+                  "platform": "小红书",
+                  "type": "站内话题",
+                  "kind": "topic",
+                  "title": "小红书笔记：中国支持成立新联盟",
+                  "url": "https://www.xiaohongshu.com/search_result?keyword=%E4%B8%AD%E5%9B%BD%E6%94%AF%E6%8C%81%E6%88%90%E7%AB%8B%E6%96%B0%E8%81%94%E7%9B%9F"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "meme",
+          "name": "网络热梗",
+          "desc": "正在刷屏的句式、梗图与自嘲标签",
+          "items": [
+            {
+              "id": "20261120-meme-1",
+              "title": "起床后这4件事易引发心梗",
+              "desc": "来自百度热搜的热点：起床后这4件事易引发心梗。",
+              "take": "",
+              "tags": [
+                "百度热搜"
+              ],
+              "links": [
+                {
+                  "platform": "百度热搜",
+                  "type": "原文",
+                  "kind": "article",
+                  "title": "起床后这4件事易引发心梗",
+                  "url": "https://m.baidu.com/s?word=%E8%B5%B7%E5%BA%8A%E5%90%8E%E8%BF%994%E4%BB%B6%E4%BA%8B%E6%98%93%E5%BC%95%E5%8F%91%E5%BF%83%E6%A2%97&sa=fyb_news"
+                },
+                {
+                  "platform": "知乎",
+                  "type": "站内话题",
+                  "kind": "topic",
+                  "title": "知乎讨论：起床后这4件事易引发心梗",
+                  "url": "https://www.zhihu.com/search?type=content&q=%E8%B5%B7%E5%BA%8A%E5%90%8E%E8%BF%994%E4%BB%B6%E4%BA%8B%E6%98%93%E5%BC%95%E5%8F%91%E5%BF%83%E6%A2%97"
+                },
+                {
+                  "platform": "小红书",
+                  "type": "站内话题",
+                  "kind": "topic",
+                  "title": "小红书笔记：起床后这4件事易引发心梗",
+                  "url": "https://www.xiaohongshu.com/search_result?keyword=%E8%B5%B7%E5%BA%8A%E5%90%8E%E8%BF%994%E4%BB%B6%E4%BA%8B%E6%98%93%E5%BC%95%E5%8F%91%E5%BF%83%E6%A2%97"
+                }
+              ]
+            },
+            {
+              "id": "20261120-meme-2",
+              "title": "网友偶遇泰国总理夫妇逛深圳南头古城",
+              "desc": "来自百度热搜的热点：网友偶遇泰国总理夫妇逛深圳南头古城。",
+              "take": "",
+              "tags": [
+                "百度热搜"
+              ],
+              "links": [
+                {
+                  "platform": "百度热搜",
+                  "type": "原文",
+                  "kind": "article",
+                  "title": "网友偶遇泰国总理夫妇逛深圳南头古城",
+                  "url": "https://m.baidu.com/s?word=%E7%BD%91%E5%8F%8B%E5%81%B6%E9%81%87%E6%B3%B0%E5%9B%BD%E6%80%BB%E7%90%86%E5%A4%AB%E5%A6%87%E9%80%9B%E6%B7%B1%E5%9C%B3%E5%8D%97%E5%A4%B4%E5%8F%A4%E5%9F%8E&sa=fyb_news"
+                },
+                {
+                  "platform": "知乎",
+                  "type": "站内话题",
+                  "kind": "topic",
+                  "title": "知乎讨论：网友偶遇泰国总理夫妇逛深圳南头古城",
+                  "url": "https://www.zhihu.com/search?type=content&q=%E7%BD%91%E5%8F%8B%E5%81%B6%E9%81%87%E6%B3%B0%E5%9B%BD%E6%80%BB%E7%90%86%E5%A4%AB%E5%A6%87%E9%80%9B%E6%B7%B1%E5%9C%B3%E5%8D%97%E5%A4%B4%E5%8F%A4%E5%9F%8E"
+                },
+                {
+                  "platform": "小红书",
+                  "type": "站内话题",
+                  "kind": "topic",
+                  "title": "小红书笔记：网友偶遇泰国总理夫妇逛深圳南头古城",
+                  "url": "https://www.xiaohongshu.com/search_result?keyword=%E7%BD%91%E5%8F%8B%E5%81%B6%E9%81%87%E6%B3%B0%E5%9B%BD%E6%80%BB%E7%90%86%E5%A4%AB%E5%A6%87%E9%80%9B%E6%B7%B1%E5%9C%B3%E5%8D%97%E5%A4%B4%E5%8F%A4%E5%9F%8E"
+                }
+              ]
+            },
+            {
+              "id": "20261120-meme-3",
+              "title": "中俄美元首发表和平宣言，三国元首重申核战争打不赢也打不得，哪些信息值得重点关注？",
+              "desc": "中俄美元首和平宣言 中国国家主席习近平、俄罗斯总统普京、美国总统特朗普于2026年11月19日在深圳举行会晤。俄美领导人感谢中方主办此次历史性会晤。三国元首就当前国际形势深入交换了意见，致力于维护战略稳定和国际安全。 一、中国、俄罗斯、美国。",
+              "take": "",
+              "tags": [
+                "知乎热榜"
+              ],
+              "links": [
+                {
+                  "platform": "知乎热榜",
+                  "type": "原文",
+                  "kind": "article",
+                  "title": "中俄美元首发表和平宣言，三国元首重申核战争打不赢也打不得，哪些信息值得重点关注？",
+                  "url": "https://www.zhihu.com/question/2106822157141534200"
+                },
+                {
+                  "platform": "知乎",
+                  "type": "站内话题",
+                  "kind": "topic",
+                  "title": "知乎讨论：中俄美元首发表和平宣言，三国元首重申核战",
+                  "url": "https://www.zhihu.com/search?type=content&q=%E4%B8%AD%E4%BF%84%E7%BE%8E%E5%85%83%E9%A6%96%E5%8F%91%E8%A1%A8%E5%92%8C%E5%B9%B3%E5%AE%A3%E8%A8%80%20%E4%B8%89%E5%9B%BD%E5%85%83%E9%A6%96%E9%87%8D%E7%94%B3%E6%A0%B8%E6%88%98%E4%BA%89%E6%89%93%E4%B8%8D%E8%B5%A2"
+                },
+                {
+                  "platform": "小红书",
+                  "type": "站内话题",
+                  "kind": "topic",
+                  "title": "小红书笔记：中俄美元首发表和平宣言，三国元首重申核战",
+                  "url": "https://www.xiaohongshu.com/search_result?keyword=%E4%B8%AD%E4%BF%84%E7%BE%8E%E5%85%83%E9%A6%96%E5%8F%91%E8%A1%A8%E5%92%8C%E5%B9%B3%E5%AE%A3%E8%A8%80%20%E4%B8%89%E5%9B%BD%E5%85%83%E9%A6%96%E9%87%8D%E7%94%B3%E6%A0%B8%E6%88%98%E4%BA%89%E6%89%93%E4%B8%8D%E8%B5%A2"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "edu",
+          "name": "教育规划",
+          "desc": "北京西城升学路径与政策解读 · 以当年官方发布为准",
+          "items": [
+            {
+              "id": "20261120-edu-1",
+              "title": "特色校、寄宿班与民办校：第二优先级的三类选择",
+              "desc": "与全区派位同批填报：特色校 6 所（回民学校、徐悲鸿美术、月坛日语、西城外国语多语种等）、寄宿校 3 所、民办校可兼报多所。特色校之间不可兼报，被多校同时初录只能确认 1 所且不可更改。",
+              "take": "有明确特长方向（外语、美术）的孩子，这一批次值得用足。",
+              "tags": [
+                "小升初",
+                "特色校"
+              ],
+              "links": [
+                {
+                  "platform": "微信公众号",
+                  "type": "深度 / 解读",
+                  "kind": "article",
+                  "title": "2026 年西城区小升初完整指南",
+                  "url": "http://mp.weixin.qq.com/s?__biz=MzU5ODAzMzgyMA==&mid=2247485350&idx=1&sn=4b30e035077d8d780b35e08c24ef1f98&chksm=ffa781ca29eb3303aab20aedfae1c871ace8524229ca796cfd643b91e20165d65fc40be633d6#rd"
+                }
+              ]
+            },
+            {
+              "id": "20261120-edu-2",
+              "title": "西城小升初六大途径的录取顺序，一次填报全部生效",
+              "desc": "所有入学意向 5 月下旬一次性同时填报，按顺序录取：全区派位 → 特色/寄宿/民办 → 对口直升 → 学区登记 → 学区派位。前一批次录取后，后面批次自动作废。理解顺序是填志愿的前提。",
+              "take": "全区派位是「冲高」机会，一旦命中后面志愿全部作废，顺序要按真实意愿排。",
+              "tags": [
+                "小升初",
+                "志愿填报"
+              ],
+              "links": [
+                {
+                  "platform": "小升初信息网",
+                  "type": "深度 / 解读",
+                  "kind": "article",
+                  "title": "2026 西城小升初新政全解析",
+                  "url": "https://www.xscxx.com/xiaoshengchu/xcqxsc/2026040813504.html"
+                }
+              ]
+            },
+            {
+              "id": "20261120-edu-3",
+              "title": "全区派位：西城小升初的第一优先级，2026 年扩招 1200 人",
+              "desc": "全区派位可自愿填 1-5 所全区任意初中，不看学区。2026 年总计划 6010 人，较上年扩招超 25%：十三分什刹海校区 +320、一六一广安分校 +160、四中道元 +80、三帆 +70、北师大附中 +80。",
+              "take": "名额多的学校中签概率相对高，这是普通学区内孩子进优质初中最公平的一扇门。",
+              "tags": [
+                "小升初",
+                "全区派位"
+              ],
+              "links": [
+                {
+                  "platform": "北京小升初网",
+                  "type": "深度 / 解读",
+                  "kind": "article",
+                  "title": "西城小升初全区派位招生计划汇总",
+                  "url": "https://www.xschu.com/zhengcezixun/88628.html"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "house",
+          "name": "安家置业",
+          "desc": "五路通周边改善盘档案与购房要点 · 仅供参考，不构成任何购房建议",
+          "items": [
+            {
+              "id": "20261120-house-1",
+              "title": "改善看房的九项硬清单",
+              "desc": "德胜老房子情况复杂，实地看房逐项过：产权性质（商品房/央产/经适房）、抵押查封、学位占用、税费年限、楼层与电梯、户型改造空间、车位、物业与取暖费、腾房时间。成交快的房子都是条件干净的。",
+              "take": "九项里任何一项含糊，就先别交定金——条件说清楚比藏着值钱。",
+              "tags": [
+                "看房清单"
+              ],
+              "links": [
+                {
+                  "platform": "微信公众号",
+                  "type": "深度 / 解读",
+                  "kind": "article",
+                  "title": "德胜周记 · 每周成交复盘",
+                  "url": "http://mp.weixin.qq.com/s?__biz=MzI3NTAyMDA2Mg==&mid=2649152063&idx=1&sn=e00d5d0fb03e31949f81d5ef12ff3db8&chksm=f2805e4ae251e84bf675fe0d8e4ed52341801ebe829c6167a66ddd1ab9da28f6328b757cb14b#rd"
+                },
+                {
+                  "platform": "知乎",
+                  "type": "站内话题",
+                  "kind": "topic",
+                  "title": "知乎讨论：二手房 看房 注意事项 清单",
+                  "url": "https://www.zhihu.com/search?type=content&q=%E4%BA%8C%E6%89%8B%E6%88%BF%20%E7%9C%8B%E6%88%BF%20%E6%B3%A8%E6%84%8F%E4%BA%8B%E9%A1%B9%20%E6%B8%85%E5%8D%95"
+                }
+              ]
+            },
+            {
+              "id": "20261120-house-2",
+              "title": "双旗杆东里：五路通划片的主力老公房社区",
+              "desc": "五路通小学划片内体量较大的社区，2021 年高点约 14.6 万/㎡，2026 年回落至 9.4 万/㎡左右（跌幅约 36%）。户型以一居、两居为主，楼龄老但位置紧贴五路通，是「以五路通为中心」搜索时的第一圈层。",
+              "take": "价格已从高点回落三成以上，同样是老公房，它比高点时便宜了三分之一。",
+              "tags": [
+                "五路通划片",
+                "老公房"
+              ],
+              "links": [
+                {
+                  "platform": "贝壳",
+                  "type": "在售房源",
+                  "kind": "topic",
+                  "title": "贝壳在售：双旗杆东里",
+                  "url": "https://bj.ke.com/xiaoqu/rs%E5%8F%8C%E6%97%97%E6%9D%86%E4%B8%9C%E9%87%8C/"
+                },
+                {
+                  "platform": "今日头条",
+                  "type": "深度 / 解读",
+                  "kind": "article",
+                  "title": "德胜学区梯队及房价深度分析",
+                  "url": "https://m.toutiao.com/article/7703561980522611209"
+                }
+              ]
+            },
+            {
+              "id": "20261120-house-3",
+              "title": "什坊街 2 号院：跌幅最大的五路通划片盘，水分挤得最干",
+              "desc": "五路通小学划片，2021 年高点 17.86 万/㎡，2026 年回落至约 9.6 万/㎡，跌幅约 47%，是德胜跌得最狠的小区之一。老楼无电梯、户型旧，高点的溢价主要来自学位，如今已基本挤干。",
+              "take": "它标注了纯学位房的定价底线：学区溢价退潮后，房子本身值多少钱。",
+              "tags": [
+                "五路通划片",
+                "价格参考"
+              ],
+              "links": [
+                {
+                  "platform": "贝壳",
+                  "type": "在售房源",
+                  "kind": "topic",
+                  "title": "贝壳在售：什坊街2号院",
+                  "url": "https://bj.ke.com/xiaoqu/rs%E4%BB%80%E5%9D%8A%E8%A1%972%E5%8F%B7%E9%99%A2/"
+                },
+                {
+                  "platform": "今日头条",
+                  "type": "深度 / 解读",
+                  "kind": "article",
+                  "title": "德胜学区梯队及房价深度分析",
+                  "url": "https://m.toutiao.com/article/7703561980522611209"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
     {
       "date": "2026-11-19",
       "weekday": "周四",
