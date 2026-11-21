@@ -48,8 +48,474 @@
    =========================================================== */
 
 window.NEWS_DATA = {
-  "updatedAt": "2026-11-20 00:58",
+  "updatedAt": "2026-11-21 01:02",
   "editions": [
+    {
+      "date": "2026-11-21",
+      "weekday": "周六",
+      "issue": 7,
+      "updatedAt": "2026-11-21 01:02",
+      "mode": "auto",
+      "sections": [
+        {
+          "id": "ai",
+          "name": "人工智能",
+          "desc": "模型迭代、算力格局与产品落地",
+          "items": [
+            {
+              "id": "20261121-ai-1",
+              "title": "匿名 AI 模型 Gestalt 登顶 Contra 前沿设计榜单：性能远超 Claude ",
+              "desc": "IT之家 11 月 21 日消息，Contra Labs 于当地时间 11 月 18 日发布 AI 设计能力评测榜单 Frontier Design Benchmark。 其中，一款代号为 Gestalt、目前处于隐身开发状态（Stealt。",
+              "take": "",
+              "tags": [
+                "IT之家"
+              ],
+              "links": [
+                {
+                  "platform": "IT之家",
+                  "type": "原文",
+                  "kind": "article",
+                  "title": "匿名 AI 模型 Gestalt 登顶 Contra 前沿设计榜单：性能远超 C",
+                  "url": "https://www.ithome.com/1/030/291.htm"
+                },
+                {
+                  "platform": "知乎",
+                  "type": "站内话题",
+                  "kind": "topic",
+                  "title": "知乎讨论：匿名 AI 模型 Gestalt 登顶 ",
+                  "url": "https://www.zhihu.com/search?type=content&q=%E5%8C%BF%E5%90%8D%20AI%20%E6%A8%A1%E5%9E%8B%20Gestalt%20%E7%99%BB%E9%A1%B6%20Cont"
+                },
+                {
+                  "platform": "小红书",
+                  "type": "站内话题",
+                  "kind": "topic",
+                  "title": "小红书笔记：匿名 AI 模型 Gestalt 登顶 ",
+                  "url": "https://www.xiaohongshu.com/search_result?keyword=%E5%8C%BF%E5%90%8D%20AI%20%E6%A8%A1%E5%9E%8B%20Gestalt%20%E7%99%BB%E9%A1%B6%20Cont"
+                }
+              ]
+            },
+            {
+              "id": "20261121-ai-2",
+              "title": "昇腾算力训出了双榜SOTA的具身世界模型，华为云这次想把整套底座开放出来",
+              "desc": "来自量子位的热点：昇腾算力训出了双榜SOTA的具身世界模型，华为云这次想把整套底座开放出来。",
+              "take": "",
+              "tags": [
+                "量子位"
+              ],
+              "links": [
+                {
+                  "platform": "量子位",
+                  "type": "原文",
+                  "kind": "article",
+                  "title": "昇腾算力训出了双榜SOTA的具身世界模型，华为云这次想把整套底座开放出来",
+                  "url": "https://www.qbitai.com/2026/11/511610.html"
+                },
+                {
+                  "platform": "知乎",
+                  "type": "站内话题",
+                  "kind": "topic",
+                  "title": "知乎讨论：昇腾算力训出了双榜SOTA的具身世界模型",
+                  "url": "https://www.zhihu.com/search?type=content&q=%E6%98%87%E8%85%BE%E7%AE%97%E5%8A%9B%E8%AE%AD%E5%87%BA%E4%BA%86%E5%8F%8C%E6%A6%9CSOTA%E7%9A%84%E5%85%B7%E8%BA%AB%E4%B8%96%E7%95%8C%E6%A8%A1%E5%9E%8B%20%E5%8D%8E%E4%B8%BA%E4%BA%91"
+                },
+                {
+                  "platform": "小红书",
+                  "type": "站内话题",
+                  "kind": "topic",
+                  "title": "小红书笔记：昇腾算力训出了双榜SOTA的具身世界模型",
+                  "url": "https://www.xiaohongshu.com/search_result?keyword=%E6%98%87%E8%85%BE%E7%AE%97%E5%8A%9B%E8%AE%AD%E5%87%BA%E4%BA%86%E5%8F%8C%E6%A6%9CSOTA%E7%9A%84%E5%85%B7%E8%BA%AB%E4%B8%96%E7%95%8C%E6%A8%A1%E5%9E%8B%20%E5%8D%8E%E4%B8%BA%E4%BA%91"
+                }
+              ]
+            },
+            {
+              "id": "20261121-ai-3",
+              "title": "独家丨荣耀、腾讯背景团队创业做 AI 交互吊坠，已获李泽湘早期投资",
+              "desc": "创始人肖裕炜曾在荣耀工作五年，经历横跨 GPU 底层技术与 AI 终端设备。 作者丨黄艳冰 编辑丨 姚单 雷峰网·鲸犀独家获悉， 荣耀前高级算法工程师肖裕炜已离职创业，于今年年中创立 AI 交互硬件公司 KnowVoice。 其目前正在李泽。",
+              "take": "",
+              "tags": [
+                "雷锋网"
+              ],
+              "links": [
+                {
+                  "platform": "雷锋网",
+                  "type": "原文",
+                  "kind": "article",
+                  "title": "独家丨荣耀、腾讯背景团队创业做 AI 交互吊坠，已获李泽湘早期投资",
+                  "url": "https://www.leiphone.com/category/weiwu/cmj50XKwCB4drkus.html"
+                },
+                {
+                  "platform": "知乎",
+                  "type": "站内话题",
+                  "kind": "topic",
+                  "title": "知乎讨论：独家丨荣耀、腾讯背景团队创业做 AI 交",
+                  "url": "https://www.zhihu.com/search?type=content&q=%E7%8B%AC%E5%AE%B6%E4%B8%A8%E8%8D%A3%E8%80%80%E3%80%81%E8%85%BE%E8%AE%AF%E8%83%8C%E6%99%AF%E5%9B%A2%E9%98%9F%E5%88%9B%E4%B8%9A%E5%81%9A%20AI%20%E4%BA%A4%E4%BA%92%E5%90%8A%E5%9D%A0%20"
+                },
+                {
+                  "platform": "小红书",
+                  "type": "站内话题",
+                  "kind": "topic",
+                  "title": "小红书笔记：独家丨荣耀、腾讯背景团队创业做 AI 交",
+                  "url": "https://www.xiaohongshu.com/search_result?keyword=%E7%8B%AC%E5%AE%B6%E4%B8%A8%E8%8D%A3%E8%80%80%E3%80%81%E8%85%BE%E8%AE%AF%E8%83%8C%E6%99%AF%E5%9B%A2%E9%98%9F%E5%88%9B%E4%B8%9A%E5%81%9A%20AI%20%E4%BA%A4%E4%BA%92%E5%90%8A%E5%9D%A0%20"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "social",
+          "name": "社会热点",
+          "desc": "当日讨论量最高、且仍有后续的公共事件",
+          "items": [
+            {
+              "id": "20261121-social-1",
+              "title": "科技新国货成“深圳特产”",
+              "desc": "来自百度热搜的热点：科技新国货成“深圳特产”。",
+              "take": "",
+              "tags": [
+                "百度热搜"
+              ],
+              "links": [
+                {
+                  "platform": "百度热搜",
+                  "type": "原文",
+                  "kind": "article",
+                  "title": "科技新国货成“深圳特产”",
+                  "url": "https://m.baidu.com/s?word=%E7%A7%91%E6%8A%80%E6%96%B0%E5%9B%BD%E8%B4%A7%E6%88%90%E2%80%9C%E6%B7%B1%E5%9C%B3%E7%89%B9%E4%BA%A7%E2%80%9D&sa=fyb_news"
+                },
+                {
+                  "platform": "知乎",
+                  "type": "站内话题",
+                  "kind": "topic",
+                  "title": "知乎讨论：科技新国货成“深圳特产”",
+                  "url": "https://www.zhihu.com/search?type=content&q=%E7%A7%91%E6%8A%80%E6%96%B0%E5%9B%BD%E8%B4%A7%E6%88%90%E2%80%9C%E6%B7%B1%E5%9C%B3%E7%89%B9%E4%BA%A7%E2%80%9D"
+                },
+                {
+                  "platform": "小红书",
+                  "type": "站内话题",
+                  "kind": "topic",
+                  "title": "小红书笔记：科技新国货成“深圳特产”",
+                  "url": "https://www.xiaohongshu.com/search_result?keyword=%E7%A7%91%E6%8A%80%E6%96%B0%E5%9B%BD%E8%B4%A7%E6%88%90%E2%80%9C%E6%B7%B1%E5%9C%B3%E7%89%B9%E4%BA%A7%E2%80%9D"
+                }
+              ]
+            },
+            {
+              "id": "20261121-social-2",
+              "title": "一家人遛弯误入剧组还上了央视",
+              "desc": "来自百度热搜的热点：一家人遛弯误入剧组还上了央视。",
+              "take": "",
+              "tags": [
+                "百度热搜"
+              ],
+              "links": [
+                {
+                  "platform": "百度热搜",
+                  "type": "原文",
+                  "kind": "article",
+                  "title": "一家人遛弯误入剧组还上了央视",
+                  "url": "https://m.baidu.com/s?word=%E4%B8%80%E5%AE%B6%E4%BA%BA%E9%81%9B%E5%BC%AF%E8%AF%AF%E5%85%A5%E5%89%A7%E7%BB%84%E8%BF%98%E4%B8%8A%E4%BA%86%E5%A4%AE%E8%A7%86&sa=fyb_news"
+                },
+                {
+                  "platform": "知乎",
+                  "type": "站内话题",
+                  "kind": "topic",
+                  "title": "知乎讨论：一家人遛弯误入剧组还上了央视",
+                  "url": "https://www.zhihu.com/search?type=content&q=%E4%B8%80%E5%AE%B6%E4%BA%BA%E9%81%9B%E5%BC%AF%E8%AF%AF%E5%85%A5%E5%89%A7%E7%BB%84%E8%BF%98%E4%B8%8A%E4%BA%86%E5%A4%AE%E8%A7%86"
+                },
+                {
+                  "platform": "小红书",
+                  "type": "站内话题",
+                  "kind": "topic",
+                  "title": "小红书笔记：一家人遛弯误入剧组还上了央视",
+                  "url": "https://www.xiaohongshu.com/search_result?keyword=%E4%B8%80%E5%AE%B6%E4%BA%BA%E9%81%9B%E5%BC%AF%E8%AF%AF%E5%85%A5%E5%89%A7%E7%BB%84%E8%BF%98%E4%B8%8A%E4%BA%86%E5%A4%AE%E8%A7%86"
+                }
+              ]
+            },
+            {
+              "id": "20261121-social-3",
+              "title": "睡觉穿袜子有助入睡 但5类人不建议",
+              "desc": "来自百度热搜的热点：睡觉穿袜子有助入睡 但5类人不建议。",
+              "take": "",
+              "tags": [
+                "百度热搜"
+              ],
+              "links": [
+                {
+                  "platform": "百度热搜",
+                  "type": "原文",
+                  "kind": "article",
+                  "title": "睡觉穿袜子有助入睡 但5类人不建议",
+                  "url": "https://m.baidu.com/s?word=%E7%9D%A1%E8%A7%89%E7%A9%BF%E8%A2%9C%E5%AD%90%E6%9C%89%E5%8A%A9%E5%85%A5%E7%9D%A1+%E4%BD%865%E7%B1%BB%E4%BA%BA%E4%B8%8D%E5%BB%BA%E8%AE%AE&sa=fyb_news"
+                },
+                {
+                  "platform": "知乎",
+                  "type": "站内话题",
+                  "kind": "topic",
+                  "title": "知乎讨论：睡觉穿袜子有助入睡 但5类人不建议",
+                  "url": "https://www.zhihu.com/search?type=content&q=%E7%9D%A1%E8%A7%89%E7%A9%BF%E8%A2%9C%E5%AD%90%E6%9C%89%E5%8A%A9%E5%85%A5%E7%9D%A1%20%E4%BD%865%E7%B1%BB%E4%BA%BA%E4%B8%8D%E5%BB%BA%E8%AE%AE"
+                },
+                {
+                  "platform": "小红书",
+                  "type": "站内话题",
+                  "kind": "topic",
+                  "title": "小红书笔记：睡觉穿袜子有助入睡 但5类人不建议",
+                  "url": "https://www.xiaohongshu.com/search_result?keyword=%E7%9D%A1%E8%A7%89%E7%A9%BF%E8%A2%9C%E5%AD%90%E6%9C%89%E5%8A%A9%E5%85%A5%E7%9D%A1%20%E4%BD%865%E7%B1%BB%E4%BA%BA%E4%B8%8D%E5%BB%BA%E8%AE%AE"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "meme",
+          "name": "网络热梗",
+          "desc": "正在刷屏的句式、梗图与自嘲标签",
+          "items": [
+            {
+              "id": "20261121-meme-1",
+              "title": "两张历史性同框照为何在中国定格",
+              "desc": "来自百度热搜的热点：两张历史性同框照为何在中国定格。",
+              "take": "",
+              "tags": [
+                "百度热搜"
+              ],
+              "links": [
+                {
+                  "platform": "百度热搜",
+                  "type": "原文",
+                  "kind": "article",
+                  "title": "两张历史性同框照为何在中国定格",
+                  "url": "https://m.baidu.com/s?word=%E4%B8%A4%E5%BC%A0%E5%8E%86%E5%8F%B2%E6%80%A7%E5%90%8C%E6%A1%86%E7%85%A7%E4%B8%BA%E4%BD%95%E5%9C%A8%E4%B8%AD%E5%9B%BD%E5%AE%9A%E6%A0%BC&sa=fyb_news"
+                },
+                {
+                  "platform": "知乎",
+                  "type": "站内话题",
+                  "kind": "topic",
+                  "title": "知乎讨论：两张历史性同框照为何在中国定格",
+                  "url": "https://www.zhihu.com/search?type=content&q=%E4%B8%A4%E5%BC%A0%E5%8E%86%E5%8F%B2%E6%80%A7%E5%90%8C%E6%A1%86%E7%85%A7%E4%B8%BA%E4%BD%95%E5%9C%A8%E4%B8%AD%E5%9B%BD%E5%AE%9A%E6%A0%BC"
+                },
+                {
+                  "platform": "小红书",
+                  "type": "站内话题",
+                  "kind": "topic",
+                  "title": "小红书笔记：两张历史性同框照为何在中国定格",
+                  "url": "https://www.xiaohongshu.com/search_result?keyword=%E4%B8%A4%E5%BC%A0%E5%8E%86%E5%8F%B2%E6%80%A7%E5%90%8C%E6%A1%86%E7%85%A7%E4%B8%BA%E4%BD%95%E5%9C%A8%E4%B8%AD%E5%9B%BD%E5%AE%9A%E6%A0%BC"
+                }
+              ]
+            },
+            {
+              "id": "20261121-meme-2",
+              "title": "数学家称与 AI 合作证明了黎曼猜想，证明稿超 25 万页，黎曼猜想真的被解决了吗？",
+              "desc": "近期，levent alpoge 公开了一份名为 remark.pdf`的文档（见alpo.ge/remark.pdf），宣称自己与Claude 合作，发现了黎曼猜想（Riemann Hypothesis）的证明。 根据公开文档中的内容，作。",
+              "take": "",
+              "tags": [
+                "知乎热榜"
+              ],
+              "links": [
+                {
+                  "platform": "知乎热榜",
+                  "type": "原文",
+                  "kind": "article",
+                  "title": "数学家称与 AI 合作证明了黎曼猜想，证明稿超 25 万页，黎曼猜想真的被解决了",
+                  "url": "https://www.zhihu.com/question/2107239235015263500"
+                },
+                {
+                  "platform": "知乎",
+                  "type": "站内话题",
+                  "kind": "topic",
+                  "title": "知乎讨论：数学家称与 AI 合作证明了黎曼猜想，证",
+                  "url": "https://www.zhihu.com/search?type=content&q=%E6%95%B0%E5%AD%A6%E5%AE%B6%E7%A7%B0%E4%B8%8E%20AI%20%E5%90%88%E4%BD%9C%E8%AF%81%E6%98%8E%E4%BA%86%E9%BB%8E%E6%9B%BC%E7%8C%9C%E6%83%B3%20%E8%AF%81%E6%98%8E%E7%A8%BF%E8%B6%85%20"
+                },
+                {
+                  "platform": "小红书",
+                  "type": "站内话题",
+                  "kind": "topic",
+                  "title": "小红书笔记：数学家称与 AI 合作证明了黎曼猜想，证",
+                  "url": "https://www.xiaohongshu.com/search_result?keyword=%E6%95%B0%E5%AD%A6%E5%AE%B6%E7%A7%B0%E4%B8%8E%20AI%20%E5%90%88%E4%BD%9C%E8%AF%81%E6%98%8E%E4%BA%86%E9%BB%8E%E6%9B%BC%E7%8C%9C%E6%83%B3%20%E8%AF%81%E6%98%8E%E7%A8%BF%E8%B6%85%20"
+                }
+              ]
+            },
+            {
+              "id": "20261121-meme-3",
+              "title": "人民日报评“老人拆墙让路遭质疑”",
+              "desc": "来自百度热搜的热点：人民日报评“老人拆墙让路遭质疑”。",
+              "take": "",
+              "tags": [
+                "百度热搜"
+              ],
+              "links": [
+                {
+                  "platform": "百度热搜",
+                  "type": "原文",
+                  "kind": "article",
+                  "title": "人民日报评“老人拆墙让路遭质疑”",
+                  "url": "https://m.baidu.com/s?word=%E4%BA%BA%E6%B0%91%E6%97%A5%E6%8A%A5%E8%AF%84%E2%80%9C%E8%80%81%E4%BA%BA%E6%8B%86%E5%A2%99%E8%AE%A9%E8%B7%AF%E9%81%AD%E8%B4%A8%E7%96%91%E2%80%9D&sa=fyb_news"
+                },
+                {
+                  "platform": "知乎",
+                  "type": "站内话题",
+                  "kind": "topic",
+                  "title": "知乎讨论：人民日报评“老人拆墙让路遭质疑”",
+                  "url": "https://www.zhihu.com/search?type=content&q=%E4%BA%BA%E6%B0%91%E6%97%A5%E6%8A%A5%E8%AF%84%E2%80%9C%E8%80%81%E4%BA%BA%E6%8B%86%E5%A2%99%E8%AE%A9%E8%B7%AF%E9%81%AD%E8%B4%A8%E7%96%91%E2%80%9D"
+                },
+                {
+                  "platform": "小红书",
+                  "type": "站内话题",
+                  "kind": "topic",
+                  "title": "小红书笔记：人民日报评“老人拆墙让路遭质疑”",
+                  "url": "https://www.xiaohongshu.com/search_result?keyword=%E4%BA%BA%E6%B0%91%E6%97%A5%E6%8A%A5%E8%AF%84%E2%80%9C%E8%80%81%E4%BA%BA%E6%8B%86%E5%A2%99%E8%AE%A9%E8%B7%AF%E9%81%AD%E8%B4%A8%E7%96%91%E2%80%9D"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "edu",
+          "name": "教育规划",
+          "desc": "北京西城升学路径与政策解读 · 以当年官方发布为准",
+          "items": [
+            {
+              "id": "20261121-edu-1",
+              "title": "非京籍家庭在西城：四证审核与工作居住证新规",
+              "desc": "非京籍入学需通过四证审核（就业、住所、户口簿、居住证明）。2026 年北京工作居住证社保要求缩短至 3-12 个月，部分学历可凭中级职称申请。非京籍在西城小升初与京籍同平台填报，但住房产多校划片规则一致。",
+              "take": "非京籍家庭的关键词是「提前一年准备材料」，临到报名再办基本来不及。",
+              "tags": [
+                "非京籍"
+              ],
+              "links": [
+                {
+                  "platform": "北京中考信息网",
+                  "type": "深度 / 解读",
+                  "kind": "article",
+                  "title": "2026 北京小升初热点汇总",
+                  "url": "https://www.zhongkaobj.cn/zhaosheng/tcszs/2025050713469.html"
+                }
+              ]
+            },
+            {
+              "id": "20261121-edu-2",
+              "title": "对口直升：80% 比例的 14 组小学-初中组合",
+              "desc": "西城 14 组直升组合（如三帆附小→三帆、宏庙→北师大实验分校、西什库→四中），直升比例 80%，要求连续 6 年本校学籍。注意：731 后购房家庭在部分热门直升校（三帆附小、宏庙、西什库等）暂不享直升资格。",
+              "take": "直升是最确定的通路，但「连续六年学籍 + 731 前购房」两个条件缺一不可。",
+              "tags": [
+                "小升初",
+                "对口直升"
+              ],
+              "links": [
+                {
+                  "platform": "微信公众号",
+                  "type": "深度 / 解读",
+                  "kind": "article",
+                  "title": "2026 年西城区小升初完整指南",
+                  "url": "http://mp.weixin.qq.com/s?__biz=MzU5ODAzMzgyMA==&mid=2247485350&idx=1&sn=4b30e035077d8d780b35e08c24ef1f98&chksm=ffa781ca29eb3303aab20aedfae1c871ace8524229ca796cfd643b91e20165d65fc40be633d6#rd"
+                }
+              ]
+            },
+            {
+              "id": "20261121-edu-3",
+              "title": "2026 年西城小升初新增三所优质初中，全部面向全区派位",
+              "desc": "十三分德胜校区（本部直属，8 个班约 320 人）、北京第四实验学校（初中寄宿班约 80 人，保留西城学籍）、北师大实验中学广外校区（360 人）。三所新校 2026 年 9 月开学，全部纳入全区派位。",
+              "take": "新增学位集中投放，对德胜等热门学区的派位池是直接利好。",
+              "tags": [
+                "小升初",
+                "新校"
+              ],
+              "links": [
+                {
+                  "platform": "小升初信息网",
+                  "type": "深度 / 解读",
+                  "kind": "article",
+                  "title": "2026 西城小升初新增 3 所优质初中",
+                  "url": "https://www.xscxx.com/youshengxiao/zhuanti/2025032713587.html"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "house",
+          "name": "安家置业",
+          "desc": "五路通周边改善盘档案与购房要点 · 仅供参考，不构成任何购房建议",
+          "items": [
+            {
+              "id": "20261121-house-1",
+              "title": "731 政策对购房的直接影响：买房 ≠ 锁定学校",
+              "desc": "2020 年 7 月 31 日后购房，幼升小走多校划片（在学区或相邻学区内派位），「买哪套房 = 上哪所学校」的公式在西城已不成立。房子决定的是划片池，摇号与调剂仍有变数，二孩顺位是唯一的强确定项。",
+              "take": "为「某所学校」付高溢价的逻辑已经变了，为「学区整体质量」付费更稳。",
+              "tags": [
+                "731政策",
+                "购房逻辑"
+              ],
+              "links": [
+                {
+                  "platform": "知乎",
+                  "type": "站内话题",
+                  "kind": "topic",
+                  "title": "知乎讨论：西城 731 多校划片 买房",
+                  "url": "https://www.zhihu.com/search?type=content&q=%E8%A5%BF%E5%9F%8E%20731%20%E5%A4%9A%E6%A0%A1%E5%88%92%E7%89%87%20%E4%B9%B0%E6%88%BF"
+                },
+                {
+                  "platform": "微信公众号",
+                  "type": "深度 / 解读",
+                  "kind": "article",
+                  "title": "德胜周记 · 每周成交复盘",
+                  "url": "http://mp.weixin.qq.com/s?__biz=MzI3NTAyMDA2Mg==&mid=2649152063&idx=1&sn=e00d5d0fb03e31949f81d5ef12ff3db8&chksm=f2805e4ae251e84bf675fe0d8e4ed52341801ebe829c6167a66ddd1ab9da28f6328b757cb14b#rd"
+                }
+              ]
+            },
+            {
+              "id": "20261121-house-2",
+              "title": "新明胡同：育翔/实验二小双划片的老社区",
+              "desc": "划片育翔小学与实验二小德胜校区，2021 年高点约 16 万/㎡，2026 年约 9.7 万/㎡（跌幅 40%）。社区老但紧邻人定湖公园，生活配套成熟，月成交稳定在 5 套上下，流通性不错。",
+              "take": "公园旁边的老社区，居住体验比数字上的「老」要好，适合实地验证。",
+              "tags": [
+                "改善盘",
+                "老公房"
+              ],
+              "links": [
+                {
+                  "platform": "贝壳",
+                  "type": "在售房源",
+                  "kind": "topic",
+                  "title": "贝壳在售：新明胡同",
+                  "url": "https://bj.ke.com/xiaoqu/rs%E6%96%B0%E6%98%8E%E8%83%A1%E5%90%8C/"
+                },
+                {
+                  "platform": "今日头条",
+                  "type": "深度 / 解读",
+                  "kind": "article",
+                  "title": "德胜学区梯队及房价深度分析",
+                  "url": "https://m.toutiao.com/article/7703561980522611209"
+                }
+              ]
+            },
+            {
+              "id": "20261121-house-3",
+              "title": "德胜里一区：1987 年楼龄，成交活跃的育翔划片盘",
+              "desc": "育翔小学划片，1987 年建成，18 层带电梯塔楼，10 月成交 48-60㎡ 户型单价 10.3-11.4 万/㎡。满五唯一房源为主，挂牌价与成交价差距不大，是德胜置换链条里的标准盘。",
+              "take": "带电梯的老塔楼比无电梯板楼抗跌，看房时先看楼体形态再谈价格。",
+              "tags": [
+                "育翔划片",
+                "成交活跃"
+              ],
+              "links": [
+                {
+                  "platform": "贝壳",
+                  "type": "在售房源",
+                  "kind": "topic",
+                  "title": "贝壳在售：德胜里一区",
+                  "url": "https://bj.ke.com/xiaoqu/rs%E5%BE%B7%E8%83%9C%E9%87%8C%E4%B8%80%E5%8C%BA/"
+                },
+                {
+                  "platform": "微信公众号",
+                  "type": "深度 / 解读",
+                  "kind": "article",
+                  "title": "2026 年 10 月西城德胜成交汇总",
+                  "url": "http://mp.weixin.qq.com/s?__biz=MzI3NTAyMDA2Mg==&mid=2649152369&idx=2&sn=40a421b4464690556aab4807c525e744&chksm=f21aa41911b6db671c72d89bdb7773ee33402441c482263dc2723d20148bb5b4dfdc7cd34322#rd"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
     {
       "date": "2026-11-20",
       "weekday": "周五",
