@@ -48,8 +48,464 @@
    =========================================================== */
 
 window.NEWS_DATA = {
-  "updatedAt": "2026-11-21 01:02",
+  "updatedAt": "2026-11-22 00:59",
   "editions": [
+    {
+      "date": "2026-11-22",
+      "weekday": "周日",
+      "issue": 8,
+      "updatedAt": "2026-11-22 00:59",
+      "mode": "auto",
+      "sections": [
+        {
+          "id": "ai",
+          "name": "人工智能",
+          "desc": "模型迭代、算力格局与产品落地",
+          "items": [
+            {
+              "id": "20261122-ai-1",
+              "title": "华中科技大学与阿里巴巴联合成立 AI 前沿安全研究中心，课题覆盖大模型安全攻防等",
+              "desc": "IT之家 11 月 21 日消息，华中科技大学与阿里巴巴集团于 11 月 18 日签署合作协议，聚焦 AI 安全共建“智能攻防与前沿安全联合研究中心”，首批启动 9 个课题。 IT之家获悉，联合研究中心首批启动的 9 个课题，覆盖 大模型安。",
+              "take": "",
+              "tags": [
+                "IT之家"
+              ],
+              "links": [
+                {
+                  "platform": "IT之家",
+                  "type": "原文",
+                  "kind": "article",
+                  "title": "华中科技大学与阿里巴巴联合成立 AI 前沿安全研究中心，课题覆盖大模型安全攻防等",
+                  "url": "https://www.ithome.com/1/030/423.htm"
+                },
+                {
+                  "platform": "知乎",
+                  "type": "站内话题",
+                  "kind": "topic",
+                  "title": "知乎讨论：华中科技大学与阿里巴巴联合成立 AI 前",
+                  "url": "https://www.zhihu.com/search?type=content&q=%E5%8D%8E%E4%B8%AD%E7%A7%91%E6%8A%80%E5%A4%A7%E5%AD%A6%E4%B8%8E%E9%98%BF%E9%87%8C%E5%B7%B4%E5%B7%B4%E8%81%94%E5%90%88%E6%88%90%E7%AB%8B%20AI%20%E5%89%8D%E6%B2%BF%E5%AE%89%E5%85%A8%E7%A0%94"
+                },
+                {
+                  "platform": "小红书",
+                  "type": "站内话题",
+                  "kind": "topic",
+                  "title": "小红书笔记：华中科技大学与阿里巴巴联合成立 AI 前",
+                  "url": "https://www.xiaohongshu.com/search_result?keyword=%E5%8D%8E%E4%B8%AD%E7%A7%91%E6%8A%80%E5%A4%A7%E5%AD%A6%E4%B8%8E%E9%98%BF%E9%87%8C%E5%B7%B4%E5%B7%B4%E8%81%94%E5%90%88%E6%88%90%E7%AB%8B%20AI%20%E5%89%8D%E6%B2%BF%E5%AE%89%E5%85%A8%E7%A0%94"
+                }
+              ]
+            },
+            {
+              "id": "20261122-ai-2",
+              "title": "GPT-6.2 Astra再次暴击具身模型：16项任务成功率较GPT-6 Astra翻倍",
+              "desc": "来自量子位的热点：GPT-6.2 Astra再次暴击具身模型：16项任务成功率较GPT-6 Astra翻倍。",
+              "take": "",
+              "tags": [
+                "量子位"
+              ],
+              "links": [
+                {
+                  "platform": "量子位",
+                  "type": "原文",
+                  "kind": "article",
+                  "title": "GPT-6.2 Astra再次暴击具身模型：16项任务成功率较GPT-6 Ast",
+                  "url": "https://www.qbitai.com/2026/11/511779.html"
+                },
+                {
+                  "platform": "知乎",
+                  "type": "站内话题",
+                  "kind": "topic",
+                  "title": "知乎讨论：GPT-6.2 Astra再次暴击具身模",
+                  "url": "https://www.zhihu.com/search?type=content&q=GPT-6.2%20Astra%E5%86%8D%E6%AC%A1%E6%9A%B4%E5%87%BB%E5%85%B7%E8%BA%AB%E6%A8%A1%E5%9E%8B%EF%BC%9A16"
+                },
+                {
+                  "platform": "小红书",
+                  "type": "站内话题",
+                  "kind": "topic",
+                  "title": "小红书笔记：GPT-6.2 Astra再次暴击具身模",
+                  "url": "https://www.xiaohongshu.com/search_result?keyword=GPT-6.2%20Astra%E5%86%8D%E6%AC%A1%E6%9A%B4%E5%87%BB%E5%85%B7%E8%BA%AB%E6%A8%A1%E5%9E%8B%EF%BC%9A16"
+                }
+              ]
+            },
+            {
+              "id": "20261122-ai-3",
+              "title": "当 Kling Image 4.0 自己出设计方案，生图的门槛又变了！",
+              "desc": "过去几年，AI 生图模型在真实感、分辨率和光影表现上不断刷新人们的认知。但当这些图片真正被用于海报、广告这些商业场景时仍会面临文字能否准确呈现、局部修改是否能保留原有设计等问题。 这些看似不起眼的要求，至今仍是图像模型的难题。（雷峰网） 今。",
+              "take": "",
+              "tags": [
+                "雷锋网"
+              ],
+              "links": [
+                {
+                  "platform": "雷锋网",
+                  "type": "原文",
+                  "kind": "article",
+                  "title": "当 Kling Image 4.0 自己出设计方案，生图的门槛又变了！",
+                  "url": "https://www.leiphone.com/category/yanxishe/zjw3hyGGqzhBaPj7.html"
+                },
+                {
+                  "platform": "知乎",
+                  "type": "站内话题",
+                  "kind": "topic",
+                  "title": "知乎讨论：当 Kling Image 4.0 自己",
+                  "url": "https://www.zhihu.com/search?type=content&q=%E5%BD%93%20Kling%20Image%204.0%20%E8%87%AA%E5%B7%B1%E5%87%BA%E8%AE%BE%E8%AE%A1%E6%96%B9"
+                },
+                {
+                  "platform": "小红书",
+                  "type": "站内话题",
+                  "kind": "topic",
+                  "title": "小红书笔记：当 Kling Image 4.0 自己",
+                  "url": "https://www.xiaohongshu.com/search_result?keyword=%E5%BD%93%20Kling%20Image%204.0%20%E8%87%AA%E5%B7%B1%E5%87%BA%E8%AE%BE%E8%AE%A1%E6%96%B9"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "social",
+          "name": "社会热点",
+          "desc": "当日讨论量最高、且仍有后续的公共事件",
+          "items": [
+            {
+              "id": "20261122-social-1",
+              "title": "看五十年的中国就来深圳",
+              "desc": "来自百度热搜的热点：看五十年的中国就来深圳。",
+              "take": "",
+              "tags": [
+                "百度热搜"
+              ],
+              "links": [
+                {
+                  "platform": "百度热搜",
+                  "type": "原文",
+                  "kind": "article",
+                  "title": "看五十年的中国就来深圳",
+                  "url": "https://m.baidu.com/s?word=%E7%9C%8B%E4%BA%94%E5%8D%81%E5%B9%B4%E7%9A%84%E4%B8%AD%E5%9B%BD%E5%B0%B1%E6%9D%A5%E6%B7%B1%E5%9C%B3&sa=fyb_news"
+                },
+                {
+                  "platform": "知乎",
+                  "type": "站内话题",
+                  "kind": "topic",
+                  "title": "知乎讨论：看五十年的中国就来深圳",
+                  "url": "https://www.zhihu.com/search?type=content&q=%E7%9C%8B%E4%BA%94%E5%8D%81%E5%B9%B4%E7%9A%84%E4%B8%AD%E5%9B%BD%E5%B0%B1%E6%9D%A5%E6%B7%B1%E5%9C%B3"
+                },
+                {
+                  "platform": "小红书",
+                  "type": "站内话题",
+                  "kind": "topic",
+                  "title": "小红书笔记：看五十年的中国就来深圳",
+                  "url": "https://www.xiaohongshu.com/search_result?keyword=%E7%9C%8B%E4%BA%94%E5%8D%81%E5%B9%B4%E7%9A%84%E4%B8%AD%E5%9B%BD%E5%B0%B1%E6%9D%A5%E6%B7%B1%E5%9C%B3"
+                }
+              ]
+            },
+            {
+              "id": "20261122-social-2",
+              "title": "央视揭秘网络女主播真实生态",
+              "desc": "来自百度热搜的热点：央视揭秘网络女主播真实生态。",
+              "take": "",
+              "tags": [
+                "百度热搜"
+              ],
+              "links": [
+                {
+                  "platform": "百度热搜",
+                  "type": "原文",
+                  "kind": "article",
+                  "title": "央视揭秘网络女主播真实生态",
+                  "url": "https://m.baidu.com/s?word=%E5%A4%AE%E8%A7%86%E6%8F%AD%E7%A7%98%E7%BD%91%E7%BB%9C%E5%A5%B3%E4%B8%BB%E6%92%AD%E7%9C%9F%E5%AE%9E%E7%94%9F%E6%80%81&sa=fyb_news"
+                },
+                {
+                  "platform": "知乎",
+                  "type": "站内话题",
+                  "kind": "topic",
+                  "title": "知乎讨论：央视揭秘网络女主播真实生态",
+                  "url": "https://www.zhihu.com/search?type=content&q=%E5%A4%AE%E8%A7%86%E6%8F%AD%E7%A7%98%E7%BD%91%E7%BB%9C%E5%A5%B3%E4%B8%BB%E6%92%AD%E7%9C%9F%E5%AE%9E%E7%94%9F%E6%80%81"
+                },
+                {
+                  "platform": "小红书",
+                  "type": "站内话题",
+                  "kind": "topic",
+                  "title": "小红书笔记：央视揭秘网络女主播真实生态",
+                  "url": "https://www.xiaohongshu.com/search_result?keyword=%E5%A4%AE%E8%A7%86%E6%8F%AD%E7%A7%98%E7%BD%91%E7%BB%9C%E5%A5%B3%E4%B8%BB%E6%92%AD%E7%9C%9F%E5%AE%9E%E7%94%9F%E6%80%81"
+                }
+              ]
+            },
+            {
+              "id": "20261122-social-3",
+              "title": "“深圳展望”为何成APEC新的里程碑",
+              "desc": "来自百度热搜的热点：“深圳展望”为何成APEC新的里程碑。",
+              "take": "",
+              "tags": [
+                "百度热搜"
+              ],
+              "links": [
+                {
+                  "platform": "百度热搜",
+                  "type": "原文",
+                  "kind": "article",
+                  "title": "“深圳展望”为何成APEC新的里程碑",
+                  "url": "https://m.baidu.com/s?word=%E2%80%9C%E6%B7%B1%E5%9C%B3%E5%B1%95%E6%9C%9B%E2%80%9D%E4%B8%BA%E4%BD%95%E6%88%90APEC%E6%96%B0%E7%9A%84%E9%87%8C%E7%A8%8B%E7%A2%91&sa=fyb_news"
+                },
+                {
+                  "platform": "知乎",
+                  "type": "站内话题",
+                  "kind": "topic",
+                  "title": "知乎讨论：“深圳展望”为何成APEC新的里程碑",
+                  "url": "https://www.zhihu.com/search?type=content&q=%E2%80%9C%E6%B7%B1%E5%9C%B3%E5%B1%95%E6%9C%9B%E2%80%9D%E4%B8%BA%E4%BD%95%E6%88%90APEC%E6%96%B0%E7%9A%84%E9%87%8C%E7%A8%8B%E7%A2%91"
+                },
+                {
+                  "platform": "小红书",
+                  "type": "站内话题",
+                  "kind": "topic",
+                  "title": "小红书笔记：“深圳展望”为何成APEC新的里程碑",
+                  "url": "https://www.xiaohongshu.com/search_result?keyword=%E2%80%9C%E6%B7%B1%E5%9C%B3%E5%B1%95%E6%9C%9B%E2%80%9D%E4%B8%BA%E4%BD%95%E6%88%90APEC%E6%96%B0%E7%9A%84%E9%87%8C%E7%A8%8B%E7%A2%91"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "meme",
+          "name": "网络热梗",
+          "desc": "正在刷屏的句式、梗图与自嘲标签",
+          "items": [
+            {
+              "id": "20261122-meme-1",
+              "title": "《GTA 6》火了 游戏主机也涨疯了",
+              "desc": "来自百度热搜的热点：《GTA 6》火了 游戏主机也涨疯了。",
+              "take": "",
+              "tags": [
+                "百度热搜"
+              ],
+              "links": [
+                {
+                  "platform": "百度热搜",
+                  "type": "原文",
+                  "kind": "article",
+                  "title": "《GTA 6》火了 游戏主机也涨疯了",
+                  "url": "https://m.baidu.com/s?word=%E3%80%8AGTA+6%E3%80%8B%E7%81%AB%E4%BA%86+%E6%B8%B8%E6%88%8F%E4%B8%BB%E6%9C%BA%E4%B9%9F%E6%B6%A8%E7%96%AF%E4%BA%86&sa=fyb_news"
+                },
+                {
+                  "platform": "知乎",
+                  "type": "站内话题",
+                  "kind": "topic",
+                  "title": "知乎讨论：《GTA 6》火了 游戏主机也涨疯了",
+                  "url": "https://www.zhihu.com/search?type=content&q=%E3%80%8AGTA%206%E3%80%8B%E7%81%AB%E4%BA%86%20%E6%B8%B8%E6%88%8F%E4%B8%BB%E6%9C%BA%E4%B9%9F%E6%B6%A8%E7%96%AF%E4%BA%86"
+                },
+                {
+                  "platform": "小红书",
+                  "type": "站内话题",
+                  "kind": "topic",
+                  "title": "小红书笔记：《GTA 6》火了 游戏主机也涨疯了",
+                  "url": "https://www.xiaohongshu.com/search_result?keyword=%E3%80%8AGTA%206%E3%80%8B%E7%81%AB%E4%BA%86%20%E6%B8%B8%E6%88%8F%E4%B8%BB%E6%9C%BA%E4%B9%9F%E6%B6%A8%E7%96%AF%E4%BA%86"
+                }
+              ]
+            },
+            {
+              "id": "20261122-meme-2",
+              "title": "网友称零跑A10装啤酒致后备厢储物盒脱落，客服称未接到反馈，具体是怎么回事？储物盒能如何规避",
+              "desc": "拉几箱啤酒，就把汽车后备厢压得露了底？11月19日晚，一段疑似零跑A10后备厢储物盒脱落的视频在网络流传。视频中，一辆汽车车尾下方的黑色箱状部件明显下垂，车后地面上还放着一箱啤酒。有网友称，车辆装载啤酒后出现了这一情况。新黄河记者获得的这段。",
+              "take": "",
+              "tags": [
+                "知乎热榜"
+              ],
+              "links": [
+                {
+                  "platform": "知乎热榜",
+                  "type": "原文",
+                  "kind": "article",
+                  "title": "网友称零跑A10装啤酒致后备厢储物盒脱落，客服称未接到反馈，具体是怎么回事？储物",
+                  "url": "https://www.zhihu.com/question/2107047283686691600"
+                },
+                {
+                  "platform": "知乎",
+                  "type": "站内话题",
+                  "kind": "topic",
+                  "title": "知乎讨论：网友称零跑A10装啤酒致后备厢储物盒脱落",
+                  "url": "https://www.zhihu.com/search?type=content&q=%E7%BD%91%E5%8F%8B%E7%A7%B0%E9%9B%B6%E8%B7%91A10%E8%A3%85%E5%95%A4%E9%85%92%E8%87%B4%E5%90%8E%E5%A4%87%E5%8E%A2%E5%82%A8%E7%89%A9%E7%9B%92%E8%84%B1%E8%90%BD%20%E5%AE%A2%E6%9C%8D%E7%A7%B0"
+                },
+                {
+                  "platform": "小红书",
+                  "type": "站内话题",
+                  "kind": "topic",
+                  "title": "小红书笔记：网友称零跑A10装啤酒致后备厢储物盒脱落",
+                  "url": "https://www.xiaohongshu.com/search_result?keyword=%E7%BD%91%E5%8F%8B%E7%A7%B0%E9%9B%B6%E8%B7%91A10%E8%A3%85%E5%95%A4%E9%85%92%E8%87%B4%E5%90%8E%E5%A4%87%E5%8E%A2%E5%82%A8%E7%89%A9%E7%9B%92%E8%84%B1%E8%90%BD%20%E5%AE%A2%E6%9C%8D%E7%A7%B0"
+                }
+              ]
+            },
+            {
+              "id": "20261122-meme-3",
+              "title": "网友扫共享单车半小时15元",
+              "desc": "来自百度热搜的热点：网友扫共享单车半小时15元。",
+              "take": "",
+              "tags": [
+                "百度热搜"
+              ],
+              "links": [
+                {
+                  "platform": "百度热搜",
+                  "type": "原文",
+                  "kind": "article",
+                  "title": "网友扫共享单车半小时15元",
+                  "url": "https://m.baidu.com/s?word=%E7%BD%91%E5%8F%8B%E6%89%AB%E5%85%B1%E4%BA%AB%E5%8D%95%E8%BD%A6%E5%8D%8A%E5%B0%8F%E6%97%B615%E5%85%83&sa=fyb_news"
+                },
+                {
+                  "platform": "知乎",
+                  "type": "站内话题",
+                  "kind": "topic",
+                  "title": "知乎讨论：网友扫共享单车半小时15元",
+                  "url": "https://www.zhihu.com/search?type=content&q=%E7%BD%91%E5%8F%8B%E6%89%AB%E5%85%B1%E4%BA%AB%E5%8D%95%E8%BD%A6%E5%8D%8A%E5%B0%8F%E6%97%B615%E5%85%83"
+                },
+                {
+                  "platform": "小红书",
+                  "type": "站内话题",
+                  "kind": "topic",
+                  "title": "小红书笔记：网友扫共享单车半小时15元",
+                  "url": "https://www.xiaohongshu.com/search_result?keyword=%E7%BD%91%E5%8F%8B%E6%89%AB%E5%85%B1%E4%BA%AB%E5%8D%95%E8%BD%A6%E5%8D%8A%E5%B0%8F%E6%97%B615%E5%85%83"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "edu",
+          "name": "教育规划",
+          "desc": "北京西城升学路径与政策解读 · 以当年官方发布为准",
+          "items": [
+            {
+              "id": "20261122-edu-1",
+              "title": "幼升小到小升初的完整时间线（西城）",
+              "desc": "4 月 30 日前完成毕业生信息核对；5 月 8-14 日受理外区/外省市回西城审核；5 月下旬直升资格认定；5 月 19-21 日一次性填报全部入学意向；6 月完成全区派位等批次；7 月 2 日学区派位录取，7 月上旬发通知书。",
+              "take": "西城升学是按月推进的流程战，5 月中下旬的填报窗口错过就只剩兜底。",
+              "tags": [
+                "时间线"
+              ],
+              "links": [
+                {
+                  "platform": "微信公众号",
+                  "type": "深度 / 解读",
+                  "kind": "article",
+                  "title": "2026 年西城区小升初完整指南",
+                  "url": "http://mp.weixin.qq.com/s?__biz=MzU5ODAzMzgyMA==&mid=2247485350&idx=1&sn=4b30e035077d8d780b35e08c24ef1f98&chksm=ffa781ca29eb3303aab20aedfae1c871ace8524229ca796cfd643b91e20165d65fc40be633d6#rd"
+                }
+              ]
+            },
+            {
+              "id": "20261122-edu-2",
+              "title": "德胜学区初中盘点：无弱校的「第一梯队」学区",
+              "desc": "德胜学区初中含四中、八中、十三中、十三分什刹海校区、三帆、三帆裕中、北师大二附中西城实验、西城外国语等。小学端有实验二小德胜校区、育翔、五路通、西师附小、三帆附小，是西城公认顶配学区。",
+              "take": "五路通小学所在的德胜学区，兜底校质量全区最高，这是它的底牌。",
+              "tags": [
+                "德胜学区",
+                "初中"
+              ],
+              "links": [
+                {
+                  "platform": "今日头条",
+                  "type": "深度 / 解读",
+                  "kind": "article",
+                  "title": "2026 西城区德胜学区梯队及房价深度分析",
+                  "url": "https://m.toutiao.com/article/7703561980522611209"
+                }
+              ]
+            },
+            {
+              "id": "20261122-edu-3",
+              "title": "西城学区三大梯队：德胜、月坛、金融街居首",
+              "desc": "家长圈通行分法：德胜（小学初中双顶配、无弱校）、月坛（初中实力超强）、金融街（直升名额多但有掉坑率）为第一梯队；什刹海、展览路、新街口、陶白为均衡的第二梯队。梯队决定了学区房的价差。",
+              "take": "梯队是房价的底层逻辑：德胜贵，贵在「哪所学校都不差」的确定性。",
+              "tags": [
+                "学区选择"
+              ],
+              "links": [
+                {
+                  "platform": "小升初信息网",
+                  "type": "深度 / 解读",
+                  "kind": "article",
+                  "title": "2026 西城小升初新政全解析",
+                  "url": "https://www.xscxx.com/xiaoshengchu/xcqxsc/2026040813504.html"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "house",
+          "name": "安家置业",
+          "desc": "五路通周边改善盘档案与购房要点 · 仅供参考，不构成任何购房建议",
+          "items": [
+            {
+              "id": "20261122-house-1",
+              "title": "总价段分布：500-800 万是德胜的主战场",
+              "desc": "10 月成交中 500-800 万占 74%，这就是德胜刚改家庭的主力区间。低于 500 万的多为小面积或特殊房况，高于 900 万的塔尖房源买家池小、去化慢，议价空间反而更大。",
+              "take": "你的预算落在主力区间，选择最多、可以慢慢挑；越偏离主力，越要警惕流动性。",
+              "tags": [
+                "预算规划"
+              ],
+              "links": [
+                {
+                  "platform": "微信公众号",
+                  "type": "深度 / 解读",
+                  "kind": "article",
+                  "title": "德胜学区 10 月成交全解码",
+                  "url": "http://mp.weixin.qq.com/s?__biz=MzYyMjk1MTI3NQ==&mid=2247484778&idx=1&sn=4667222b5bc802b00450b1c0930428d2&chksm=fef311f9b9b34fc1d6b043bcd957eec74792515e1c3d3389ce040693de1b40b75ab9bd7c712e#rd"
+                }
+              ]
+            },
+            {
+              "id": "20261122-house-2",
+              "title": "新风南里：同一小区同一周，单价能差 4.6 万",
+              "desc": "10 月同一周内：35.6㎡ 一居成交 486 万（13.65 万/㎡），62.8㎡ 两居成交 567 万（9.03 万/㎡）。小户型的价格按「最低上车门槛」定价，不看每平米值多少，看最少多少钱能进来。",
+              "take": "均价是小户型的记分牌——你买大户型，就别被小户型的高单价吓到。",
+              "tags": [
+                "定价逻辑"
+              ],
+              "links": [
+                {
+                  "platform": "贝壳",
+                  "type": "在售房源",
+                  "kind": "topic",
+                  "title": "贝壳在售：新风南里",
+                  "url": "https://bj.ke.com/xiaoqu/rs%E6%96%B0%E9%A3%8E%E5%8D%97%E9%87%8C/"
+                },
+                {
+                  "platform": "微信公众号",
+                  "type": "深度 / 解读",
+                  "kind": "article",
+                  "title": "德胜周记 · 每周成交复盘",
+                  "url": "http://mp.weixin.qq.com/s?__biz=MzI3NTAyMDA2Mg==&mid=2649152063&idx=1&sn=e00d5d0fb03e31949f81d5ef12ff3db8&chksm=f2805e4ae251e84bf675fe0d8e4ed52341801ebe829c6167a66ddd1ab9da28f6328b757cb14b#rd"
+                }
+              ]
+            },
+            {
+              "id": "20261122-house-3",
+              "title": "裕中西里 / 裕中东里：德胜的成交量发动机",
+              "desc": "三帆附小划片，两个小区 10 月各成交 11 套并列第一，单价多在 8-11 万、总价 500-700 万，挂牌量大、流通性最好。80% 直升三帆中学的通路在这两个老院子里兑现得最直接。",
+              "take": "预算 600 万上下求直升确定性，这两个盘是绕不开的第一站。",
+              "tags": [
+                "三帆附小",
+                "走量盘"
+              ],
+              "links": [
+                {
+                  "platform": "贝壳",
+                  "type": "在售房源",
+                  "kind": "topic",
+                  "title": "贝壳在售：裕中西里",
+                  "url": "https://bj.ke.com/xiaoqu/rs%E8%A3%95%E4%B8%AD%E8%A5%BF%E9%87%8C/"
+                },
+                {
+                  "platform": "微信公众号",
+                  "type": "深度 / 解读",
+                  "kind": "article",
+                  "title": "德胜学区 10 月成交全解码",
+                  "url": "http://mp.weixin.qq.com/s?__biz=MzYyMjk1MTI3NQ==&mid=2247484778&idx=1&sn=4667222b5bc802b00450b1c0930428d2&chksm=fef311f9b9b34fc1d6b043bcd957eec74792515e1c3d3389ce040693de1b40b75ab9bd7c712e#rd"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
     {
       "date": "2026-11-21",
       "weekday": "周六",
