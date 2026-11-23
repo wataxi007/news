@@ -48,8 +48,466 @@
    =========================================================== */
 
 window.NEWS_DATA = {
-  "updatedAt": "2026-11-22 00:59",
+  "updatedAt": "2026-11-23 01:02",
   "editions": [
+    {
+      "date": "2026-11-23",
+      "weekday": "周一",
+      "issue": 9,
+      "updatedAt": "2026-11-23 01:02",
+      "mode": "auto",
+      "sections": [
+        {
+          "id": "ai",
+          "name": "人工智能",
+          "desc": "模型迭代、算力格局与产品落地",
+          "items": [
+            {
+              "id": "20261123-ai-1",
+              "title": "签约后也能涨价：消息称 AI 服务器厂商交付前提价，涨幅最高达 45%",
+              "desc": "IT之家 11 月 22 日消息，据金融时报报道，随着人工智能基础设施成本飙升并向下游客户传导，销售数据中心设备的科技公司正在与买家签署合同数月后，大幅上调搭载英伟达芯片的人工智能服务器价格。 包括戴尔、慧与科技（HPE）、联想和超微电脑（。",
+              "take": "",
+              "tags": [
+                "IT之家"
+              ],
+              "links": [
+                {
+                  "platform": "IT之家",
+                  "type": "原文",
+                  "kind": "article",
+                  "title": "签约后也能涨价：消息称 AI 服务器厂商交付前提价，涨幅最高达 45%",
+                  "url": "https://www.ithome.com/1/030/713.htm"
+                },
+                {
+                  "platform": "知乎",
+                  "type": "站内话题",
+                  "kind": "topic",
+                  "title": "知乎讨论：签约后也能涨价：消息称 AI 服务器厂商",
+                  "url": "https://www.zhihu.com/search?type=content&q=%E7%AD%BE%E7%BA%A6%E5%90%8E%E4%B9%9F%E8%83%BD%E6%B6%A8%E4%BB%B7%EF%BC%9A%E6%B6%88%E6%81%AF%E7%A7%B0%20AI%20%E6%9C%8D%E5%8A%A1%E5%99%A8%E5%8E%82%E5%95%86%E4%BA%A4%E4%BB%98%E5%89%8D%E6%8F%90"
+                },
+                {
+                  "platform": "小红书",
+                  "type": "站内话题",
+                  "kind": "topic",
+                  "title": "小红书笔记：签约后也能涨价：消息称 AI 服务器厂商",
+                  "url": "https://www.xiaohongshu.com/search_result?keyword=%E7%AD%BE%E7%BA%A6%E5%90%8E%E4%B9%9F%E8%83%BD%E6%B6%A8%E4%BB%B7%EF%BC%9A%E6%B6%88%E6%81%AF%E7%A7%B0%20AI%20%E6%9C%8D%E5%8A%A1%E5%99%A8%E5%8E%82%E5%95%86%E4%BA%A4%E4%BB%98%E5%89%8D%E6%8F%90"
+                }
+              ]
+            },
+            {
+              "id": "20261123-ai-2",
+              "title": "灵掌机器人太空灵巧手亮相世界智能制造博览会",
+              "desc": "11月19日至21日，第十一届世界智能制造博览会（以下简称“智博会”）在南京国际博览中心举办。无锡灵掌机器人科技有限公司（以下简称“灵掌机器人”）携全系列共9款灵巧手产品参展，重点展示了灵巧手在工业制造、太空任务、特种作业、科研与人形机器人。",
+              "take": "",
+              "tags": [
+                "雷锋网"
+              ],
+              "links": [
+                {
+                  "platform": "雷锋网",
+                  "type": "原文",
+                  "kind": "article",
+                  "title": "灵掌机器人太空灵巧手亮相世界智能制造博览会",
+                  "url": "https://www.leiphone.com/category/industrynews/leaIWtsEkg58zaCy.html"
+                },
+                {
+                  "platform": "知乎",
+                  "type": "站内话题",
+                  "kind": "topic",
+                  "title": "知乎讨论：灵掌机器人太空灵巧手亮相世界智能制造博览",
+                  "url": "https://www.zhihu.com/search?type=content&q=%E7%81%B5%E6%8E%8C%E6%9C%BA%E5%99%A8%E4%BA%BA%E5%A4%AA%E7%A9%BA%E7%81%B5%E5%B7%A7%E6%89%8B%E4%BA%AE%E7%9B%B8%E4%B8%96%E7%95%8C%E6%99%BA%E8%83%BD%E5%88%B6%E9%80%A0%E5%8D%9A%E8%A7%88%E4%BC%9A"
+                },
+                {
+                  "platform": "小红书",
+                  "type": "站内话题",
+                  "kind": "topic",
+                  "title": "小红书笔记：灵掌机器人太空灵巧手亮相世界智能制造博览",
+                  "url": "https://www.xiaohongshu.com/search_result?keyword=%E7%81%B5%E6%8E%8C%E6%9C%BA%E5%99%A8%E4%BA%BA%E5%A4%AA%E7%A9%BA%E7%81%B5%E5%B7%A7%E6%89%8B%E4%BA%AE%E7%9B%B8%E4%B8%96%E7%95%8C%E6%99%BA%E8%83%BD%E5%88%B6%E9%80%A0%E5%8D%9A%E8%A7%88%E4%BC%9A"
+                }
+              ]
+            },
+            {
+              "id": "20261123-ai-3",
+              "title": "三个时间坐标 读懂APEC“中国年”",
+              "desc": "来自百度热搜的热点：三个时间坐标 读懂APEC“中国年”。",
+              "take": "",
+              "tags": [
+                "百度热搜"
+              ],
+              "links": [
+                {
+                  "platform": "百度热搜",
+                  "type": "原文",
+                  "kind": "article",
+                  "title": "三个时间坐标 读懂APEC“中国年”",
+                  "url": "https://m.baidu.com/s?word=%E4%B8%89%E4%B8%AA%E6%97%B6%E9%97%B4%E5%9D%90%E6%A0%87+%E8%AF%BB%E6%87%82APEC%E2%80%9C%E4%B8%AD%E5%9B%BD%E5%B9%B4%E2%80%9D&sa=fyb_news"
+                },
+                {
+                  "platform": "知乎",
+                  "type": "站内话题",
+                  "kind": "topic",
+                  "title": "知乎讨论：三个时间坐标 读懂APEC“中国年”",
+                  "url": "https://www.zhihu.com/search?type=content&q=%E4%B8%89%E4%B8%AA%E6%97%B6%E9%97%B4%E5%9D%90%E6%A0%87%20%E8%AF%BB%E6%87%82APEC%E2%80%9C%E4%B8%AD%E5%9B%BD%E5%B9%B4%E2%80%9D"
+                },
+                {
+                  "platform": "小红书",
+                  "type": "站内话题",
+                  "kind": "topic",
+                  "title": "小红书笔记：三个时间坐标 读懂APEC“中国年”",
+                  "url": "https://www.xiaohongshu.com/search_result?keyword=%E4%B8%89%E4%B8%AA%E6%97%B6%E9%97%B4%E5%9D%90%E6%A0%87%20%E8%AF%BB%E6%87%82APEC%E2%80%9C%E4%B8%AD%E5%9B%BD%E5%B9%B4%E2%80%9D"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "social",
+          "name": "社会热点",
+          "desc": "当日讨论量最高、且仍有后续的公共事件",
+          "items": [
+            {
+              "id": "20261123-social-1",
+              "title": "赖清德沈伯洋穿日本祭祀服造势引公愤",
+              "desc": "来自百度热搜的热点：赖清德沈伯洋穿日本祭祀服造势引公愤。",
+              "take": "",
+              "tags": [
+                "百度热搜"
+              ],
+              "links": [
+                {
+                  "platform": "百度热搜",
+                  "type": "原文",
+                  "kind": "article",
+                  "title": "赖清德沈伯洋穿日本祭祀服造势引公愤",
+                  "url": "https://m.baidu.com/s?word=%E8%B5%96%E6%B8%85%E5%BE%B7%E6%B2%88%E4%BC%AF%E6%B4%8B%E7%A9%BF%E6%97%A5%E6%9C%AC%E7%A5%AD%E7%A5%80%E6%9C%8D%E9%80%A0%E5%8A%BF%E5%BC%95%E5%85%AC%E6%84%A4&sa=fyb_news"
+                },
+                {
+                  "platform": "知乎",
+                  "type": "站内话题",
+                  "kind": "topic",
+                  "title": "知乎讨论：赖清德沈伯洋穿日本祭祀服造势引公愤",
+                  "url": "https://www.zhihu.com/search?type=content&q=%E8%B5%96%E6%B8%85%E5%BE%B7%E6%B2%88%E4%BC%AF%E6%B4%8B%E7%A9%BF%E6%97%A5%E6%9C%AC%E7%A5%AD%E7%A5%80%E6%9C%8D%E9%80%A0%E5%8A%BF%E5%BC%95%E5%85%AC%E6%84%A4"
+                },
+                {
+                  "platform": "小红书",
+                  "type": "站内话题",
+                  "kind": "topic",
+                  "title": "小红书笔记：赖清德沈伯洋穿日本祭祀服造势引公愤",
+                  "url": "https://www.xiaohongshu.com/search_result?keyword=%E8%B5%96%E6%B8%85%E5%BE%B7%E6%B2%88%E4%BC%AF%E6%B4%8B%E7%A9%BF%E6%97%A5%E6%9C%AC%E7%A5%AD%E7%A5%80%E6%9C%8D%E9%80%A0%E5%8A%BF%E5%BC%95%E5%85%AC%E6%84%A4"
+                }
+              ]
+            },
+            {
+              "id": "20261123-social-2",
+              "title": "智能穿戴打开消费新空间",
+              "desc": "来自百度热搜的热点：智能穿戴打开消费新空间。",
+              "take": "",
+              "tags": [
+                "百度热搜"
+              ],
+              "links": [
+                {
+                  "platform": "百度热搜",
+                  "type": "原文",
+                  "kind": "article",
+                  "title": "智能穿戴打开消费新空间",
+                  "url": "https://m.baidu.com/s?word=%E6%99%BA%E8%83%BD%E7%A9%BF%E6%88%B4%E6%89%93%E5%BC%80%E6%B6%88%E8%B4%B9%E6%96%B0%E7%A9%BA%E9%97%B4&sa=fyb_news"
+                },
+                {
+                  "platform": "知乎",
+                  "type": "站内话题",
+                  "kind": "topic",
+                  "title": "知乎讨论：智能穿戴打开消费新空间",
+                  "url": "https://www.zhihu.com/search?type=content&q=%E6%99%BA%E8%83%BD%E7%A9%BF%E6%88%B4%E6%89%93%E5%BC%80%E6%B6%88%E8%B4%B9%E6%96%B0%E7%A9%BA%E9%97%B4"
+                },
+                {
+                  "platform": "小红书",
+                  "type": "站内话题",
+                  "kind": "topic",
+                  "title": "小红书笔记：智能穿戴打开消费新空间",
+                  "url": "https://www.xiaohongshu.com/search_result?keyword=%E6%99%BA%E8%83%BD%E7%A9%BF%E6%88%B4%E6%89%93%E5%BC%80%E6%B6%88%E8%B4%B9%E6%96%B0%E7%A9%BA%E9%97%B4"
+                }
+              ]
+            },
+            {
+              "id": "20261123-social-3",
+              "title": "上交所、深交所、北交所打出重磅组合拳",
+              "desc": "来自百度热搜的热点：上交所、深交所、北交所打出重磅组合拳。",
+              "take": "",
+              "tags": [
+                "百度热搜"
+              ],
+              "links": [
+                {
+                  "platform": "百度热搜",
+                  "type": "原文",
+                  "kind": "article",
+                  "title": "上交所、深交所、北交所打出重磅组合拳",
+                  "url": "https://m.baidu.com/s?word=%E4%B8%8A%E4%BA%A4%E6%89%80%E3%80%81%E6%B7%B1%E4%BA%A4%E6%89%80%E3%80%81%E5%8C%97%E4%BA%A4%E6%89%80%E6%89%93%E5%87%BA%E9%87%8D%E7%A3%85%E7%BB%84%E5%90%88%E6%8B%B3&sa=fyb_news"
+                },
+                {
+                  "platform": "知乎",
+                  "type": "站内话题",
+                  "kind": "topic",
+                  "title": "知乎讨论：上交所、深交所、北交所打出重磅组合拳",
+                  "url": "https://www.zhihu.com/search?type=content&q=%E4%B8%8A%E4%BA%A4%E6%89%80%E3%80%81%E6%B7%B1%E4%BA%A4%E6%89%80%E3%80%81%E5%8C%97%E4%BA%A4%E6%89%80%E6%89%93%E5%87%BA%E9%87%8D%E7%A3%85%E7%BB%84%E5%90%88%E6%8B%B3"
+                },
+                {
+                  "platform": "小红书",
+                  "type": "站内话题",
+                  "kind": "topic",
+                  "title": "小红书笔记：上交所、深交所、北交所打出重磅组合拳",
+                  "url": "https://www.xiaohongshu.com/search_result?keyword=%E4%B8%8A%E4%BA%A4%E6%89%80%E3%80%81%E6%B7%B1%E4%BA%A4%E6%89%80%E3%80%81%E5%8C%97%E4%BA%A4%E6%89%80%E6%89%93%E5%87%BA%E9%87%8D%E7%A3%85%E7%BB%84%E5%90%88%E6%8B%B3"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "meme",
+          "name": "网络热梗",
+          "desc": "正在刷屏的句式、梗图与自嘲标签",
+          "items": [
+            {
+              "id": "20261123-meme-1",
+              "title": "日本网友对比石破茂与高市APEC表现",
+              "desc": "来自百度热搜的热点：日本网友对比石破茂与高市APEC表现。",
+              "take": "",
+              "tags": [
+                "百度热搜"
+              ],
+              "links": [
+                {
+                  "platform": "百度热搜",
+                  "type": "原文",
+                  "kind": "article",
+                  "title": "日本网友对比石破茂与高市APEC表现",
+                  "url": "https://m.baidu.com/s?word=%E6%97%A5%E6%9C%AC%E7%BD%91%E5%8F%8B%E5%AF%B9%E6%AF%94%E7%9F%B3%E7%A0%B4%E8%8C%82%E4%B8%8E%E9%AB%98%E5%B8%82APEC%E8%A1%A8%E7%8E%B0&sa=fyb_news"
+                },
+                {
+                  "platform": "知乎",
+                  "type": "站内话题",
+                  "kind": "topic",
+                  "title": "知乎讨论：日本网友对比石破茂与高市APEC表现",
+                  "url": "https://www.zhihu.com/search?type=content&q=%E6%97%A5%E6%9C%AC%E7%BD%91%E5%8F%8B%E5%AF%B9%E6%AF%94%E7%9F%B3%E7%A0%B4%E8%8C%82%E4%B8%8E%E9%AB%98%E5%B8%82APEC%E8%A1%A8%E7%8E%B0"
+                },
+                {
+                  "platform": "小红书",
+                  "type": "站内话题",
+                  "kind": "topic",
+                  "title": "小红书笔记：日本网友对比石破茂与高市APEC表现",
+                  "url": "https://www.xiaohongshu.com/search_result?keyword=%E6%97%A5%E6%9C%AC%E7%BD%91%E5%8F%8B%E5%AF%B9%E6%AF%94%E7%9F%B3%E7%A0%B4%E8%8C%82%E4%B8%8E%E9%AB%98%E5%B8%82APEC%E8%A1%A8%E7%8E%B0"
+                }
+              ]
+            },
+            {
+              "id": "20261123-meme-2",
+              "title": "方力申耗时 8 小时 37 分 24 秒从香港游到澳门破吉尼斯纪录，完成这样的挑战难度有多大",
+              "desc": "据报道，21日，方力申耗时8小时37分24秒从香港游到澳门，刷新“香港至澳门游泳用时最短（男性）”的吉尼斯世界纪录。他又紧接着登台演出，结束后他表示其实身体已经发出预警，在水里时冷得差点撑不住。 另外，方力申回应二胎是儿子，称原以为这胎会再。",
+              "take": "",
+              "tags": [
+                "知乎热榜"
+              ],
+              "links": [
+                {
+                  "platform": "知乎热榜",
+                  "type": "原文",
+                  "kind": "article",
+                  "title": "方力申耗时 8 小时 37 分 24 秒从香港游到澳门破吉尼斯纪录，完成这样的挑",
+                  "url": "https://www.zhihu.com/question/2107848989819326700"
+                },
+                {
+                  "platform": "知乎",
+                  "type": "站内话题",
+                  "kind": "topic",
+                  "title": "知乎讨论：方力申耗时 8 小时 37 分 24 秒",
+                  "url": "https://www.zhihu.com/search?type=content&q=%E6%96%B9%E5%8A%9B%E7%94%B3%E8%80%97%E6%97%B6%208%20%E5%B0%8F%E6%97%B6%2037%20%E5%88%86%2024%20%E7%A7%92%E4%BB%8E%E9%A6%99%E6%B8%AF%E6%B8%B8"
+                },
+                {
+                  "platform": "小红书",
+                  "type": "站内话题",
+                  "kind": "topic",
+                  "title": "小红书笔记：方力申耗时 8 小时 37 分 24 秒",
+                  "url": "https://www.xiaohongshu.com/search_result?keyword=%E6%96%B9%E5%8A%9B%E7%94%B3%E8%80%97%E6%97%B6%208%20%E5%B0%8F%E6%97%B6%2037%20%E5%88%86%2024%20%E7%A7%92%E4%BB%8E%E9%A6%99%E6%B8%AF%E6%B8%B8"
+                }
+              ]
+            },
+            {
+              "id": "20261123-meme-3",
+              "title": "八马茶业回应被暂停全军采购资格",
+              "desc": "来自百度热搜的热点：八马茶业回应被暂停全军采购资格。",
+              "take": "",
+              "tags": [
+                "百度热搜"
+              ],
+              "links": [
+                {
+                  "platform": "百度热搜",
+                  "type": "原文",
+                  "kind": "article",
+                  "title": "八马茶业回应被暂停全军采购资格",
+                  "url": "https://m.baidu.com/s?word=%E5%85%AB%E9%A9%AC%E8%8C%B6%E4%B8%9A%E5%9B%9E%E5%BA%94%E8%A2%AB%E6%9A%82%E5%81%9C%E5%85%A8%E5%86%9B%E9%87%87%E8%B4%AD%E8%B5%84%E6%A0%BC&sa=fyb_news"
+                },
+                {
+                  "platform": "知乎",
+                  "type": "站内话题",
+                  "kind": "topic",
+                  "title": "知乎讨论：八马茶业回应被暂停全军采购资格",
+                  "url": "https://www.zhihu.com/search?type=content&q=%E5%85%AB%E9%A9%AC%E8%8C%B6%E4%B8%9A%E5%9B%9E%E5%BA%94%E8%A2%AB%E6%9A%82%E5%81%9C%E5%85%A8%E5%86%9B%E9%87%87%E8%B4%AD%E8%B5%84%E6%A0%BC"
+                },
+                {
+                  "platform": "小红书",
+                  "type": "站内话题",
+                  "kind": "topic",
+                  "title": "小红书笔记：八马茶业回应被暂停全军采购资格",
+                  "url": "https://www.xiaohongshu.com/search_result?keyword=%E5%85%AB%E9%A9%AC%E8%8C%B6%E4%B8%9A%E5%9B%9E%E5%BA%94%E8%A2%AB%E6%9A%82%E5%81%9C%E5%85%A8%E5%86%9B%E9%87%87%E8%B4%AD%E8%B5%84%E6%A0%BC"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "edu",
+          "name": "教育规划",
+          "desc": "北京西城升学路径与政策解读 · 以当年官方发布为准",
+          "items": [
+            {
+              "id": "20261123-edu-1",
+              "title": "集团化与「0.5+3」：贯通培养正在改变升学打法",
+              "desc": "北京推动教育集团贯通：集团内直升（0.5+3、1+3 项目）可提前锁定高中资源，名额逐年扩容。择校时「选集团」与「选学区」成为两条并行路线，集团内初中往往有隐性升学优势。",
+              "take": "看一所初中别只看派位名单，它属于哪个教育集团，同样影响三年后的去向。",
+              "tags": [
+                "中考",
+                "集团化"
+              ],
+              "links": [
+                {
+                  "platform": "北京中考信息网",
+                  "type": "深度 / 解读",
+                  "kind": "article",
+                  "title": "2026 北京小升初热点汇总",
+                  "url": "https://www.zhongkaobj.cn/zhaosheng/tcszs/2025050713469.html"
+                }
+              ]
+            },
+            {
+              "id": "20261123-edu-2",
+              "title": "学区派位是兜底批次：学区内初中必须全部填满",
+              "desc": "前面所有途径都没录取的孩子，最终按学区派位入学，且必须把学区内所有初中不重不漏填满才能提交，否则视为按系统默认顺序随机派位。志愿顺序按真实意愿排，最后一志愿放门槛较低的学校。",
+              "take": "兜底批次也有策略：填满且排好序，才不会被调剂到不想要的学校。",
+              "tags": [
+                "小升初",
+                "志愿填报"
+              ],
+              "links": [
+                {
+                  "platform": "微信公众号",
+                  "type": "深度 / 解读",
+                  "kind": "article",
+                  "title": "2026 年西城区小升初完整指南",
+                  "url": "http://mp.weixin.qq.com/s?__biz=MzU5ODAzMzgyMA==&mid=2247485350&idx=1&sn=4b30e035077d8d780b35e08c24ef1f98&chksm=ffa781ca29eb3303aab20aedfae1c871ace8524229ca796cfd643b91e20165d65fc40be633d6#rd"
+                }
+              ]
+            },
+            {
+              "id": "20261123-edu-3",
+              "title": "学区登记入学：420 人的「提前下车」通道",
+              "desc": "在学区内选一所对口初中（三中、七中、三十九中、五十六中等 14 所）自愿登记，报名不超过计划就直接录取。2026 年总计划 420 人。适合想提前锁定中段校、结束小升初焦虑的家庭。",
+              "take": "不求顶尖、求确定的家庭，可以在这一批次提前下车。",
+              "tags": [
+                "小升初",
+                "学区登记"
+              ],
+              "links": [
+                {
+                  "platform": "微信公众号",
+                  "type": "深度 / 解读",
+                  "kind": "article",
+                  "title": "2026 年西城区小升初完整指南",
+                  "url": "http://mp.weixin.qq.com/s?__biz=MzU5ODAzMzgyMA==&mid=2247485350&idx=1&sn=4b30e035077d8d780b35e08c24ef1f98&chksm=ffa781ca29eb3303aab20aedfae1c871ace8524229ca796cfd643b91e20165d65fc40be633d6#rd"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "house",
+          "name": "安家置业",
+          "desc": "五路通周边改善盘档案与购房要点 · 仅供参考，不构成任何购房建议",
+          "items": [
+            {
+              "id": "20261123-house-1",
+              "title": "户型结构：两居是德胜主力，三居改善行情开始回暖",
+              "desc": "10 月德胜成交：两居 59 套占近半（10.09 万/㎡），一居 28 套单价最硬（12.01 万/㎡），三居 33 套且单价环比上涨 0.2 万——改善客户入场，大三居行情回暖，四居成交极少、波动大。",
+              "take": "改善买三居正在变得有议价筹码：供应增多、行情刚抬头、卖家在让价。",
+              "tags": [
+                "户型选择"
+              ],
+              "links": [
+                {
+                  "platform": "微信公众号",
+                  "type": "深度 / 解读",
+                  "kind": "article",
+                  "title": "2026 年 10 月西城德胜成交汇总",
+                  "url": "http://mp.weixin.qq.com/s?__biz=MzI3NTAyMDA2Mg==&mid=2649152369&idx=2&sn=40a421b4464690556aab4807c525e744&chksm=f21aa41911b6db671c72d89bdb7773ee33402441c482263dc2723d20148bb5b4dfdc7cd34322#rd"
+                }
+              ]
+            },
+            {
+              "id": "20261123-house-2",
+              "title": "马甸南村：月成交 10 套的老盘，议价空间典型案例",
+              "desc": "10 月成交 10 套，76.6㎡ 三居从挂牌 795 万谈到 681 万（议价 14.3%）。1985-89 年楼龄，南北两居三居为主。议价率高的房子多半一开始就挂高了，谈价空间要按挂牌价的虚高程度算。",
+              "take": "在德胜没有「按挂牌价成交」的默认选项，平均折价 7-8% 是常态。",
+              "tags": [
+                "议价案例"
+              ],
+              "links": [
+                {
+                  "platform": "贝壳",
+                  "type": "在售房源",
+                  "kind": "topic",
+                  "title": "贝壳在售：马甸南村",
+                  "url": "https://bj.ke.com/xiaoqu/rs%E9%A9%AC%E7%94%B8%E5%8D%97%E6%9D%91/"
+                },
+                {
+                  "platform": "微信公众号",
+                  "type": "深度 / 解读",
+                  "kind": "article",
+                  "title": "德胜周记 · 每周成交复盘",
+                  "url": "http://mp.weixin.qq.com/s?__biz=MzI3NTAyMDA2Mg==&mid=2649152063&idx=1&sn=e00d5d0fb03e31949f81d5ef12ff3db8&chksm=f2805e4ae251e84bf675fe0d8e4ed52341801ebe829c6167a66ddd1ab9da28f6328b757cb14b#rd"
+                }
+              ]
+            },
+            {
+              "id": "20261123-house-3",
+              "title": "新外大街甲 8 号院：央产房集中，也是高折价警示区",
+              "desc": "1979-92 年央产房社区，62-87㎡ 南北户型 10.3-11.4 万/㎡。10 月曾出现 81.5㎡ 从 910 万砍到 603.6 万成交（折价 33.7%）的极端个案——反常低价背后往往有硬伤（楼层、学位、抵押、户型）。",
+              "take": "占坑心态捡漏之前，先把产权、抵押、学位占用三件事查透。",
+              "tags": [
+                "央产房",
+                "风险案例"
+              ],
+              "links": [
+                {
+                  "platform": "贝壳",
+                  "type": "在售房源",
+                  "kind": "topic",
+                  "title": "贝壳在售：新外大街甲8号院",
+                  "url": "https://bj.ke.com/xiaoqu/rs%E6%96%B0%E5%A4%96%E5%A4%A7%E8%A1%97%E7%94%B28%E5%8F%B7%E9%99%A2/"
+                },
+                {
+                  "platform": "微信公众号",
+                  "type": "深度 / 解读",
+                  "kind": "article",
+                  "title": "德胜学区 10 月成交全解码",
+                  "url": "http://mp.weixin.qq.com/s?__biz=MzYyMjk1MTI3NQ==&mid=2247484778&idx=1&sn=4667222b5bc802b00450b1c0930428d2&chksm=fef311f9b9b34fc1d6b043bcd957eec74792515e1c3d3389ce040693de1b40b75ab9bd7c712e#rd"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
     {
       "date": "2026-11-22",
       "weekday": "周日",
