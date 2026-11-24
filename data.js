@@ -48,8 +48,472 @@
    =========================================================== */
 
 window.NEWS_DATA = {
-  "updatedAt": "2026-11-23 01:02",
+  "updatedAt": "2026-11-24 01:02",
   "editions": [
+    {
+      "date": "2026-11-24",
+      "weekday": "周二",
+      "issue": 10,
+      "updatedAt": "2026-11-24 01:02",
+      "mode": "auto",
+      "sections": [
+        {
+          "id": "ai",
+          "name": "人工智能",
+          "desc": "模型迭代、算力格局与产品落地",
+          "items": [
+            {
+              "id": "20261124-ai-1",
+              "title": "马斯克承认 AI 研发落后对手：出租 SpaceXSI 算力比自研 Grok 更赚钱",
+              "desc": "IT之家 11 月 24 日消息，据《纽约时报》当地时间 11 月 23 日报道，SpaceX 首席执行官埃隆・马斯克近日向员工表示，公司在人工智能（AI）研发方面正落后于 Anthropic、OpenAI 等竞争对手，因此，与其将数据中心。",
+              "take": "",
+              "tags": [
+                "IT之家"
+              ],
+              "links": [
+                {
+                  "platform": "IT之家",
+                  "type": "原文",
+                  "kind": "article",
+                  "title": "马斯克承认 AI 研发落后对手：出租 SpaceXSI 算力比自研 Grok 更",
+                  "url": "https://www.ithome.com/1/031/246.htm"
+                },
+                {
+                  "platform": "知乎",
+                  "type": "站内话题",
+                  "kind": "topic",
+                  "title": "知乎讨论：马斯克承认 AI 研发落后对手：出租 S",
+                  "url": "https://www.zhihu.com/search?type=content&q=%E9%A9%AC%E6%96%AF%E5%85%8B%E6%89%BF%E8%AE%A4%20AI%20%E7%A0%94%E5%8F%91%E8%90%BD%E5%90%8E%E5%AF%B9%E6%89%8B%EF%BC%9A%E5%87%BA%E7%A7%9F%20Space"
+                },
+                {
+                  "platform": "小红书",
+                  "type": "站内话题",
+                  "kind": "topic",
+                  "title": "小红书笔记：马斯克承认 AI 研发落后对手：出租 S",
+                  "url": "https://www.xiaohongshu.com/search_result?keyword=%E9%A9%AC%E6%96%AF%E5%85%8B%E6%89%BF%E8%AE%A4%20AI%20%E7%A0%94%E5%8F%91%E8%90%BD%E5%90%8E%E5%AF%B9%E6%89%8B%EF%BC%9A%E5%87%BA%E7%A7%9F%20Space"
+                }
+              ]
+            },
+            {
+              "id": "20261124-ai-2",
+              "title": "蚂蚁阿福同款大模型宣布开源，全球医生一台电脑就能解锁专业医疗 AI 能力",
+              "desc": "来自量子位的热点：蚂蚁阿福同款大模型宣布开源，全球医生一台电脑就能解锁专业医疗 AI 能力。",
+              "take": "",
+              "tags": [
+                "量子位"
+              ],
+              "links": [
+                {
+                  "platform": "量子位",
+                  "type": "原文",
+                  "kind": "article",
+                  "title": "蚂蚁阿福同款大模型宣布开源，全球医生一台电脑就能解锁专业医疗 AI 能力",
+                  "url": "https://www.qbitai.com/2026/11/511998.html"
+                },
+                {
+                  "platform": "知乎",
+                  "type": "站内话题",
+                  "kind": "topic",
+                  "title": "知乎讨论：蚂蚁阿福同款大模型宣布开源，全球医生一台",
+                  "url": "https://www.zhihu.com/search?type=content&q=%E8%9A%82%E8%9A%81%E9%98%BF%E7%A6%8F%E5%90%8C%E6%AC%BE%E5%A4%A7%E6%A8%A1%E5%9E%8B%E5%AE%A3%E5%B8%83%E5%BC%80%E6%BA%90%20%E5%85%A8%E7%90%83%E5%8C%BB%E7%94%9F%E4%B8%80%E5%8F%B0%E7%94%B5%E8%84%91%E5%B0%B1%E8%83%BD"
+                },
+                {
+                  "platform": "小红书",
+                  "type": "站内话题",
+                  "kind": "topic",
+                  "title": "小红书笔记：蚂蚁阿福同款大模型宣布开源，全球医生一台",
+                  "url": "https://www.xiaohongshu.com/search_result?keyword=%E8%9A%82%E8%9A%81%E9%98%BF%E7%A6%8F%E5%90%8C%E6%AC%BE%E5%A4%A7%E6%A8%A1%E5%9E%8B%E5%AE%A3%E5%B8%83%E5%BC%80%E6%BA%90%20%E5%85%A8%E7%90%83%E5%8C%BB%E7%94%9F%E4%B8%80%E5%8F%B0%E7%94%B5%E8%84%91%E5%B0%B1%E8%83%BD"
+                }
+              ]
+            },
+            {
+              "id": "20261124-ai-3",
+              "title": "亚太经合组织深圳会议蕴含深刻启迪",
+              "desc": "来自百度热搜的热点：亚太经合组织深圳会议蕴含深刻启迪。",
+              "take": "",
+              "tags": [
+                "百度热搜"
+              ],
+              "links": [
+                {
+                  "platform": "百度热搜",
+                  "type": "原文",
+                  "kind": "article",
+                  "title": "亚太经合组织深圳会议蕴含深刻启迪",
+                  "url": "https://m.baidu.com/s?word=%E4%BA%9A%E5%A4%AA%E7%BB%8F%E5%90%88%E7%BB%84%E7%BB%87%E6%B7%B1%E5%9C%B3%E4%BC%9A%E8%AE%AE%E8%95%B4%E5%90%AB%E6%B7%B1%E5%88%BB%E5%90%AF%E8%BF%AA&sa=fyb_news"
+                },
+                {
+                  "platform": "知乎",
+                  "type": "站内话题",
+                  "kind": "topic",
+                  "title": "知乎讨论：亚太经合组织深圳会议蕴含深刻启迪",
+                  "url": "https://www.zhihu.com/search?type=content&q=%E4%BA%9A%E5%A4%AA%E7%BB%8F%E5%90%88%E7%BB%84%E7%BB%87%E6%B7%B1%E5%9C%B3%E4%BC%9A%E8%AE%AE%E8%95%B4%E5%90%AB%E6%B7%B1%E5%88%BB%E5%90%AF%E8%BF%AA"
+                },
+                {
+                  "platform": "小红书",
+                  "type": "站内话题",
+                  "kind": "topic",
+                  "title": "小红书笔记：亚太经合组织深圳会议蕴含深刻启迪",
+                  "url": "https://www.xiaohongshu.com/search_result?keyword=%E4%BA%9A%E5%A4%AA%E7%BB%8F%E5%90%88%E7%BB%84%E7%BB%87%E6%B7%B1%E5%9C%B3%E4%BC%9A%E8%AE%AE%E8%95%B4%E5%90%AB%E6%B7%B1%E5%88%BB%E5%90%AF%E8%BF%AA"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "social",
+          "name": "社会热点",
+          "desc": "当日讨论量最高、且仍有后续的公共事件",
+          "items": [
+            {
+              "id": "20261124-social-1",
+              "title": "探秘中国高铁的强大“内核”",
+              "desc": "来自百度热搜的热点：探秘中国高铁的强大“内核”。",
+              "take": "",
+              "tags": [
+                "百度热搜"
+              ],
+              "links": [
+                {
+                  "platform": "百度热搜",
+                  "type": "原文",
+                  "kind": "article",
+                  "title": "探秘中国高铁的强大“内核”",
+                  "url": "https://m.baidu.com/s?word=%E6%8E%A2%E7%A7%98%E4%B8%AD%E5%9B%BD%E9%AB%98%E9%93%81%E7%9A%84%E5%BC%BA%E5%A4%A7%E2%80%9C%E5%86%85%E6%A0%B8%E2%80%9D&sa=fyb_news"
+                },
+                {
+                  "platform": "知乎",
+                  "type": "站内话题",
+                  "kind": "topic",
+                  "title": "知乎讨论：探秘中国高铁的强大“内核”",
+                  "url": "https://www.zhihu.com/search?type=content&q=%E6%8E%A2%E7%A7%98%E4%B8%AD%E5%9B%BD%E9%AB%98%E9%93%81%E7%9A%84%E5%BC%BA%E5%A4%A7%E2%80%9C%E5%86%85%E6%A0%B8%E2%80%9D"
+                },
+                {
+                  "platform": "小红书",
+                  "type": "站内话题",
+                  "kind": "topic",
+                  "title": "小红书笔记：探秘中国高铁的强大“内核”",
+                  "url": "https://www.xiaohongshu.com/search_result?keyword=%E6%8E%A2%E7%A7%98%E4%B8%AD%E5%9B%BD%E9%AB%98%E9%93%81%E7%9A%84%E5%BC%BA%E5%A4%A7%E2%80%9C%E5%86%85%E6%A0%B8%E2%80%9D"
+                }
+              ]
+            },
+            {
+              "id": "20261124-social-2",
+              "title": "关乎“养老钱” 人社部公开征求意见",
+              "desc": "来自百度热搜的热点：关乎“养老钱” 人社部公开征求意见。",
+              "take": "",
+              "tags": [
+                "百度热搜"
+              ],
+              "links": [
+                {
+                  "platform": "百度热搜",
+                  "type": "原文",
+                  "kind": "article",
+                  "title": "关乎“养老钱” 人社部公开征求意见",
+                  "url": "https://m.baidu.com/s?word=%E5%85%B3%E4%B9%8E%E2%80%9C%E5%85%BB%E8%80%81%E9%92%B1%E2%80%9D+%E4%BA%BA%E7%A4%BE%E9%83%A8%E5%85%AC%E5%BC%80%E5%BE%81%E6%B1%82%E6%84%8F%E8%A7%81&sa=fyb_news"
+                },
+                {
+                  "platform": "知乎",
+                  "type": "站内话题",
+                  "kind": "topic",
+                  "title": "知乎讨论：关乎“养老钱” 人社部公开征求意见",
+                  "url": "https://www.zhihu.com/search?type=content&q=%E5%85%B3%E4%B9%8E%E2%80%9C%E5%85%BB%E8%80%81%E9%92%B1%E2%80%9D%20%E4%BA%BA%E7%A4%BE%E9%83%A8%E5%85%AC%E5%BC%80%E5%BE%81%E6%B1%82%E6%84%8F%E8%A7%81"
+                },
+                {
+                  "platform": "小红书",
+                  "type": "站内话题",
+                  "kind": "topic",
+                  "title": "小红书笔记：关乎“养老钱” 人社部公开征求意见",
+                  "url": "https://www.xiaohongshu.com/search_result?keyword=%E5%85%B3%E4%B9%8E%E2%80%9C%E5%85%BB%E8%80%81%E9%92%B1%E2%80%9D%20%E4%BA%BA%E7%A4%BE%E9%83%A8%E5%85%AC%E5%BC%80%E5%BE%81%E6%B1%82%E6%84%8F%E8%A7%81"
+                }
+              ]
+            },
+            {
+              "id": "20261124-social-3",
+              "title": "中方就以总理等被发逮捕令表态",
+              "desc": "来自百度热搜的热点：中方就以总理等被发逮捕令表态。",
+              "take": "",
+              "tags": [
+                "百度热搜"
+              ],
+              "links": [
+                {
+                  "platform": "百度热搜",
+                  "type": "原文",
+                  "kind": "article",
+                  "title": "中方就以总理等被发逮捕令表态",
+                  "url": "https://m.baidu.com/s?word=%E4%B8%AD%E6%96%B9%E5%B0%B1%E4%BB%A5%E6%80%BB%E7%90%86%E7%AD%89%E8%A2%AB%E5%8F%91%E9%80%AE%E6%8D%95%E4%BB%A4%E8%A1%A8%E6%80%81&sa=fyb_news"
+                },
+                {
+                  "platform": "知乎",
+                  "type": "站内话题",
+                  "kind": "topic",
+                  "title": "知乎讨论：中方就以总理等被发逮捕令表态",
+                  "url": "https://www.zhihu.com/search?type=content&q=%E4%B8%AD%E6%96%B9%E5%B0%B1%E4%BB%A5%E6%80%BB%E7%90%86%E7%AD%89%E8%A2%AB%E5%8F%91%E9%80%AE%E6%8D%95%E4%BB%A4%E8%A1%A8%E6%80%81"
+                },
+                {
+                  "platform": "小红书",
+                  "type": "站内话题",
+                  "kind": "topic",
+                  "title": "小红书笔记：中方就以总理等被发逮捕令表态",
+                  "url": "https://www.xiaohongshu.com/search_result?keyword=%E4%B8%AD%E6%96%B9%E5%B0%B1%E4%BB%A5%E6%80%BB%E7%90%86%E7%AD%89%E8%A2%AB%E5%8F%91%E9%80%AE%E6%8D%95%E4%BB%A4%E8%A1%A8%E6%80%81"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "meme",
+          "name": "网络热梗",
+          "desc": "正在刷屏的句式、梗图与自嘲标签",
+          "items": [
+            {
+              "id": "20261124-meme-1",
+              "title": "孩子放学后跟我说「妈妈，今天班主任又发火了，在班里骂我们班考得真差，丢人」，你怎么回答？",
+              "desc": "如果是你家孩子，你怎么回答呢？",
+              "take": "",
+              "tags": [
+                "知乎热榜"
+              ],
+              "links": [
+                {
+                  "platform": "知乎热榜",
+                  "type": "原文",
+                  "kind": "article",
+                  "title": "孩子放学后跟我说「妈妈，今天班主任又发火了，在班里骂我们班考得真差，丢人」，你怎",
+                  "url": "https://www.zhihu.com/question/2106763437380523300"
+                },
+                {
+                  "platform": "知乎",
+                  "type": "站内话题",
+                  "kind": "topic",
+                  "title": "知乎讨论：孩子放学后跟我说「妈妈，今天班主任又发火",
+                  "url": "https://www.zhihu.com/search?type=content&q=%E5%AD%A9%E5%AD%90%E6%94%BE%E5%AD%A6%E5%90%8E%E8%B7%9F%E6%88%91%E8%AF%B4%E3%80%8C%E5%A6%88%E5%A6%88%20%E4%BB%8A%E5%A4%A9%E7%8F%AD%E4%B8%BB%E4%BB%BB%E5%8F%88%E5%8F%91%E7%81%AB%E4%BA%86%20%E5%9C%A8%E7%8F%AD"
+                },
+                {
+                  "platform": "小红书",
+                  "type": "站内话题",
+                  "kind": "topic",
+                  "title": "小红书笔记：孩子放学后跟我说「妈妈，今天班主任又发火",
+                  "url": "https://www.xiaohongshu.com/search_result?keyword=%E5%AD%A9%E5%AD%90%E6%94%BE%E5%AD%A6%E5%90%8E%E8%B7%9F%E6%88%91%E8%AF%B4%E3%80%8C%E5%A6%88%E5%A6%88%20%E4%BB%8A%E5%A4%A9%E7%8F%AD%E4%B8%BB%E4%BB%BB%E5%8F%88%E5%8F%91%E7%81%AB%E4%BA%86%20%E5%9C%A8%E7%8F%AD"
+                }
+              ]
+            },
+            {
+              "id": "20261124-meme-2",
+              "title": "U17世界杯小组赛，中国U17男足补时读秒阶段遭绝平，最终2比2摩洛哥，怎样评价本场比赛？",
+              "desc": "来自知乎热榜的热点：U17世界杯小组赛，中国U17男足补时读秒阶段遭绝平，最终2比2摩洛哥，怎样评价本场比赛？",
+              "take": "",
+              "tags": [
+                "知乎热榜"
+              ],
+              "links": [
+                {
+                  "platform": "知乎热榜",
+                  "type": "原文",
+                  "kind": "article",
+                  "title": "U17世界杯小组赛，中国U17男足补时读秒阶段遭绝平，最终2比2摩洛哥，怎样评价",
+                  "url": "https://www.zhihu.com/question/2108346189238067700"
+                },
+                {
+                  "platform": "知乎",
+                  "type": "站内话题",
+                  "kind": "topic",
+                  "title": "知乎讨论：U17世界杯小组赛，中国U17男足补时读",
+                  "url": "https://www.zhihu.com/search?type=content&q=U17%E4%B8%96%E7%95%8C%E6%9D%AF%E5%B0%8F%E7%BB%84%E8%B5%9B%20%E4%B8%AD%E5%9B%BDU17%E7%94%B7%E8%B6%B3%E8%A1%A5%E6%97%B6%E8%AF%BB%E7%A7%92%E9%98%B6%E6%AE%B5%E9%81%AD"
+                },
+                {
+                  "platform": "小红书",
+                  "type": "站内话题",
+                  "kind": "topic",
+                  "title": "小红书笔记：U17世界杯小组赛，中国U17男足补时读",
+                  "url": "https://www.xiaohongshu.com/search_result?keyword=U17%E4%B8%96%E7%95%8C%E6%9D%AF%E5%B0%8F%E7%BB%84%E8%B5%9B%20%E4%B8%AD%E5%9B%BDU17%E7%94%B7%E8%B6%B3%E8%A1%A5%E6%97%B6%E8%AF%BB%E7%A7%92%E9%98%B6%E6%AE%B5%E9%81%AD"
+                }
+              ]
+            },
+            {
+              "id": "20261124-meme-3",
+              "title": "多地景区密集免票",
+              "desc": "来自百度热搜的热点：多地景区密集免票。",
+              "take": "",
+              "tags": [
+                "百度热搜"
+              ],
+              "links": [
+                {
+                  "platform": "百度热搜",
+                  "type": "原文",
+                  "kind": "article",
+                  "title": "多地景区密集免票",
+                  "url": "https://m.baidu.com/s?word=%E5%A4%9A%E5%9C%B0%E6%99%AF%E5%8C%BA%E5%AF%86%E9%9B%86%E5%85%8D%E7%A5%A8&sa=fyb_news"
+                },
+                {
+                  "platform": "知乎",
+                  "type": "站内话题",
+                  "kind": "topic",
+                  "title": "知乎讨论：多地景区密集免票",
+                  "url": "https://www.zhihu.com/search?type=content&q=%E5%A4%9A%E5%9C%B0%E6%99%AF%E5%8C%BA%E5%AF%86%E9%9B%86%E5%85%8D%E7%A5%A8"
+                },
+                {
+                  "platform": "小红书",
+                  "type": "站内话题",
+                  "kind": "topic",
+                  "title": "小红书笔记：多地景区密集免票",
+                  "url": "https://www.xiaohongshu.com/search_result?keyword=%E5%A4%9A%E5%9C%B0%E6%99%AF%E5%8C%BA%E5%AF%86%E9%9B%86%E5%85%8D%E7%A5%A8"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "edu",
+          "name": "教育规划",
+          "desc": "北京西城升学路径与政策解读 · 以当年官方发布为准",
+          "items": [
+            {
+              "id": "20261124-edu-1",
+              "title": "初中到高中的通路：西城中考公办普高录取率 93.55%",
+              "desc": "2026 年西城约 1.56 万人中考，公办普高录取率 93.55%。德胜学区初中（德胜中学、华夏女中）平均分领跑全区。四中、八中、北师大实验、北师大附中等为头部高中，校额到校比例持续提高。",
+              "take": "进了西城初中只是起点，中考才是第一次真正分层，校额到校让普通初中也有通道。",
+              "tags": [
+                "中考",
+                "高中"
+              ],
+              "links": [
+                {
+                  "platform": "今日头条",
+                  "type": "深度 / 解读",
+                  "kind": "article",
+                  "title": "2026 西城区德胜学区梯队及房价深度分析",
+                  "url": "https://m.toutiao.com/article/7703561980522611209"
+                }
+              ]
+            },
+            {
+              "id": "20261124-edu-2",
+              "title": "初中新增「三年一学位」：学位记录小学初中分开算",
+              "desc": "自 2026 年 5 月起，房产地址用于转学或回西城升初中后，登记当年至初中毕业原则上不再提供转学及回区初中学位。小学「六年一学位」与初中「三年一学位」独立记录、互不干扰。",
+              "take": "买二手学区房前要同时查小学和初中的学位占用记录，两个系统是分开的。",
+              "tags": [
+                "学位政策"
+              ],
+              "links": [
+                {
+                  "platform": "微信公众号",
+                  "type": "深度 / 解读",
+                  "kind": "article",
+                  "title": "2026 年西城区小升初完整指南",
+                  "url": "http://mp.weixin.qq.com/s?__biz=MzU5ODAzMzgyMA==&mid=2247485350&idx=1&sn=4b30e035077d8d780b35e08c24ef1f98&chksm=ffa781ca29eb3303aab20aedfae1c871ace8524229ca796cfd643b91e20165d65fc40be633d6#rd"
+                }
+              ]
+            },
+            {
+              "id": "20261124-edu-3",
+              "title": "从高中到大学：北京高考格局与西城的位置",
+              "desc": "西城高中第一梯队为四中、八中、北师大实验、北师大附中等，清北录取与 985 率常年全市领先。北京高考以「强基计划 + 综合评价 + 统招」三条路并行，头部高中在综评和强基报名资源上优势明显。",
+              "take": "升学规划拉长到 12 年看：小学学区的意义是「起点站位」，真正分层在初升高和高考。",
+              "tags": [
+                "高考",
+                "长期规划"
+              ],
+              "links": [
+                {
+                  "platform": "知乎",
+                  "type": "站内话题",
+                  "kind": "topic",
+                  "title": "知乎讨论：北京高考升学路径",
+                  "url": "https://www.zhihu.com/search?type=content&q=%E5%8C%97%E4%BA%AC%E9%AB%98%E8%80%83%20%E5%BC%BA%E5%9F%BA%E8%AE%A1%E5%88%92%20%E7%BB%BC%E5%90%88%E8%AF%84%E4%BB%B7"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "house",
+          "name": "安家置业",
+          "desc": "五路通周边改善盘档案与购房要点 · 仅供参考，不构成任何购房建议",
+          "items": [
+            {
+              "id": "20261124-house-1",
+              "title": "税费速查：满五唯一、满二、不满二差多少钱",
+              "desc": "德胜成交以满五唯一为主（免增值税与个税）；满二免增值税但有个税（或按原值差额）；不满二增值税+个税都要交，成本可差几十万。央产房还需办上市手续，二类经适房补交土地出让金。",
+              "take": "同样总价的两套房，税费差出来的钱够装一整个房子，签前先算税。",
+              "tags": [
+                "税费"
+              ],
+              "links": [
+                {
+                  "platform": "微信公众号",
+                  "type": "深度 / 解读",
+                  "kind": "article",
+                  "title": "2026 年 10 月西城德胜成交汇总",
+                  "url": "http://mp.weixin.qq.com/s?__biz=MzI3NTAyMDA2Mg==&mid=2649152369&idx=2&sn=40a421b4464690556aab4807c525e744&chksm=f21aa41911b6db671c72d89bdb7773ee33402441c482263dc2723d20148bb5b4dfdc7cd34322#rd"
+                },
+                {
+                  "platform": "知乎",
+                  "type": "站内话题",
+                  "kind": "topic",
+                  "title": "知乎讨论：北京 二手房 满五唯一 税费",
+                  "url": "https://www.zhihu.com/search?type=content&q=%E5%8C%97%E4%BA%AC%20%E4%BA%8C%E6%89%8B%E6%88%BF%20%E6%BB%A1%E4%BA%94%E5%94%AF%E4%B8%80%20%E7%A8%8E%E8%B4%B9"
+                }
+              ]
+            },
+            {
+              "id": "20261124-house-2",
+              "title": "黄寺大街 24 号院：挂实价的房子谈不动，也最抢手",
+              "desc": "60㎡ 挂 539 万成交 528 万，议价仅 2%。10 月成交 4 套。这印证了当前买家的心态：不怕贵，怕不明码标价——虚高挂盘的房子要多挂两三个月再降价，实价房反而成交最快。",
+              "take": "反过来用它：挂盘价接近实价的房源，遇到合适的就该果断。",
+              "tags": [
+                "定价逻辑"
+              ],
+              "links": [
+                {
+                  "platform": "贝壳",
+                  "type": "在售房源",
+                  "kind": "topic",
+                  "title": "贝壳在售：黄寺大街24号院",
+                  "url": "https://bj.ke.com/xiaoqu/rs%E9%BB%84%E5%AF%BA%E5%A4%A7%E8%A1%9724%E5%8F%B7%E9%99%A2/"
+                },
+                {
+                  "platform": "微信公众号",
+                  "type": "深度 / 解读",
+                  "kind": "article",
+                  "title": "德胜周记 · 每周成交复盘",
+                  "url": "http://mp.weixin.qq.com/s?__biz=MzI3NTAyMDA2Mg==&mid=2649152063&idx=1&sn=e00d5d0fb03e31949f81d5ef12ff3db8&chksm=f2805e4ae251e84bf675fe0d8e4ed52341801ebe829c6167a66ddd1ab9da28f6328b757cb14b#rd"
+                }
+              ]
+            },
+            {
+              "id": "20261124-house-3",
+              "title": "六铺炕一区 / 二区：西师附小划片，「上车票」逻辑的极致",
+              "desc": "26.4㎡ 一居成交 425 万、单价 16.1 万/㎡，是当月单价最高——它的逻辑不是每平米值多少，而是 425 万是当周最便宜的上车票。西师附小划片房源本来就少，超小户型是稀有物种。",
+              "take": "单价的房价≠房价的贵贱，小户型市场自成一套定价体系。",
+              "tags": [
+                "西师附小",
+                "定价逻辑"
+              ],
+              "links": [
+                {
+                  "platform": "贝壳",
+                  "type": "在售房源",
+                  "kind": "topic",
+                  "title": "贝壳在售：六铺炕二区",
+                  "url": "https://bj.ke.com/xiaoqu/rs%E5%85%AD%E9%93%BA%E7%82%95%E4%BA%8C%E5%8C%BA/"
+                },
+                {
+                  "platform": "微信公众号",
+                  "type": "深度 / 解读",
+                  "kind": "article",
+                  "title": "德胜周记 · 每周成交复盘",
+                  "url": "http://mp.weixin.qq.com/s?__biz=MzI3NTAyMDA2Mg==&mid=2649152063&idx=1&sn=e00d5d0fb03e31949f81d5ef12ff3db8&chksm=f2805e4ae251e84bf675fe0d8e4ed52341801ebe829c6167a66ddd1ab9da28f6328b757cb14b#rd"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
     {
       "date": "2026-11-23",
       "weekday": "周一",
