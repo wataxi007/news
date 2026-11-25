@@ -48,8 +48,478 @@
    =========================================================== */
 
 window.NEWS_DATA = {
-  "updatedAt": "2026-11-24 01:02",
+  "updatedAt": "2026-11-25 01:08",
   "editions": [
+    {
+      "date": "2026-11-25",
+      "weekday": "周三",
+      "issue": 11,
+      "updatedAt": "2026-11-25 01:08",
+      "mode": "auto",
+      "sections": [
+        {
+          "id": "ai",
+          "name": "人工智能",
+          "desc": "模型迭代、算力格局与产品落地",
+          "items": [
+            {
+              "id": "20261125-ai-1",
+              "title": "英伟达恢复黄仁勋CEO职务！黄仁勋重返公司总部，受到数百名员工迎接；DeepSeek最新估值",
+              "desc": "要闻提示 1.英伟达恢复黄仁勋CEO职务！黄仁勋重返公司总部，受到数百名员工迎接 2.DeepSeek最新估值或达6078亿元 3.送100台iPhone Duo被质疑内定！影视飓风Tim：很难自证，但这点信誉还是有的 4.智谱发布新一代大。",
+              "take": "",
+              "tags": [
+                "雷锋网"
+              ],
+              "links": [
+                {
+                  "platform": "雷锋网",
+                  "type": "原文",
+                  "kind": "article",
+                  "title": "英伟达恢复黄仁勋CEO职务！黄仁勋重返公司总部，受到数百名员工迎接；DeepSe",
+                  "url": "https://www.leiphone.com/category/zaobao/Ao31dQuXPBTU7qpK.html"
+                },
+                {
+                  "platform": "知乎",
+                  "type": "站内话题",
+                  "kind": "topic",
+                  "title": "知乎讨论：英伟达恢复黄仁勋CEO职务！黄仁勋重返公",
+                  "url": "https://www.zhihu.com/search?type=content&q=%E8%8B%B1%E4%BC%9F%E8%BE%BE%E6%81%A2%E5%A4%8D%E9%BB%84%E4%BB%81%E5%8B%8BCEO%E8%81%8C%E5%8A%A1%20%E9%BB%84%E4%BB%81%E5%8B%8B%E9%87%8D%E8%BF%94%E5%85%AC%E5%8F%B8%E6%80%BB%E9%83%A8%20"
+                },
+                {
+                  "platform": "小红书",
+                  "type": "站内话题",
+                  "kind": "topic",
+                  "title": "小红书笔记：英伟达恢复黄仁勋CEO职务！黄仁勋重返公",
+                  "url": "https://www.xiaohongshu.com/search_result?keyword=%E8%8B%B1%E4%BC%9F%E8%BE%BE%E6%81%A2%E5%A4%8D%E9%BB%84%E4%BB%81%E5%8B%8BCEO%E8%81%8C%E5%8A%A1%20%E9%BB%84%E4%BB%81%E5%8B%8B%E9%87%8D%E8%BF%94%E5%85%AC%E5%8F%B8%E6%80%BB%E9%83%A8%20"
+                }
+              ]
+            },
+            {
+              "id": "20261125-ai-2",
+              "title": "OpenAI 称 GPT-6 无需“外援”即可设计蛋白质，实验室初步验证有效",
+              "desc": "IT之家 11 月 25 日消息，OpenAI 昨日（11 月 24 日）发布预印本论文，称 GPT-6 系列模型无需依赖专用生物模型， 仅靠推理和通用编程工具，就能设计新的蛋白质三维结构和氨基酸序列，且已在多轮实验室测试中验证结合效果。 。",
+              "take": "",
+              "tags": [
+                "IT之家"
+              ],
+              "links": [
+                {
+                  "platform": "IT之家",
+                  "type": "原文",
+                  "kind": "article",
+                  "title": "OpenAI 称 GPT-6 无需“外援”即可设计蛋白质，实验室初步验证有效",
+                  "url": "https://www.ithome.com/1/031/902.htm"
+                },
+                {
+                  "platform": "知乎",
+                  "type": "站内话题",
+                  "kind": "topic",
+                  "title": "知乎讨论：OpenAI 称 GPT-6 无需“外援",
+                  "url": "https://www.zhihu.com/search?type=content&q=OpenAI%20%E7%A7%B0%20GPT-6%20%E6%97%A0%E9%9C%80%E2%80%9C%E5%A4%96%E6%8F%B4%E2%80%9D%E5%8D%B3%E5%8F%AF%E8%AE%BE"
+                },
+                {
+                  "platform": "小红书",
+                  "type": "站内话题",
+                  "kind": "topic",
+                  "title": "小红书笔记：OpenAI 称 GPT-6 无需“外援",
+                  "url": "https://www.xiaohongshu.com/search_result?keyword=OpenAI%20%E7%A7%B0%20GPT-6%20%E6%97%A0%E9%9C%80%E2%80%9C%E5%A4%96%E6%8F%B4%E2%80%9D%E5%8D%B3%E5%8F%AF%E8%AE%BE"
+                }
+              ]
+            },
+            {
+              "id": "20261125-ai-3",
+              "title": "业界首提“端侧超节点”，让端侧AI组队计算：AI效率暴涨270%，不用换芯片或模型",
+              "desc": "来自量子位的热点：业界首提“端侧超节点”，让端侧AI组队计算：AI效率暴涨270%，不用换芯片或模型。",
+              "take": "",
+              "tags": [
+                "量子位"
+              ],
+              "links": [
+                {
+                  "platform": "量子位",
+                  "type": "原文",
+                  "kind": "article",
+                  "title": "业界首提“端侧超节点”，让端侧AI组队计算：AI效率暴涨270%，不用换芯片或模",
+                  "url": "https://www.qbitai.com/2026/11/512362.html"
+                },
+                {
+                  "platform": "知乎",
+                  "type": "站内话题",
+                  "kind": "topic",
+                  "title": "知乎讨论：业界首提“端侧超节点”，让端侧AI组队计",
+                  "url": "https://www.zhihu.com/search?type=content&q=%E4%B8%9A%E7%95%8C%E9%A6%96%E6%8F%90%E2%80%9C%E7%AB%AF%E4%BE%A7%E8%B6%85%E8%8A%82%E7%82%B9%E2%80%9D%20%E8%AE%A9%E7%AB%AF%E4%BE%A7AI%E7%BB%84%E9%98%9F%E8%AE%A1%E7%AE%97%EF%BC%9AAI"
+                },
+                {
+                  "platform": "小红书",
+                  "type": "站内话题",
+                  "kind": "topic",
+                  "title": "小红书笔记：业界首提“端侧超节点”，让端侧AI组队计",
+                  "url": "https://www.xiaohongshu.com/search_result?keyword=%E4%B8%9A%E7%95%8C%E9%A6%96%E6%8F%90%E2%80%9C%E7%AB%AF%E4%BE%A7%E8%B6%85%E8%8A%82%E7%82%B9%E2%80%9D%20%E8%AE%A9%E7%AB%AF%E4%BE%A7AI%E7%BB%84%E9%98%9F%E8%AE%A1%E7%AE%97%EF%BC%9AAI"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "social",
+          "name": "社会热点",
+          "desc": "当日讨论量最高、且仍有后续的公共事件",
+          "items": [
+            {
+              "id": "20261125-social-1",
+              "title": "神舟二十四号发射成功",
+              "desc": "来自百度热搜的热点：神舟二十四号发射成功。",
+              "take": "",
+              "tags": [
+                "百度热搜"
+              ],
+              "links": [
+                {
+                  "platform": "百度热搜",
+                  "type": "原文",
+                  "kind": "article",
+                  "title": "神舟二十四号发射成功",
+                  "url": "https://m.baidu.com/s?word=%E7%A5%9E%E8%88%9F%E4%BA%8C%E5%8D%81%E5%9B%9B%E5%8F%B7%E5%8F%91%E5%B0%84%E6%88%90%E5%8A%9F&sa=fyb_news"
+                },
+                {
+                  "platform": "知乎",
+                  "type": "站内话题",
+                  "kind": "topic",
+                  "title": "知乎讨论：神舟二十四号发射成功",
+                  "url": "https://www.zhihu.com/search?type=content&q=%E7%A5%9E%E8%88%9F%E4%BA%8C%E5%8D%81%E5%9B%9B%E5%8F%B7%E5%8F%91%E5%B0%84%E6%88%90%E5%8A%9F"
+                },
+                {
+                  "platform": "小红书",
+                  "type": "站内话题",
+                  "kind": "topic",
+                  "title": "小红书笔记：神舟二十四号发射成功",
+                  "url": "https://www.xiaohongshu.com/search_result?keyword=%E7%A5%9E%E8%88%9F%E4%BA%8C%E5%8D%81%E5%9B%9B%E5%8F%B7%E5%8F%91%E5%B0%84%E6%88%90%E5%8A%9F"
+                }
+              ]
+            },
+            {
+              "id": "20261125-social-2",
+              "title": "人才缺口超百万 新职业来了",
+              "desc": "来自百度热搜的热点：人才缺口超百万 新职业来了。",
+              "take": "",
+              "tags": [
+                "百度热搜"
+              ],
+              "links": [
+                {
+                  "platform": "百度热搜",
+                  "type": "原文",
+                  "kind": "article",
+                  "title": "人才缺口超百万 新职业来了",
+                  "url": "https://m.baidu.com/s?word=%E4%BA%BA%E6%89%8D%E7%BC%BA%E5%8F%A3%E8%B6%85%E7%99%BE%E4%B8%87+%E6%96%B0%E8%81%8C%E4%B8%9A%E6%9D%A5%E4%BA%86&sa=fyb_news"
+                },
+                {
+                  "platform": "知乎",
+                  "type": "站内话题",
+                  "kind": "topic",
+                  "title": "知乎讨论：人才缺口超百万 新职业来了",
+                  "url": "https://www.zhihu.com/search?type=content&q=%E4%BA%BA%E6%89%8D%E7%BC%BA%E5%8F%A3%E8%B6%85%E7%99%BE%E4%B8%87%20%E6%96%B0%E8%81%8C%E4%B8%9A%E6%9D%A5%E4%BA%86"
+                },
+                {
+                  "platform": "小红书",
+                  "type": "站内话题",
+                  "kind": "topic",
+                  "title": "小红书笔记：人才缺口超百万 新职业来了",
+                  "url": "https://www.xiaohongshu.com/search_result?keyword=%E4%BA%BA%E6%89%8D%E7%BC%BA%E5%8F%A3%E8%B6%85%E7%99%BE%E4%B8%87%20%E6%96%B0%E8%81%8C%E4%B8%9A%E6%9D%A5%E4%BA%86"
+                }
+              ]
+            },
+            {
+              "id": "20261125-social-3",
+              "title": "中国人登月又近一步",
+              "desc": "来自百度热搜的热点：中国人登月又近一步。",
+              "take": "",
+              "tags": [
+                "百度热搜"
+              ],
+              "links": [
+                {
+                  "platform": "百度热搜",
+                  "type": "原文",
+                  "kind": "article",
+                  "title": "中国人登月又近一步",
+                  "url": "https://m.baidu.com/s?word=%E4%B8%AD%E5%9B%BD%E4%BA%BA%E7%99%BB%E6%9C%88%E5%8F%88%E8%BF%91%E4%B8%80%E6%AD%A5&sa=fyb_news"
+                },
+                {
+                  "platform": "知乎",
+                  "type": "站内话题",
+                  "kind": "topic",
+                  "title": "知乎讨论：中国人登月又近一步",
+                  "url": "https://www.zhihu.com/search?type=content&q=%E4%B8%AD%E5%9B%BD%E4%BA%BA%E7%99%BB%E6%9C%88%E5%8F%88%E8%BF%91%E4%B8%80%E6%AD%A5"
+                },
+                {
+                  "platform": "小红书",
+                  "type": "站内话题",
+                  "kind": "topic",
+                  "title": "小红书笔记：中国人登月又近一步",
+                  "url": "https://www.xiaohongshu.com/search_result?keyword=%E4%B8%AD%E5%9B%BD%E4%BA%BA%E7%99%BB%E6%9C%88%E5%8F%88%E8%BF%91%E4%B8%80%E6%AD%A5"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "meme",
+          "name": "网络热梗",
+          "desc": "正在刷屏的句式、梗图与自嘲标签",
+          "items": [
+            {
+              "id": "20261125-meme-1",
+              "title": "在胳膊上贴个“小圆片”火了",
+              "desc": "来自百度热搜的热点：在胳膊上贴个“小圆片”火了。",
+              "take": "",
+              "tags": [
+                "百度热搜"
+              ],
+              "links": [
+                {
+                  "platform": "百度热搜",
+                  "type": "原文",
+                  "kind": "article",
+                  "title": "在胳膊上贴个“小圆片”火了",
+                  "url": "https://m.baidu.com/s?word=%E5%9C%A8%E8%83%B3%E8%86%8A%E4%B8%8A%E8%B4%B4%E4%B8%AA%E2%80%9C%E5%B0%8F%E5%9C%86%E7%89%87%E2%80%9D%E7%81%AB%E4%BA%86&sa=fyb_news"
+                },
+                {
+                  "platform": "知乎",
+                  "type": "站内话题",
+                  "kind": "topic",
+                  "title": "知乎讨论：在胳膊上贴个“小圆片”火了",
+                  "url": "https://www.zhihu.com/search?type=content&q=%E5%9C%A8%E8%83%B3%E8%86%8A%E4%B8%8A%E8%B4%B4%E4%B8%AA%E2%80%9C%E5%B0%8F%E5%9C%86%E7%89%87%E2%80%9D%E7%81%AB%E4%BA%86"
+                },
+                {
+                  "platform": "小红书",
+                  "type": "站内话题",
+                  "kind": "topic",
+                  "title": "小红书笔记：在胳膊上贴个“小圆片”火了",
+                  "url": "https://www.xiaohongshu.com/search_result?keyword=%E5%9C%A8%E8%83%B3%E8%86%8A%E4%B8%8A%E8%B4%B4%E4%B8%AA%E2%80%9C%E5%B0%8F%E5%9C%86%E7%89%87%E2%80%9D%E7%81%AB%E4%BA%86"
+                }
+              ]
+            },
+            {
+              "id": "20261125-meme-2",
+              "title": "培养更多高技能人才和大国工匠",
+              "desc": "来自百度热搜的热点：培养更多高技能人才和大国工匠。",
+              "take": "",
+              "tags": [
+                "百度热搜"
+              ],
+              "links": [
+                {
+                  "platform": "百度热搜",
+                  "type": "原文",
+                  "kind": "article",
+                  "title": "培养更多高技能人才和大国工匠",
+                  "url": "https://m.baidu.com/s?word=%E5%9F%B9%E5%85%BB%E6%9B%B4%E5%A4%9A%E9%AB%98%E6%8A%80%E8%83%BD%E4%BA%BA%E6%89%8D%E5%92%8C%E5%A4%A7%E5%9B%BD%E5%B7%A5%E5%8C%A0&sa=fyb_news"
+                },
+                {
+                  "platform": "知乎",
+                  "type": "站内话题",
+                  "kind": "topic",
+                  "title": "知乎讨论：培养更多高技能人才和大国工匠",
+                  "url": "https://www.zhihu.com/search?type=content&q=%E5%9F%B9%E5%85%BB%E6%9B%B4%E5%A4%9A%E9%AB%98%E6%8A%80%E8%83%BD%E4%BA%BA%E6%89%8D%E5%92%8C%E5%A4%A7%E5%9B%BD%E5%B7%A5%E5%8C%A0"
+                },
+                {
+                  "platform": "小红书",
+                  "type": "站内话题",
+                  "kind": "topic",
+                  "title": "小红书笔记：培养更多高技能人才和大国工匠",
+                  "url": "https://www.xiaohongshu.com/search_result?keyword=%E5%9F%B9%E5%85%BB%E6%9B%B4%E5%A4%9A%E9%AB%98%E6%8A%80%E8%83%BD%E4%BA%BA%E6%89%8D%E5%92%8C%E5%A4%A7%E5%9B%BD%E5%B7%A5%E5%8C%A0"
+                }
+              ]
+            },
+            {
+              "id": "20261125-meme-3",
+              "title": "AI 短剧《丑狐》爆火后引发大量讨论，它能戳中观众的核心原因是什么？",
+              "desc": "继《持械入宋》之后，又一部AI短剧《丑狐》爆火出圈。该剧改编自《聊斋志异》，共8集，总时长不到50分钟，由创作者“夜梦人”一人完成全流程。据公开报道，该剧首集上线3天全网播放量即突破1亿。 记者在红果平台看到，该剧热度已突破5000万，目前。",
+              "take": "",
+              "tags": [
+                "知乎热榜"
+              ],
+              "links": [
+                {
+                  "platform": "知乎热榜",
+                  "type": "原文",
+                  "kind": "article",
+                  "title": "AI 短剧《丑狐》爆火后引发大量讨论，它能戳中观众的核心原因是什么？",
+                  "url": "https://www.zhihu.com/question/2108451365806776800"
+                },
+                {
+                  "platform": "知乎",
+                  "type": "站内话题",
+                  "kind": "topic",
+                  "title": "知乎讨论：AI 短剧《丑狐》爆火后引发大量讨论，它",
+                  "url": "https://www.zhihu.com/search?type=content&q=AI%20%E7%9F%AD%E5%89%A7%E3%80%8A%E4%B8%91%E7%8B%90%E3%80%8B%E7%88%86%E7%81%AB%E5%90%8E%E5%BC%95%E5%8F%91%E5%A4%A7%E9%87%8F%E8%AE%A8%E8%AE%BA%20%E5%AE%83%E8%83%BD%E6%88%B3%E4%B8%AD%E8%A7%82"
+                },
+                {
+                  "platform": "小红书",
+                  "type": "站内话题",
+                  "kind": "topic",
+                  "title": "小红书笔记：AI 短剧《丑狐》爆火后引发大量讨论，它",
+                  "url": "https://www.xiaohongshu.com/search_result?keyword=AI%20%E7%9F%AD%E5%89%A7%E3%80%8A%E4%B8%91%E7%8B%90%E3%80%8B%E7%88%86%E7%81%AB%E5%90%8E%E5%BC%95%E5%8F%91%E5%A4%A7%E9%87%8F%E8%AE%A8%E8%AE%BA%20%E5%AE%83%E8%83%BD%E6%88%B3%E4%B8%AD%E8%A7%82"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "edu",
+          "name": "教育规划",
+          "desc": "北京西城升学路径与政策解读 · 以当年官方发布为准",
+          "items": [
+            {
+              "id": "20261125-edu-1",
+              "title": "官方信息渠道清单：政策以谁发布为准",
+              "desc": "西城升学政策的唯一权威出口是西城区教育考试中心（每年 4-5 月发布义务教育入学政策）与北京市教委官网；北京市义务教育入学服务平台为统一报名入口。公众号解读文章仅作参考，冲突时以官方为准。",
+              "take": "所有升学决策前，先去官方渠道核对当年原文——每年政策都有微调。",
+              "tags": [
+                "官方渠道"
+              ],
+              "links": [
+                {
+                  "platform": "北京市教委",
+                  "type": "官网",
+                  "kind": "article",
+                  "title": "北京市教育委员会官网",
+                  "url": "https://jw.beijing.gov.cn/"
+                },
+                {
+                  "platform": "北京市义务教育入学服务平台",
+                  "type": "官网",
+                  "kind": "article",
+                  "title": "义务教育入学服务平台",
+                  "url": "https://yjcx.bjedu.cn/"
+                }
+              ]
+            },
+            {
+              "id": "20261125-edu-2",
+              "title": "给小学家长的长期视角：比择校更稳的三件事",
+              "desc": "政策年年微调，能穿越周期的只有：稳定的家庭学习环境（习惯与阅读量）、身体素质与视力储备、亲子沟通质量。西城路径的意义在于托底与公平，孩子长期的竞争力不来自某一次派位结果。",
+              "take": "把「必须进某校」的焦虑换成「六年里每天可做的事」，性价比高得多。",
+              "tags": [
+                "长期规划"
+              ],
+              "links": [
+                {
+                  "platform": "知乎",
+                  "type": "站内话题",
+                  "kind": "topic",
+                  "title": "知乎讨论：西城升学 规划",
+                  "url": "https://www.zhihu.com/search?type=content&q=%E8%A5%BF%E5%9F%8E%20%E5%8D%87%E5%AD%A6%20%E8%A7%84%E5%88%92"
+                }
+              ]
+            },
+            {
+              "id": "20261125-edu-3",
+              "title": "热门学区小升初的隐性门槛：六年级上学期成绩",
+              "desc": "2026 年热门学区（如德胜）部分学校录取中，六年级上学期 290 分以上成为坊间流传的参考硬门槛（非官方标准）。小升初名义免试，但热门校的实际筛选仍会参考过程性评价与校内排名。",
+              "take": "免试就近是规则，但校内成绩始终是隐性货币，六上这一学期别松。",
+              "tags": [
+                "小升初",
+                "校内成绩"
+              ],
+              "links": [
+                {
+                  "platform": "北京中考信息网",
+                  "type": "深度 / 解读",
+                  "kind": "article",
+                  "title": "2026 北京小升初热点汇总",
+                  "url": "https://www.zhongkaobj.cn/zhaosheng/tcszs/2025050713469.html"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "house",
+          "name": "安家置业",
+          "desc": "五路通周边改善盘档案与购房要点 · 仅供参考，不构成任何购房建议",
+          "items": [
+            {
+              "id": "20261125-house-1",
+              "title": "学位占用：成交记录里「三年级」「六年级」是什么意思",
+              "desc": "德胜成交明细中每套都标注「X 年级」，指原业主孩子的学位占用状态——西城小学六年一学位、初中三年一学位。占用中的房子，你家孩子上学时学位可能已被锁，买前必须与业主书面确认并到社区核实。",
+              "take": "这是学区房交易里最大的暗雷，宁可多花一周核实，也别赌口头承诺。",
+              "tags": [
+                "学位占用",
+                "避坑"
+              ],
+              "links": [
+                {
+                  "platform": "微信公众号",
+                  "type": "深度 / 解读",
+                  "kind": "article",
+                  "title": "2026 年 10 月西城德胜成交汇总",
+                  "url": "http://mp.weixin.qq.com/s?__biz=MzI3NTAyMDA2Mg==&mid=2649152369&idx=2&sn=40a421b4464690556aab4807c525e744&chksm=f21aa41911b6db671c72d89bdb7773ee33402441c482263dc2723d20148bb5b4dfdc7cd34322#rd"
+                },
+                {
+                  "platform": "知乎",
+                  "type": "站内话题",
+                  "kind": "topic",
+                  "title": "知乎讨论：学区房 学位占用 核实",
+                  "url": "https://www.zhihu.com/search?type=content&q=%E5%AD%A6%E5%8C%BA%E6%88%BF%20%E5%AD%A6%E4%BD%8D%E5%8D%A0%E7%94%A8%20%E6%A0%B8%E5%AE%9E"
+                }
+              ]
+            },
+            {
+              "id": "20261125-house-2",
+              "title": "人定湖西里：半地下 5.95 万/㎡，便宜都是有理由的",
+              "desc": "63.68㎡ 两居成交 378.8 万、单价 5.95 万，是当周全片区最低——因为它是 -1 层。德胜 10 月 34 套成交里顶层 9 套、一层 2 套、半地下 1 套，接近三分之一是「折价房」。",
+              "take": "顶层一层不是禁区，但必须想清楚为什么买它、将来卖给谁。",
+              "tags": [
+                "楼层折价"
+              ],
+              "links": [
+                {
+                  "platform": "贝壳",
+                  "type": "在售房源",
+                  "kind": "topic",
+                  "title": "贝壳在售：人定湖西里",
+                  "url": "https://bj.ke.com/xiaoqu/rs%E4%BA%BA%E5%AE%9A%E6%B9%96%E8%A5%BF%E9%87%8C/"
+                },
+                {
+                  "platform": "微信公众号",
+                  "type": "深度 / 解读",
+                  "kind": "article",
+                  "title": "德胜周记 · 每周成交复盘",
+                  "url": "http://mp.weixin.qq.com/s?__biz=MzI3NTAyMDA2Mg==&mid=2649152063&idx=1&sn=e00d5d0fb03e31949f81d5ef12ff3db8&chksm=f2805e4ae251e84bf675fe0d8e4ed52341801ebe829c6167a66ddd1ab9da28f6328b757cb14b#rd"
+                }
+              ]
+            },
+            {
+              "id": "20261125-house-3",
+              "title": "议价攻略：在德胜从 -7% 开始谈",
+              "desc": "10 月德胜 108 套成交里 99% 低于挂牌价，平均折价 7.2%、中位数 6.4%，平均每套让出约 67 万；高总价盘（阳光丽景均折 10.8%）让利空间更大。另有成交附带「免费住一年」等条件，租金也是钱。",
+              "take": "挂牌价只是起点不是答案；谈价同时把「免费住」这类隐性让利也算进去。",
+              "tags": [
+                "议价策略"
+              ],
+              "links": [
+                {
+                  "platform": "微信公众号",
+                  "type": "深度 / 解读",
+                  "kind": "article",
+                  "title": "德胜学区 10 月成交全解码",
+                  "url": "http://mp.weixin.qq.com/s?__biz=MzYyMjk1MTI3NQ==&mid=2247484778&idx=1&sn=4667222b5bc802b00450b1c0930428d2&chksm=fef311f9b9b34fc1d6b043bcd957eec74792515e1c3d3389ce040693de1b40b75ab9bd7c712e#rd"
+                },
+                {
+                  "platform": "微信公众号",
+                  "type": "深度 / 解读",
+                  "kind": "article",
+                  "title": "德胜周记 · 每周成交复盘",
+                  "url": "http://mp.weixin.qq.com/s?__biz=MzI3NTAyMDA2Mg==&mid=2649152063&idx=1&sn=e00d5d0fb03e31949f81d5ef12ff3db8&chksm=f2805e4ae251e84bf675fe0d8e4ed52341801ebe829c6167a66ddd1ab9da28f6328b757cb14b#rd"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
     {
       "date": "2026-11-24",
       "weekday": "周二",
