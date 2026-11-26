@@ -48,8 +48,466 @@
    =========================================================== */
 
 window.NEWS_DATA = {
-  "updatedAt": "2026-11-25 01:08",
+  "updatedAt": "2026-11-26 01:07",
   "editions": [
+    {
+      "date": "2026-11-26",
+      "weekday": "周四",
+      "issue": 12,
+      "updatedAt": "2026-11-26 01:07",
+      "mode": "auto",
+      "sections": [
+        {
+          "id": "ai",
+          "name": "人工智能",
+          "desc": "模型迭代、算力格局与产品落地",
+          "items": [
+            {
+              "id": "20261126-ai-1",
+              "title": "OpenAI 联手 AMD，在旗舰 GPU 中抠出 14% 物理极限",
+              "desc": "不到 5 个月完成约 1 年工程进展，从自研推理芯片 Jalapeño 到商用流片，大模型正式接管前端微架构。 作者丨 郑佳美 编辑丨岑 峰 刚刚，OpenAI 让 AI 直接改写的芯片电路，进入了 AMD 的实际制造流程。 而且，改的还是。",
+              "take": "",
+              "tags": [
+                "雷锋网"
+              ],
+              "links": [
+                {
+                  "platform": "雷锋网",
+                  "type": "原文",
+                  "kind": "article",
+                  "title": "OpenAI 联手 AMD，在旗舰 GPU 中抠出 14% 物理极限",
+                  "url": "https://www.leiphone.com/category/ai/9tAw4Cw8AcxtFzUm.html"
+                },
+                {
+                  "platform": "知乎",
+                  "type": "站内话题",
+                  "kind": "topic",
+                  "title": "知乎讨论：OpenAI 联手 AMD，在旗舰 GP",
+                  "url": "https://www.zhihu.com/search?type=content&q=OpenAI%20%E8%81%94%E6%89%8B%20AMD%20%E5%9C%A8%E6%97%97%E8%88%B0%20GPU%20%E4%B8%AD%E6%8A%A0"
+                },
+                {
+                  "platform": "小红书",
+                  "type": "站内话题",
+                  "kind": "topic",
+                  "title": "小红书笔记：OpenAI 联手 AMD，在旗舰 GP",
+                  "url": "https://www.xiaohongshu.com/search_result?keyword=OpenAI%20%E8%81%94%E6%89%8B%20AMD%20%E5%9C%A8%E6%97%97%E8%88%B0%20GPU%20%E4%B8%AD%E6%8A%A0"
+                }
+              ]
+            },
+            {
+              "id": "20261126-ai-2",
+              "title": "高端 GPU“急寻下家”：数千枚英伟达 B300 涌入海外转售市场",
+              "desc": "IT之家 11 月 26 日消息，CNBC 昨日（11 月 25 日）报道，在美国收紧相关规定后，英伟达 GPU 销售商正急于为手中的高端芯片寻找新买家。市场人士称， 大量英伟达 GPU 涌入转售市场，其中涉及数千枚先进 B300 芯片的交。",
+              "take": "",
+              "tags": [
+                "IT之家"
+              ],
+              "links": [
+                {
+                  "platform": "IT之家",
+                  "type": "原文",
+                  "kind": "article",
+                  "title": "高端 GPU“急寻下家”：数千枚英伟达 B300 涌入海外转售市场",
+                  "url": "https://www.ithome.com/1/032/547.htm"
+                },
+                {
+                  "platform": "知乎",
+                  "type": "站内话题",
+                  "kind": "topic",
+                  "title": "知乎讨论：高端 GPU“急寻下家”：数千枚英伟达 ",
+                  "url": "https://www.zhihu.com/search?type=content&q=%E9%AB%98%E7%AB%AF%20GPU%E2%80%9C%E6%80%A5%E5%AF%BB%E4%B8%8B%E5%AE%B6%E2%80%9D%EF%BC%9A%E6%95%B0%E5%8D%83%E6%9E%9A%E8%8B%B1%E4%BC%9F%E8%BE%BE%20B300"
+                },
+                {
+                  "platform": "小红书",
+                  "type": "站内话题",
+                  "kind": "topic",
+                  "title": "小红书笔记：高端 GPU“急寻下家”：数千枚英伟达 ",
+                  "url": "https://www.xiaohongshu.com/search_result?keyword=%E9%AB%98%E7%AB%AF%20GPU%E2%80%9C%E6%80%A5%E5%AF%BB%E4%B8%8B%E5%AE%B6%E2%80%9D%EF%BC%9A%E6%95%B0%E5%8D%83%E6%9E%9A%E8%8B%B1%E4%BC%9F%E8%BE%BE%20B300"
+                }
+              ]
+            },
+            {
+              "id": "20261126-ai-3",
+              "title": "零基础也能做开发，智元灵心平台一年孵化超3万个机器人智能体",
+              "desc": "来自量子位的热点：零基础也能做开发，智元灵心平台一年孵化超3万个机器人智能体。",
+              "take": "",
+              "tags": [
+                "量子位"
+              ],
+              "links": [
+                {
+                  "platform": "量子位",
+                  "type": "原文",
+                  "kind": "article",
+                  "title": "零基础也能做开发，智元灵心平台一年孵化超3万个机器人智能体",
+                  "url": "https://www.qbitai.com/2026/11/512715.html"
+                },
+                {
+                  "platform": "知乎",
+                  "type": "站内话题",
+                  "kind": "topic",
+                  "title": "知乎讨论：零基础也能做开发，智元灵心平台一年孵化超",
+                  "url": "https://www.zhihu.com/search?type=content&q=%E9%9B%B6%E5%9F%BA%E7%A1%80%E4%B9%9F%E8%83%BD%E5%81%9A%E5%BC%80%E5%8F%91%20%E6%99%BA%E5%85%83%E7%81%B5%E5%BF%83%E5%B9%B3%E5%8F%B0%E4%B8%80%E5%B9%B4%E5%AD%B5%E5%8C%96%E8%B6%853%E4%B8%87%E4%B8%AA%E6%9C%BA"
+                },
+                {
+                  "platform": "小红书",
+                  "type": "站内话题",
+                  "kind": "topic",
+                  "title": "小红书笔记：零基础也能做开发，智元灵心平台一年孵化超",
+                  "url": "https://www.xiaohongshu.com/search_result?keyword=%E9%9B%B6%E5%9F%BA%E7%A1%80%E4%B9%9F%E8%83%BD%E5%81%9A%E5%BC%80%E5%8F%91%20%E6%99%BA%E5%85%83%E7%81%B5%E5%BF%83%E5%B9%B3%E5%8F%B0%E4%B8%80%E5%B9%B4%E5%AD%B5%E5%8C%96%E8%B6%853%E4%B8%87%E4%B8%AA%E6%9C%BA"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "social",
+          "name": "社会热点",
+          "desc": "当日讨论量最高、且仍有后续的公共事件",
+          "items": [
+            {
+              "id": "20261126-social-1",
+              "title": "6G要来了",
+              "desc": "来自百度热搜的热点：6G要来了。",
+              "take": "",
+              "tags": [
+                "百度热搜"
+              ],
+              "links": [
+                {
+                  "platform": "百度热搜",
+                  "type": "原文",
+                  "kind": "article",
+                  "title": "6G要来了",
+                  "url": "https://m.baidu.com/s?word=6G%E8%A6%81%E6%9D%A5%E4%BA%86&sa=fyb_news"
+                },
+                {
+                  "platform": "知乎",
+                  "type": "站内话题",
+                  "kind": "topic",
+                  "title": "知乎讨论：6G要来了",
+                  "url": "https://www.zhihu.com/search?type=content&q=6G%E8%A6%81%E6%9D%A5%E4%BA%86"
+                },
+                {
+                  "platform": "小红书",
+                  "type": "站内话题",
+                  "kind": "topic",
+                  "title": "小红书笔记：6G要来了",
+                  "url": "https://www.xiaohongshu.com/search_result?keyword=6G%E8%A6%81%E6%9D%A5%E4%BA%86"
+                }
+              ]
+            },
+            {
+              "id": "20261126-social-2",
+              "title": "中外航天员在中国空间站合影",
+              "desc": "来自百度热搜的热点：中外航天员在中国空间站合影。",
+              "take": "",
+              "tags": [
+                "百度热搜"
+              ],
+              "links": [
+                {
+                  "platform": "百度热搜",
+                  "type": "原文",
+                  "kind": "article",
+                  "title": "中外航天员在中国空间站合影",
+                  "url": "https://m.baidu.com/s?word=%E4%B8%AD%E5%A4%96%E8%88%AA%E5%A4%A9%E5%91%98%E5%9C%A8%E4%B8%AD%E5%9B%BD%E7%A9%BA%E9%97%B4%E7%AB%99%E5%90%88%E5%BD%B1&sa=fyb_news"
+                },
+                {
+                  "platform": "知乎",
+                  "type": "站内话题",
+                  "kind": "topic",
+                  "title": "知乎讨论：中外航天员在中国空间站合影",
+                  "url": "https://www.zhihu.com/search?type=content&q=%E4%B8%AD%E5%A4%96%E8%88%AA%E5%A4%A9%E5%91%98%E5%9C%A8%E4%B8%AD%E5%9B%BD%E7%A9%BA%E9%97%B4%E7%AB%99%E5%90%88%E5%BD%B1"
+                },
+                {
+                  "platform": "小红书",
+                  "type": "站内话题",
+                  "kind": "topic",
+                  "title": "小红书笔记：中外航天员在中国空间站合影",
+                  "url": "https://www.xiaohongshu.com/search_result?keyword=%E4%B8%AD%E5%A4%96%E8%88%AA%E5%A4%A9%E5%91%98%E5%9C%A8%E4%B8%AD%E5%9B%BD%E7%A9%BA%E9%97%B4%E7%AB%99%E5%90%88%E5%BD%B1"
+                }
+              ]
+            },
+            {
+              "id": "20261126-social-3",
+              "title": "AI正在帮忙抓贪官",
+              "desc": "来自百度热搜的热点：AI正在帮忙抓贪官。",
+              "take": "",
+              "tags": [
+                "百度热搜"
+              ],
+              "links": [
+                {
+                  "platform": "百度热搜",
+                  "type": "原文",
+                  "kind": "article",
+                  "title": "AI正在帮忙抓贪官",
+                  "url": "https://m.baidu.com/s?word=AI%E6%AD%A3%E5%9C%A8%E5%B8%AE%E5%BF%99%E6%8A%93%E8%B4%AA%E5%AE%98&sa=fyb_news"
+                },
+                {
+                  "platform": "知乎",
+                  "type": "站内话题",
+                  "kind": "topic",
+                  "title": "知乎讨论：AI正在帮忙抓贪官",
+                  "url": "https://www.zhihu.com/search?type=content&q=AI%E6%AD%A3%E5%9C%A8%E5%B8%AE%E5%BF%99%E6%8A%93%E8%B4%AA%E5%AE%98"
+                },
+                {
+                  "platform": "小红书",
+                  "type": "站内话题",
+                  "kind": "topic",
+                  "title": "小红书笔记：AI正在帮忙抓贪官",
+                  "url": "https://www.xiaohongshu.com/search_result?keyword=AI%E6%AD%A3%E5%9C%A8%E5%B8%AE%E5%BF%99%E6%8A%93%E8%B4%AA%E5%AE%98"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "meme",
+          "name": "网络热梗",
+          "desc": "正在刷屏的句式、梗图与自嘲标签",
+          "items": [
+            {
+              "id": "20261126-meme-1",
+              "title": "朱亚文版朱瞻基翻红",
+              "desc": "来自百度热搜的热点：朱亚文版朱瞻基翻红。",
+              "take": "",
+              "tags": [
+                "百度热搜"
+              ],
+              "links": [
+                {
+                  "platform": "百度热搜",
+                  "type": "原文",
+                  "kind": "article",
+                  "title": "朱亚文版朱瞻基翻红",
+                  "url": "https://m.baidu.com/s?word=%E6%9C%B1%E4%BA%9A%E6%96%87%E7%89%88%E6%9C%B1%E7%9E%BB%E5%9F%BA%E7%BF%BB%E7%BA%A2&sa=fyb_news"
+                },
+                {
+                  "platform": "知乎",
+                  "type": "站内话题",
+                  "kind": "topic",
+                  "title": "知乎讨论：朱亚文版朱瞻基翻红",
+                  "url": "https://www.zhihu.com/search?type=content&q=%E6%9C%B1%E4%BA%9A%E6%96%87%E7%89%88%E6%9C%B1%E7%9E%BB%E5%9F%BA%E7%BF%BB%E7%BA%A2"
+                },
+                {
+                  "platform": "小红书",
+                  "type": "站内话题",
+                  "kind": "topic",
+                  "title": "小红书笔记：朱亚文版朱瞻基翻红",
+                  "url": "https://www.xiaohongshu.com/search_result?keyword=%E6%9C%B1%E4%BA%9A%E6%96%87%E7%89%88%E6%9C%B1%E7%9E%BB%E5%9F%BA%E7%BF%BB%E7%BA%A2"
+                }
+              ]
+            },
+            {
+              "id": "20261126-meme-2",
+              "title": "央视曝光3.8万余份孕妇血走私案，国安部警示孕妇血样走私或泄露我国遗传弱点，科学依据和风险具",
+              "desc": "孕妇血样承载着人类遗传基因关键信息，属国家严格限制进出口物品。然而，有人置法治红线于不顾，大量走私孕妇血样出境，直接威胁十四亿人口的生物安全。 11月25日，央视新闻披露，深圳海关缉私局2025年3月接到线索称，一辆白色车疑载大量孕妇血样，。",
+              "take": "",
+              "tags": [
+                "知乎热榜"
+              ],
+              "links": [
+                {
+                  "platform": "知乎热榜",
+                  "type": "原文",
+                  "kind": "article",
+                  "title": "央视曝光3.8万余份孕妇血走私案，国安部警示孕妇血样走私或泄露我国遗传弱点，科学",
+                  "url": "https://www.zhihu.com/question/2109003777294295000"
+                },
+                {
+                  "platform": "知乎",
+                  "type": "站内话题",
+                  "kind": "topic",
+                  "title": "知乎讨论：央视曝光3.8万余份孕妇血走私案，国安部",
+                  "url": "https://www.zhihu.com/search?type=content&q=%E5%A4%AE%E8%A7%86%E6%9B%9D%E5%85%893.8%E4%B8%87%E4%BD%99%E4%BB%BD%E5%AD%95%E5%A6%87%E8%A1%80%E8%B5%B0%E7%A7%81%E6%A1%88%20%E5%9B%BD%E5%AE%89%E9%83%A8%E8%AD%A6%E7%A4%BA%E5%AD%95%E5%A6%87"
+                },
+                {
+                  "platform": "小红书",
+                  "type": "站内话题",
+                  "kind": "topic",
+                  "title": "小红书笔记：央视曝光3.8万余份孕妇血走私案，国安部",
+                  "url": "https://www.xiaohongshu.com/search_result?keyword=%E5%A4%AE%E8%A7%86%E6%9B%9D%E5%85%893.8%E4%B8%87%E4%BD%99%E4%BB%BD%E5%AD%95%E5%A6%87%E8%A1%80%E8%B5%B0%E7%A7%81%E6%A1%88%20%E5%9B%BD%E5%AE%89%E9%83%A8%E8%AD%A6%E7%A4%BA%E5%AD%95%E5%A6%87"
+                }
+              ]
+            },
+            {
+              "id": "20261126-meme-3",
+              "title": "“天下第一财神庙”重新开放",
+              "desc": "来自百度热搜的热点：“天下第一财神庙”重新开放。",
+              "take": "",
+              "tags": [
+                "百度热搜"
+              ],
+              "links": [
+                {
+                  "platform": "百度热搜",
+                  "type": "原文",
+                  "kind": "article",
+                  "title": "“天下第一财神庙”重新开放",
+                  "url": "https://m.baidu.com/s?word=%E2%80%9C%E5%A4%A9%E4%B8%8B%E7%AC%AC%E4%B8%80%E8%B4%A2%E7%A5%9E%E5%BA%99%E2%80%9D%E9%87%8D%E6%96%B0%E5%BC%80%E6%94%BE&sa=fyb_news"
+                },
+                {
+                  "platform": "知乎",
+                  "type": "站内话题",
+                  "kind": "topic",
+                  "title": "知乎讨论：“天下第一财神庙”重新开放",
+                  "url": "https://www.zhihu.com/search?type=content&q=%E2%80%9C%E5%A4%A9%E4%B8%8B%E7%AC%AC%E4%B8%80%E8%B4%A2%E7%A5%9E%E5%BA%99%E2%80%9D%E9%87%8D%E6%96%B0%E5%BC%80%E6%94%BE"
+                },
+                {
+                  "platform": "小红书",
+                  "type": "站内话题",
+                  "kind": "topic",
+                  "title": "小红书笔记：“天下第一财神庙”重新开放",
+                  "url": "https://www.xiaohongshu.com/search_result?keyword=%E2%80%9C%E5%A4%A9%E4%B8%8B%E7%AC%AC%E4%B8%80%E8%B4%A2%E7%A5%9E%E5%BA%99%E2%80%9D%E9%87%8D%E6%96%B0%E5%BC%80%E6%94%BE"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "edu",
+          "name": "教育规划",
+          "desc": "北京西城升学路径与政策解读 · 以当年官方发布为准",
+          "items": [
+            {
+              "id": "20261126-edu-1",
+              "title": "「731 政策」：2020 年 7 月 31 日是西城幼升小的分水岭",
+              "desc": "731 后在西城购房或迁入户籍的，孩子幼升小不再对应单一划片学校，全部以多校划片方式在学区或相邻学区入学；731 前购房的仍可单校划片。这是西城学区房最核心的一条时间线。",
+              "take": "买房时间点直接决定入学方式，比选哪个小区更要紧。",
+              "tags": [
+                "幼升小",
+                "731政策"
+              ],
+              "links": [
+                {
+                  "platform": "微信公众号",
+                  "type": "深度 / 解读",
+                  "kind": "article",
+                  "title": "2026 年西城区小升初完整指南",
+                  "url": "http://mp.weixin.qq.com/s?__biz=MzU5ODAzMzgyMA==&mid=2247485350&idx=1&sn=4b30e035077d8d780b35e08c24ef1f98&chksm=ffa781ca29eb3303aab20aedfae1c871ace8524229ca796cfd643b91e20165d65fc40be633d6#rd"
+                },
+                {
+                  "platform": "知乎",
+                  "type": "站内话题",
+                  "kind": "topic",
+                  "title": "知乎讨论：西城 731 政策",
+                  "url": "https://www.zhihu.com/search?type=content&q=%E8%A5%BF%E5%9F%8E%20731%E6%94%BF%E7%AD%96"
+                }
+              ]
+            },
+            {
+              "id": "20261126-edu-2",
+              "title": "多校划片的「三优先」：二孩顺位、房本早、父母房",
+              "desc": "731 后多校划片录取顺序：同一家庭二孩可直接顺位继承老大就读的学校；同类房产中房本取得时间越早越有优势；父母房优先于四老房（祖辈房）。2027 年起父母新购房可重新超越 731 前的四老房本。",
+              "take": "多校划片不是纯摇号，家庭房产结构本身就有先后手。",
+              "tags": [
+                "幼升小",
+                "多校划片"
+              ],
+              "links": [
+                {
+                  "platform": "微信公众号",
+                  "type": "深度 / 解读",
+                  "kind": "article",
+                  "title": "2026 年西城区小升初完整指南",
+                  "url": "http://mp.weixin.qq.com/s?__biz=MzU5ODAzMzgyMA==&mid=2247485350&idx=1&sn=4b30e035077d8d780b35e08c24ef1f98&chksm=ffa781ca29eb3303aab20aedfae1c871ace8524229ca796cfd643b91e20165d65fc40be633d6#rd"
+                }
+              ]
+            },
+            {
+              "id": "20261126-edu-3",
+              "title": "特色校、寄宿班与民办校：第二优先级的三类选择",
+              "desc": "与全区派位同批填报：特色校 6 所（回民学校、徐悲鸿美术、月坛日语、西城外国语多语种等）、寄宿校 3 所、民办校可兼报多所。特色校之间不可兼报，被多校同时初录只能确认 1 所且不可更改。",
+              "take": "有明确特长方向（外语、美术）的孩子，这一批次值得用足。",
+              "tags": [
+                "小升初",
+                "特色校"
+              ],
+              "links": [
+                {
+                  "platform": "微信公众号",
+                  "type": "深度 / 解读",
+                  "kind": "article",
+                  "title": "2026 年西城区小升初完整指南",
+                  "url": "http://mp.weixin.qq.com/s?__biz=MzU5ODAzMzgyMA==&mid=2247485350&idx=1&sn=4b30e035077d8d780b35e08c24ef1f98&chksm=ffa781ca29eb3303aab20aedfae1c871ace8524229ca796cfd643b91e20165d65fc40be633d6#rd"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "house",
+          "name": "安家置业",
+          "desc": "五路通周边改善盘档案与购房要点 · 仅供参考，不构成任何购房建议",
+          "items": [
+            {
+              "id": "20261126-house-1",
+              "title": "顶层与一层：折价是常态，但流动也最好",
+              "desc": "德胜 10 月 34 套成交里 12 套是顶层或一层，无电梯老楼六层顶折价最狠（低层需降价 10-15% 才能成交）。市场认这些房子，但折价也是真的——买它省下的钱，就是将来卖它要让出的利。",
+              "take": "自住能接受楼层，折价就是你的折扣；但别指望将来原价卖出。",
+              "tags": [
+                "楼层选择"
+              ],
+              "links": [
+                {
+                  "platform": "微信公众号",
+                  "type": "深度 / 解读",
+                  "kind": "article",
+                  "title": "德胜周记 · 每周成交复盘",
+                  "url": "http://mp.weixin.qq.com/s?__biz=MzI3NTAyMDA2Mg==&mid=2649152063&idx=1&sn=e00d5d0fb03e31949f81d5ef12ff3db8&chksm=f2805e4ae251e84bf675fe0d8e4ed52341801ebe829c6167a66ddd1ab9da28f6328b757cb14b#rd"
+                }
+              ]
+            },
+            {
+              "id": "20261126-house-2",
+              "title": "阳光丽景为什么能贵 2.8 万：次新 + 学区的稀缺组合",
+              "desc": "10 月阳光丽景成交 4 套、均价 13.26 万/㎡，比片区综合价高近 3 万。德胜绝大多数是老公房，成规模的次新商品房只有它——不靠走量靠稀缺。自住率 85%+，租客多为周边陪读家庭。",
+              "take": "判断改善盘价值就一句话：小区形态在整个片区里有多稀缺。",
+              "tags": [
+                "改善盘",
+                "定价逻辑"
+              ],
+              "links": [
+                {
+                  "platform": "微信公众号",
+                  "type": "深度 / 解读",
+                  "kind": "article",
+                  "title": "德胜学区 10 月成交全解码",
+                  "url": "http://mp.weixin.qq.com/s?__biz=MzYyMjk1MTI3NQ==&mid=2247484778&idx=1&sn=4667222b5bc802b00450b1c0930428d2&chksm=fef311f9b9b34fc1d6b043bcd957eec74792515e1c3d3389ce040693de1b40b75ab9bd7c712e#rd"
+                }
+              ]
+            },
+            {
+              "id": "20261126-house-3",
+              "title": "「以五路通为中心」的地毯式搜索圈层怎么画",
+              "desc": "第一圈：双旗杆东里、什坊街 2 号院、德外大街乙 12 号院等五路通直划片；第二圈：育翔、西师附小划片（同属德胜学区，派位池相同）；第三圈：阳光丽景等双划片次新盘。三圈房价差可到 4 万/㎡。",
+              "take": "先划圈再逐盘建档，比中介带着 random 看房效率高得多。",
+              "tags": [
+                "选盘方法"
+              ],
+              "links": [
+                {
+                  "platform": "贝壳",
+                  "type": "在售房源",
+                  "kind": "topic",
+                  "title": "贝壳在售：五路通",
+                  "url": "https://bj.ke.com/xiaoqu/rs%E4%BA%94%E8%B7%AF%E9%80%9A/"
+                },
+                {
+                  "platform": "今日头条",
+                  "type": "深度 / 解读",
+                  "kind": "article",
+                  "title": "德胜学区梯队及房价深度分析",
+                  "url": "https://m.toutiao.com/article/7703561980522611209"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
     {
       "date": "2026-11-25",
       "weekday": "周三",
