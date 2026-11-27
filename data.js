@@ -48,8 +48,481 @@
    =========================================================== */
 
 window.NEWS_DATA = {
-  "updatedAt": "2026-11-26 01:07",
+  "updatedAt": "2026-11-27 01:14",
   "editions": [
+    {
+      "date": "2026-11-27",
+      "weekday": "周五",
+      "issue": 13,
+      "updatedAt": "2026-11-27 01:14",
+      "mode": "auto",
+      "sections": [
+        {
+          "id": "ai",
+          "name": "人工智能",
+          "desc": "模型迭代、算力格局与产品落地",
+          "items": [
+            {
+              "id": "20261127-ai-1",
+              "title": "直播 25 天训出一个模型，五项登顶，一群 00 后的 Physical AI 实验",
+              "desc": "聊聊榜单之外的 Motubrain 2.0，和它背后那支不太一样的团队。 作者丨 齐铖湧 编辑丨岑 峰 近日，行业独角兽企业 生数科技 正式发布 Motubrain 2.0，并宣布将于近期开源。 这次发布包括一个 20B 参数的世界动作模型。",
+              "take": "",
+              "tags": [
+                "雷锋网"
+              ],
+              "links": [
+                {
+                  "platform": "雷锋网",
+                  "type": "原文",
+                  "kind": "article",
+                  "title": "直播 25 天训出一个模型，五项登顶，一群 00 后的 Physical AI ",
+                  "url": "https://www.leiphone.com/category/ai/0DEts3fxmZTZ7ojp.html"
+                },
+                {
+                  "platform": "知乎",
+                  "type": "站内话题",
+                  "kind": "topic",
+                  "title": "知乎讨论：直播 25 天训出一个模型，五项登顶，一",
+                  "url": "https://www.zhihu.com/search?type=content&q=%E7%9B%B4%E6%92%AD%2025%20%E5%A4%A9%E8%AE%AD%E5%87%BA%E4%B8%80%E4%B8%AA%E6%A8%A1%E5%9E%8B%20%E4%BA%94%E9%A1%B9%E7%99%BB%E9%A1%B6%20%E4%B8%80%E7%BE%A4%2000"
+                },
+                {
+                  "platform": "小红书",
+                  "type": "站内话题",
+                  "kind": "topic",
+                  "title": "小红书笔记：直播 25 天训出一个模型，五项登顶，一",
+                  "url": "https://www.xiaohongshu.com/search_result?keyword=%E7%9B%B4%E6%92%AD%2025%20%E5%A4%A9%E8%AE%AD%E5%87%BA%E4%B8%80%E4%B8%AA%E6%A8%A1%E5%9E%8B%20%E4%BA%94%E9%A1%B9%E7%99%BB%E9%A1%B6%20%E4%B8%80%E7%BE%A4%2000"
+                }
+              ]
+            },
+            {
+              "id": "20261127-ai-2",
+              "title": "微软发布 Visual Studio Code 1.148：电脑可在智能体运行时保持唤醒",
+              "desc": "IT之家 11 月 27 日消息，当地时间 25 日，微软推出 Visual Studio Code 1.148，进一步完善了应用的 AI 功能，重点优化智能体的使用体验。本次更新最受关注的新功能，是允许 AI 智能体工作时阻止电脑自动进入。",
+              "take": "",
+              "tags": [
+                "IT之家"
+              ],
+              "links": [
+                {
+                  "platform": "IT之家",
+                  "type": "原文",
+                  "kind": "article",
+                  "title": "微软发布 Visual Studio Code 1.148：电脑可在智能体运行时",
+                  "url": "https://www.ithome.com/1/033/155.htm"
+                },
+                {
+                  "platform": "知乎",
+                  "type": "站内话题",
+                  "kind": "topic",
+                  "title": "知乎讨论：微软发布 Visual Studio C",
+                  "url": "https://www.zhihu.com/search?type=content&q=%E5%BE%AE%E8%BD%AF%E5%8F%91%E5%B8%83%20Visual%20Studio%20Code%20"
+                },
+                {
+                  "platform": "小红书",
+                  "type": "站内话题",
+                  "kind": "topic",
+                  "title": "小红书笔记：微软发布 Visual Studio C",
+                  "url": "https://www.xiaohongshu.com/search_result?keyword=%E5%BE%AE%E8%BD%AF%E5%8F%91%E5%B8%83%20Visual%20Studio%20Code%20"
+                }
+              ]
+            },
+            {
+              "id": "20261127-ai-3",
+              "title": "顶尖商用级AI视频每秒只要5毛！中国开源新势力拿下全球第一",
+              "desc": "来自量子位的热点：顶尖商用级AI视频每秒只要5毛！中国开源新势力拿下全球第一。",
+              "take": "",
+              "tags": [
+                "量子位"
+              ],
+              "links": [
+                {
+                  "platform": "量子位",
+                  "type": "原文",
+                  "kind": "article",
+                  "title": "顶尖商用级AI视频每秒只要5毛！中国开源新势力拿下全球第一",
+                  "url": "https://www.qbitai.com/2026/11/512916.html"
+                },
+                {
+                  "platform": "知乎",
+                  "type": "站内话题",
+                  "kind": "topic",
+                  "title": "知乎讨论：顶尖商用级AI视频每秒只要5毛！中国开源",
+                  "url": "https://www.zhihu.com/search?type=content&q=%E9%A1%B6%E5%B0%96%E5%95%86%E7%94%A8%E7%BA%A7AI%E8%A7%86%E9%A2%91%E6%AF%8F%E7%A7%92%E5%8F%AA%E8%A6%815%E6%AF%9B%20%E4%B8%AD%E5%9B%BD%E5%BC%80%E6%BA%90%E6%96%B0%E5%8A%BF%E5%8A%9B%E6%8B%BF"
+                },
+                {
+                  "platform": "小红书",
+                  "type": "站内话题",
+                  "kind": "topic",
+                  "title": "小红书笔记：顶尖商用级AI视频每秒只要5毛！中国开源",
+                  "url": "https://www.xiaohongshu.com/search_result?keyword=%E9%A1%B6%E5%B0%96%E5%95%86%E7%94%A8%E7%BA%A7AI%E8%A7%86%E9%A2%91%E6%AF%8F%E7%A7%92%E5%8F%AA%E8%A6%815%E6%AF%9B%20%E4%B8%AD%E5%9B%BD%E5%BC%80%E6%BA%90%E6%96%B0%E5%8A%BF%E5%8A%9B%E6%8B%BF"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "social",
+          "name": "社会热点",
+          "desc": "当日讨论量最高、且仍有后续的公共事件",
+          "items": [
+            {
+              "id": "20261127-social-1",
+              "title": "国字号男足时隔21年世界杯出线",
+              "desc": "来自百度热搜的热点：国字号男足时隔21年世界杯出线。",
+              "take": "",
+              "tags": [
+                "百度热搜"
+              ],
+              "links": [
+                {
+                  "platform": "百度热搜",
+                  "type": "原文",
+                  "kind": "article",
+                  "title": "国字号男足时隔21年世界杯出线",
+                  "url": "https://m.baidu.com/s?word=%E5%9B%BD%E5%AD%97%E5%8F%B7%E7%94%B7%E8%B6%B3%E6%97%B6%E9%9A%9421%E5%B9%B4%E4%B8%96%E7%95%8C%E6%9D%AF%E5%87%BA%E7%BA%BF&sa=fyb_news"
+                },
+                {
+                  "platform": "知乎",
+                  "type": "站内话题",
+                  "kind": "topic",
+                  "title": "知乎讨论：国字号男足时隔21年世界杯出线",
+                  "url": "https://www.zhihu.com/search?type=content&q=%E5%9B%BD%E5%AD%97%E5%8F%B7%E7%94%B7%E8%B6%B3%E6%97%B6%E9%9A%9421%E5%B9%B4%E4%B8%96%E7%95%8C%E6%9D%AF%E5%87%BA%E7%BA%BF"
+                },
+                {
+                  "platform": "小红书",
+                  "type": "站内话题",
+                  "kind": "topic",
+                  "title": "小红书笔记：国字号男足时隔21年世界杯出线",
+                  "url": "https://www.xiaohongshu.com/search_result?keyword=%E5%9B%BD%E5%AD%97%E5%8F%B7%E7%94%B7%E8%B6%B3%E6%97%B6%E9%9A%9421%E5%B9%B4%E4%B8%96%E7%95%8C%E6%9D%AF%E5%87%BA%E7%BA%BF"
+                }
+              ]
+            },
+            {
+              "id": "20261127-social-2",
+              "title": "今起电视开机广告没了",
+              "desc": "来自百度热搜的热点：今起电视开机广告没了。",
+              "take": "",
+              "tags": [
+                "百度热搜"
+              ],
+              "links": [
+                {
+                  "platform": "百度热搜",
+                  "type": "原文",
+                  "kind": "article",
+                  "title": "今起电视开机广告没了",
+                  "url": "https://m.baidu.com/s?word=%E4%BB%8A%E8%B5%B7%E7%94%B5%E8%A7%86%E5%BC%80%E6%9C%BA%E5%B9%BF%E5%91%8A%E6%B2%A1%E4%BA%86&sa=fyb_news"
+                },
+                {
+                  "platform": "知乎",
+                  "type": "站内话题",
+                  "kind": "topic",
+                  "title": "知乎讨论：今起电视开机广告没了",
+                  "url": "https://www.zhihu.com/search?type=content&q=%E4%BB%8A%E8%B5%B7%E7%94%B5%E8%A7%86%E5%BC%80%E6%9C%BA%E5%B9%BF%E5%91%8A%E6%B2%A1%E4%BA%86"
+                },
+                {
+                  "platform": "小红书",
+                  "type": "站内话题",
+                  "kind": "topic",
+                  "title": "小红书笔记：今起电视开机广告没了",
+                  "url": "https://www.xiaohongshu.com/search_result?keyword=%E4%BB%8A%E8%B5%B7%E7%94%B5%E8%A7%86%E5%BC%80%E6%9C%BA%E5%B9%BF%E5%91%8A%E6%B2%A1%E4%BA%86"
+                }
+              ]
+            },
+            {
+              "id": "20261127-social-3",
+              "title": "从世界经济版图看中国经济之韧",
+              "desc": "来自百度热搜的热点：从世界经济版图看中国经济之韧。",
+              "take": "",
+              "tags": [
+                "百度热搜"
+              ],
+              "links": [
+                {
+                  "platform": "百度热搜",
+                  "type": "原文",
+                  "kind": "article",
+                  "title": "从世界经济版图看中国经济之韧",
+                  "url": "https://m.baidu.com/s?word=%E4%BB%8E%E4%B8%96%E7%95%8C%E7%BB%8F%E6%B5%8E%E7%89%88%E5%9B%BE%E7%9C%8B%E4%B8%AD%E5%9B%BD%E7%BB%8F%E6%B5%8E%E4%B9%8B%E9%9F%A7&sa=fyb_news"
+                },
+                {
+                  "platform": "知乎",
+                  "type": "站内话题",
+                  "kind": "topic",
+                  "title": "知乎讨论：从世界经济版图看中国经济之韧",
+                  "url": "https://www.zhihu.com/search?type=content&q=%E4%BB%8E%E4%B8%96%E7%95%8C%E7%BB%8F%E6%B5%8E%E7%89%88%E5%9B%BE%E7%9C%8B%E4%B8%AD%E5%9B%BD%E7%BB%8F%E6%B5%8E%E4%B9%8B%E9%9F%A7"
+                },
+                {
+                  "platform": "小红书",
+                  "type": "站内话题",
+                  "kind": "topic",
+                  "title": "小红书笔记：从世界经济版图看中国经济之韧",
+                  "url": "https://www.xiaohongshu.com/search_result?keyword=%E4%BB%8E%E4%B8%96%E7%95%8C%E7%BB%8F%E6%B5%8E%E7%89%88%E5%9B%BE%E7%9C%8B%E4%B8%AD%E5%9B%BD%E7%BB%8F%E6%B5%8E%E4%B9%8B%E9%9F%A7"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "meme",
+          "name": "网络热梗",
+          "desc": "正在刷屏的句式、梗图与自嘲标签",
+          "items": [
+            {
+              "id": "20261127-meme-1",
+              "title": "网友爆料小米YU7车型前视摄像头集中故障，行车录像无法录制，前向防碰撞失效，是批次质量问题吗",
+              "desc": "[5 张图片]。",
+              "take": "",
+              "tags": [
+                "知乎热榜"
+              ],
+              "links": [
+                {
+                  "platform": "知乎热榜",
+                  "type": "原文",
+                  "kind": "article",
+                  "title": "网友爆料小米YU7车型前视摄像头集中故障，行车录像无法录制，前向防碰撞失效，是批",
+                  "url": "https://www.zhihu.com/question/2109256447582266600"
+                },
+                {
+                  "platform": "知乎",
+                  "type": "站内话题",
+                  "kind": "topic",
+                  "title": "知乎讨论：网友爆料小米YU7车型前视摄像头集中故障",
+                  "url": "https://www.zhihu.com/search?type=content&q=%E7%BD%91%E5%8F%8B%E7%88%86%E6%96%99%E5%B0%8F%E7%B1%B3YU7%E8%BD%A6%E5%9E%8B%E5%89%8D%E8%A7%86%E6%91%84%E5%83%8F%E5%A4%B4%E9%9B%86%E4%B8%AD%E6%95%85%E9%9A%9C%20%E8%A1%8C%E8%BD%A6%E5%BD%95"
+                },
+                {
+                  "platform": "小红书",
+                  "type": "站内话题",
+                  "kind": "topic",
+                  "title": "小红书笔记：网友爆料小米YU7车型前视摄像头集中故障",
+                  "url": "https://www.xiaohongshu.com/search_result?keyword=%E7%BD%91%E5%8F%8B%E7%88%86%E6%96%99%E5%B0%8F%E7%B1%B3YU7%E8%BD%A6%E5%9E%8B%E5%89%8D%E8%A7%86%E6%91%84%E5%83%8F%E5%A4%B4%E9%9B%86%E4%B8%AD%E6%95%85%E9%9A%9C%20%E8%A1%8C%E8%BD%A6%E5%BD%95"
+                }
+              ]
+            },
+            {
+              "id": "20261127-meme-2",
+              "title": "大河奔涌启新章",
+              "desc": "来自百度热搜的热点：大河奔涌启新章。",
+              "take": "",
+              "tags": [
+                "百度热搜"
+              ],
+              "links": [
+                {
+                  "platform": "百度热搜",
+                  "type": "原文",
+                  "kind": "article",
+                  "title": "大河奔涌启新章",
+                  "url": "https://m.baidu.com/s?word=%E5%A4%A7%E6%B2%B3%E5%A5%94%E6%B6%8C%E5%90%AF%E6%96%B0%E7%AB%A0&sa=fyb_news"
+                },
+                {
+                  "platform": "知乎",
+                  "type": "站内话题",
+                  "kind": "topic",
+                  "title": "知乎讨论：大河奔涌启新章",
+                  "url": "https://www.zhihu.com/search?type=content&q=%E5%A4%A7%E6%B2%B3%E5%A5%94%E6%B6%8C%E5%90%AF%E6%96%B0%E7%AB%A0"
+                },
+                {
+                  "platform": "小红书",
+                  "type": "站内话题",
+                  "kind": "topic",
+                  "title": "小红书笔记：大河奔涌启新章",
+                  "url": "https://www.xiaohongshu.com/search_result?keyword=%E5%A4%A7%E6%B2%B3%E5%A5%94%E6%B6%8C%E5%90%AF%E6%96%B0%E7%AB%A0"
+                }
+              ]
+            },
+            {
+              "id": "20261127-meme-3",
+              "title": "U17世界杯男足小组赛，中国U17男足 8-0 斐济U17男足，如何评价本场比赛？",
+              "desc": "来自知乎热榜的热点：U17世界杯男足小组赛，中国U17男足 8-0 斐济U17男足，如何评价本场比赛？",
+              "take": "",
+              "tags": [
+                "知乎热榜"
+              ],
+              "links": [
+                {
+                  "platform": "知乎热榜",
+                  "type": "原文",
+                  "kind": "article",
+                  "title": "U17世界杯男足小组赛，中国U17男足 8-0 斐济U17男足，如何评价本场比赛",
+                  "url": "https://www.zhihu.com/question/2109332098678879700"
+                },
+                {
+                  "platform": "知乎",
+                  "type": "站内话题",
+                  "kind": "topic",
+                  "title": "知乎讨论：U17世界杯男足小组赛，中国U17男足 ",
+                  "url": "https://www.zhihu.com/search?type=content&q=U17%E4%B8%96%E7%95%8C%E6%9D%AF%E7%94%B7%E8%B6%B3%E5%B0%8F%E7%BB%84%E8%B5%9B%20%E4%B8%AD%E5%9B%BDU17%E7%94%B7%E8%B6%B3%208-0%20"
+                },
+                {
+                  "platform": "小红书",
+                  "type": "站内话题",
+                  "kind": "topic",
+                  "title": "小红书笔记：U17世界杯男足小组赛，中国U17男足 ",
+                  "url": "https://www.xiaohongshu.com/search_result?keyword=U17%E4%B8%96%E7%95%8C%E6%9D%AF%E7%94%B7%E8%B6%B3%E5%B0%8F%E7%BB%84%E8%B5%9B%20%E4%B8%AD%E5%9B%BDU17%E7%94%B7%E8%B6%B3%208-0%20"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "edu",
+          "name": "教育规划",
+          "desc": "北京西城升学路径与政策解读 · 以当年官方发布为准",
+          "items": [
+            {
+              "id": "20261127-edu-1",
+              "title": "西城小升初六大途径的录取顺序，一次填报全部生效",
+              "desc": "所有入学意向 5 月下旬一次性同时填报，按顺序录取：全区派位 → 特色/寄宿/民办 → 对口直升 → 学区登记 → 学区派位。前一批次录取后，后面批次自动作废。理解顺序是填志愿的前提。",
+              "take": "全区派位是「冲高」机会，一旦命中后面志愿全部作废，顺序要按真实意愿排。",
+              "tags": [
+                "小升初",
+                "志愿填报"
+              ],
+              "links": [
+                {
+                  "platform": "小升初信息网",
+                  "type": "深度 / 解读",
+                  "kind": "article",
+                  "title": "2026 西城小升初新政全解析",
+                  "url": "https://www.xscxx.com/xiaoshengchu/xcqxsc/2026040813504.html"
+                }
+              ]
+            },
+            {
+              "id": "20261127-edu-2",
+              "title": "全区派位：西城小升初的第一优先级，2026 年扩招 1200 人",
+              "desc": "全区派位可自愿填 1-5 所全区任意初中，不看学区。2026 年总计划 6010 人，较上年扩招超 25%：十三分什刹海校区 +320、一六一广安分校 +160、四中道元 +80、三帆 +70、北师大附中 +80。",
+              "take": "名额多的学校中签概率相对高，这是普通学区内孩子进优质初中最公平的一扇门。",
+              "tags": [
+                "小升初",
+                "全区派位"
+              ],
+              "links": [
+                {
+                  "platform": "北京小升初网",
+                  "type": "深度 / 解读",
+                  "kind": "article",
+                  "title": "西城小升初全区派位招生计划汇总",
+                  "url": "https://www.xschu.com/zhengcezixun/88628.html"
+                }
+              ]
+            },
+            {
+              "id": "20261127-edu-3",
+              "title": "非京籍家庭在西城：四证审核与工作居住证新规",
+              "desc": "非京籍入学需通过四证审核（就业、住所、户口簿、居住证明）。2026 年北京工作居住证社保要求缩短至 3-12 个月，部分学历可凭中级职称申请。非京籍在西城小升初与京籍同平台填报，但住房产多校划片规则一致。",
+              "take": "非京籍家庭的关键词是「提前一年准备材料」，临到报名再办基本来不及。",
+              "tags": [
+                "非京籍"
+              ],
+              "links": [
+                {
+                  "platform": "北京中考信息网",
+                  "type": "深度 / 解读",
+                  "kind": "article",
+                  "title": "2026 北京小升初热点汇总",
+                  "url": "https://www.zhongkaobj.cn/zhaosheng/tcszs/2025050713469.html"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "house",
+          "name": "安家置业",
+          "desc": "五路通周边改善盘档案与购房要点 · 仅供参考，不构成任何购房建议",
+          "items": [
+            {
+              "id": "20261127-house-1",
+              "title": "德外大街乙 12 号院：五路通划片的价格洼地样本",
+              "desc": "五路通小学划片内价格较低的社区，2026 年单价约 9.9 万/㎡（高点跌约 43%）。楼龄老、临街户型多，但总价门槛在五路通划片里相对友好，适合预算有限、认准划片池的家庭。",
+              "take": "洼地=有理由的便宜，实地确认硬伤可接受，它就是性价比。",
+              "tags": [
+                "五路通划片",
+                "价格洼地"
+              ],
+              "links": [
+                {
+                  "platform": "贝壳",
+                  "type": "在售房源",
+                  "kind": "topic",
+                  "title": "贝壳在售：德外大街乙12号院",
+                  "url": "https://bj.ke.com/xiaoqu/rs%E5%BE%B7%E5%A4%96%E5%A4%A7%E8%A1%97%E4%B9%9912%E5%8F%B7%E9%99%A2/"
+                },
+                {
+                  "platform": "今日头条",
+                  "type": "深度 / 解读",
+                  "kind": "article",
+                  "title": "德胜学区梯队及房价深度分析",
+                  "url": "https://m.toutiao.com/article/7703561980522611209"
+                }
+              ]
+            },
+            {
+              "id": "20261127-house-2",
+              "title": "阳光丽景：德胜少有的次新商品房，改善绕不开的小区",
+              "desc": "黄寺大街 23 号院，首创开发，2002-2008 年分期建成，7 栋 2063 户，容积率 2.8、绿化率 40%，车位比 1:0.8。主力三居 130-148㎡，另有二居 92-112㎡。育翔/西师附小双划片，10 月成交单价约 13.3 万/㎡。",
+              "take": "德胜老公房占绝对多数，想要「学区 + 居住品质」，它几乎没对手——稀缺就是溢价。",
+              "tags": [
+                "改善盘",
+                "次新房"
+              ],
+              "links": [
+                {
+                  "platform": "贝壳",
+                  "type": "深度 / 解读",
+                  "kind": "article",
+                  "title": "阳光丽景小区楼书档案",
+                  "url": "https://m.ke.com/news/bj/xiaoqu/1111027381668.html"
+                },
+                {
+                  "platform": "贝壳",
+                  "type": "在售房源",
+                  "kind": "topic",
+                  "title": "贝壳在售：阳光丽景",
+                  "url": "https://bj.ke.com/xiaoqu/rs%E9%98%B3%E5%85%89%E4%B8%BD%E6%99%AF/"
+                },
+                {
+                  "platform": "微信公众号",
+                  "type": "深度 / 解读",
+                  "kind": "article",
+                  "title": "德胜学区 10 月成交全解码",
+                  "url": "http://mp.weixin.qq.com/s?__biz=MzYyMjk1MTI3NQ==&mid=2247484778&idx=1&sn=4667222b5bc802b00450b1c0930428d2&chksm=fef311f9b9b34fc1d6b043bcd957eec74792515e1c3d3389ce040693de1b40b75ab9bd7c712e#rd"
+                }
+              ]
+            },
+            {
+              "id": "20261127-house-3",
+              "title": "新风街 1 号院：2000 年央产大三居，德胜的「能住的老房」",
+              "desc": "2000 年央产房社区，高楼层正规三居 112㎡ 成交约 12.5 万/㎡、总价 1400 万级，满五唯一。德胜不缺老破小，缺的是楼体、户型、采光都站得住的「能住的老房」，这类房源一年出不了几套。",
+              "take": "高总价老房能撑住单价，靠的不是学区而是稀缺的居住品质。",
+              "tags": [
+                "改善盘",
+                "大三居"
+              ],
+              "links": [
+                {
+                  "platform": "贝壳",
+                  "type": "在售房源",
+                  "kind": "topic",
+                  "title": "贝壳在售：新风街1号院",
+                  "url": "https://bj.ke.com/xiaoqu/rs%E6%96%B0%E9%A3%8E%E8%A1%971%E5%8F%B7%E9%99%A2/"
+                },
+                {
+                  "platform": "微信公众号",
+                  "type": "深度 / 解读",
+                  "kind": "article",
+                  "title": "德胜周记 · 每周成交复盘",
+                  "url": "http://mp.weixin.qq.com/s?__biz=MzI3NTAyMDA2Mg==&mid=2649152063&idx=1&sn=e00d5d0fb03e31949f81d5ef12ff3db8&chksm=f2805e4ae251e84bf675fe0d8e4ed52341801ebe829c6167a66ddd1ab9da28f6328b757cb14b#rd"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
     {
       "date": "2026-11-26",
       "weekday": "周四",
